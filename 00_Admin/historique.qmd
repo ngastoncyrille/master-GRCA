@@ -1,0 +1,48 @@
+---
+title: "Informations générales sur le Master de spécialisation en Gestion des Risques et des Catastrophes"
+keywords: ["Master", "GRCA", "ARES", "ULiège", "Historique", "Pédagogie"]
+---
+
+## Contexte de création et vision originale
+
+Le Master de spécialisation en **Gestion des Risques et des Catastrophes à l'ère de l'Anthropocène (GRCA)** a été conçu pour répondre à des défis mondiaux inédits, notamment les changements climatiques, l'effondrement de la biodiversité, les crises migratoires et les tensions socio-économiques. Il vise à former des professionnels capables d'intégrer une approche *systémique* et *prospective* dans la gestion des risques, tant au Nord qu'au Sud.
+
+Porté par une vision interdisciplinaire, ce programme a été développé pour :
+
+-   Anticiper les conséquences des politiques actuelles sur l'habitabilité de la Terre ;
+
+-   Former des experts capables d'intervenir dans des contextes de crises complexes ;
+
+-   Promouvoir une gestion des risques fondée sur la collaboration interdisciplinaire et l'intelligence collective.
+
+## Description de la faculté hôte
+
+Le master est organisé au sein du **Département des Sciences et Gestion de l'Environnement** de la **Faculté des Sciences de l'Université de Liège**, basé sur le **Campus Environnement d'Arlon**. Ce département dispose d'une expertise reconnue dans les domaines de l'environnement, des risques et de la transition écologique.
+
+```{r}
+#| echo: false
+#| fig-cap: "Présentation des campus de l’Université de Liège."
+#| fig-align: center
+#| out-width: 80%
+
+knitr::include_graphics("images/Uliege.png")
+```
+
+Le campus d'Arlon est situé dans le sud de la Belgique, au centre de la ville d'Arlon, chef-lieu de la province de Luxembourg. Arlon bénéficie d'une position stratégique au cœur de la Grande-Région, à 130 km de Liège, à un jet de pierres du Grand-Duché de Luxembourg (à moins de 30 km de Luxembourg-Ville), de la France (à 90 km de Metz), et à 75 km de Trèves en Allemagne.
+
+```{r}
+#| echo: false
+#| fig-cap: "Carte de la Belgique."
+#| fig-align: center
+#| out-width: 80%
+
+knitr::include_graphics("images/carte_de_la_belgique.jpg")
+```
+
+Lancé il y a plus de 20 ans, il est inscrit dans le cadre des programmes de l'Académie de Recherche et d'Enseignement Supérieur (ARES), destinés notamment aux étudiants des pays du Sud. Il est Co-organisé par l'Université de Liège (ULiège) et l'Université de Namur (UNamur).
+
+
+## Références
+
+-   [Site officiel du master](https://www.programmes.uliege.be/cocoon/20252026/formations/bref/S3RISQ01.html)
+-   [Présentation ARES](https://www.ares-ac.be/fr/cooperation-au-developpement/bourses/ressortissants-sud/masters/136-master-de-specialisation-en-gestion-des-risques-et-des-catastrophes-a-l-ere-de-l-anthropocene)

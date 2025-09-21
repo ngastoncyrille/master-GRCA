@@ -1,0 +1,7 @@
+---
+title: "Burkina Faso – Applications par cours"
+tags: ["pays","Burkina Faso","applications"]
+application_bf: true
+---
+
+Relier chaque cours à une étude de cas, base de données, ou outil opérationnel.

@@ -1,0 +1,37 @@
+---
+title: " Rôles des systèmes d'information géographique et des techniques géomatiques dans la gestion des risques et catastrophes"
+enseignants: ["Antoine Denis", "Yvon Hountondji"]
+course_code: ""
+date: "today"
+keywords: ["GRCA","cours"]
+application_bf: false
+tags: ["cours"]
+sdg_links: ["ODD11","ODD13"]
+---
+
+## Objectifs du module
+
+- …
+
+## Plan de cours
+
+1. …
+
+## Notes de cours (structurées)
+
+### Résumé
+…
+
+### Points clés
+- …
+
+### Méthodes / Outils
+- …
+
+## Application Burkina Faso
+
+Décrire une étude de cas, des jeux de données, ou des pistes d'adaptation pour le BF.
+
+## Bibliographie commentée
+
+- Auteur (année). *Titre*. **Résumé** : …

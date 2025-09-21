@@ -1,0 +1,7 @@
+---
+title: "Networking & collaborations"
+tags: ["opportunites","reseau"]
+application_bf: true
+---
+
+Pistes de collaboration académique et opérationnelle.

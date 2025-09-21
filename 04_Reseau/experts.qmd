@@ -1,0 +1,9 @@
+---
+title: "Experts invités – Carnet d'adresses"
+tags: ["reseau","experts"]
+application_bf: true
+---
+
+| Nom | Institution | Spécialité | Email | Liens |
+|-----|-------------|------------|-------|-------|
+| …   | …           | …          | …     | ORCID/GS/LinkedIn |

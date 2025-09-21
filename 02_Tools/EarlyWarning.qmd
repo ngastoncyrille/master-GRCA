@@ -1,0 +1,7 @@
+---
+title: "EWS – Systèmes d'alerte précoce"
+tags: ["outils","EWS"]
+application_bf: true
+---
+
+Concepts, architectures, exemples BF (inondations, sécheresses).

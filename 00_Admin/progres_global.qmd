@@ -1,0 +1,28 @@
+---
+title: "Suivi global d'avancement"
+format: html
+page-layout: full
+filters: []
+---
+
+```{{r}}
+#| warning: false
+#| message: false
+#| label: setup
+# Chargement et affichage du tableau de suivi
+if (requireNamespace("readr", quietly = TRUE)) {
+  prog <- tryCatch(readr::read_csv("00_Admin/progres.csv", show_col_types = FALSE),
+                   error = function(e) NULL)
+  if (!is.null(prog)) {
+    if (requireNamespace("gt", quietly = TRUE)) {
+      gt::gt(prog)
+    } else {
+      prog
+    }
+  } else {
+    "Initialisez 00_Admin/progres.csv pour afficher le suivi."
+  }
+} else {
+  "Installez 'readr' pour lire 00_Admin/progres.csv"
+}
+```

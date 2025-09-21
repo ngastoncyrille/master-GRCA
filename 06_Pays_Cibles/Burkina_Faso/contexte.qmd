@@ -1,0 +1,7 @@
+---
+title: "Burkina Faso – Contexte & vulnérabilités"
+tags: ["pays","Burkina Faso"]
+application_bf: true
+---
+
+Indicateurs clés, cadre institutionnel, risques majeurs, données disponibles.

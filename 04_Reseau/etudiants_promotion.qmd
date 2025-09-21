@@ -1,0 +1,7 @@
+---
+title: "Promotion – Répertoire"
+tags: ["reseau","promotion"]
+application_bf: true
+---
+
+Liste des collègues, intérêts, compétences, contacts.

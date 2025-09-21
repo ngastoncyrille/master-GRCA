@@ -1,0 +1,7 @@
+---
+title: "Veille – Articles scientifiques"
+tags: ["veille","articles"]
+application_bf: true
+---
+
+Noter les papiers clés, tendances, et résumés.

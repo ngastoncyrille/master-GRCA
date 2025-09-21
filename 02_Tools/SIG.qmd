@@ -1,0 +1,7 @@
+---
+title: "SIG – Workflows reproductibles"
+tags: ["outils","SIG"]
+application_bf: true
+---
+
+Chaines `sf`, `terra`, `mapview`, `tmap` pour analyses spatiales.

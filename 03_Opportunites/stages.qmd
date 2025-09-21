@@ -1,0 +1,7 @@
+---
+title: "Stages"
+tags: ["opportunites","stages"]
+application_bf: true
+---
+
+Liste d'opportunités de stage avec critères, contacts, deadlines.

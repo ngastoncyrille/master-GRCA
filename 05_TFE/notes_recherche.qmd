@@ -1,0 +1,7 @@
+---
+title: "TFE – Notes de recherche"
+tags: ["TFE","notes"]
+application_bf: true
+---
+
+Consigner les résultats intermédiaires, hypothèses, tests.

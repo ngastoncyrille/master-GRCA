@@ -1,0 +1,12 @@
+---
+title: "TFE – Plan de travail"
+tags: ["TFE","planning"]
+application_bf: true
+---
+
+## Jalons & Gantt (indicatif)
+- Revue littérature
+- Acquisition données
+- Analyses
+- Rédaction
+- Soutenance

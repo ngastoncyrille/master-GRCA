@@ -1,0 +1,5 @@
+---
+title: "Mali – Notes"
+tags: ["pays","Mali"]
+application_bf: false
+---

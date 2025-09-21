@@ -1,0 +1,75 @@
+---
+title: "Introduction aux risques et catastrophes à l'ère de l'Anthropocène"
+enseignants: ["Nicolas Dendoncker", "Pierre Ozer"]
+course_code: ""
+date: "2025-08-24"
+keywords: ["GRCA","cours"]
+application_bf: false
+tags: ["cours"]
+sdg_links: ["ODD11","ODD13"]
+---
+
+Ce module est intégré dans le bloc 1 : **enseignement pluridisciplinaire relatif aux risques et catastrophes à l'ère de l'Anthropocène**. Repartir en deux *partim*, il a une durée de *36 h* et compte pour 3 crédits :
+
+- Partim 1 : une approche systémique (24h Th) : enseignant  Nicolas DENDONCKER et Pierre OZER.
+- Partim 2 : introduction aux notions de base (12h Th).
+
+## Partim 1 : Une approche systémique
+
+Ce cours offre une introduction approfondie à toute la formation spécialisée en gestion des risques et des catastrophes à l'ère de l'Anthropocène, en combinant théorie, études de cas, séminaires invités et retours d'expérience.
+
+Le cours vise à former les étudiantes à une capacité d'analyse systémique et critique des interactions entre facteurs environnementaux, sociaux et économiques, et contextes d'inégalités, afin de les préparer à concevoir des stratégies d'adaptation et de résilience adaptées aux territoires et aux populations concernées.
+
+En s'appuyant sur une approche interdisciplinaire et multiscalaire, le cours propose une analyse approfondie des mécanismes par lesquels les transformations environnementales (pollution, changement climatique, dégradation des écosystèmes, etc.) affectent différemment les populations selon leur position sociale, leur lieu de vie, et leur niveau de vulnérabilité.
+
+### Objectifs du module
+
+À l'issue de ce cours, les étudiantes seront capables de :
+
+- Comprendre et mobiliser des concepts clés
+
+Identifier et expliquer les notions fondamentales liées aux risques et catastrophes à l'ère de l'Anthropocène (vulnérabilité, adaptation, résilience, justice environnementale, pollution, etc.).
+
+Mobiliser des cadres théoriques issus des sciences de l'environnement, des sciences sociales et de la géographie pour analyser les interactions entre environnement et risques.
+
+- Analyser de manière critique les situations de risques et de catastrophes à l'ère de l'Anthropocène
+
+Élaborer une lecture systémique et multiscalaire des facteurs de risque (locaux, globaux, structurels).
+
+Identifier les dynamiques d'inégalités sociales et territoriales en matière d'exposition, de vulnérabilité et d'accès aux ressources.
+
+- Évaluer les réponses institutionnelles et sociétales
+
+Analyser les stratégies d'adaptation et de résilience mises en place par différents acteurs (États, collectivités, ONG, communautés locales).
+
+Évaluer de manière critique les politiques publiques et les cadres de gouvernance des risques, en questionnant les rapports de pouvoir et les logiques d'exclusion.
+
+- Développer des compétences pratiques et réflexives
+
+Formuler des recommandations ou des pistes d'intervention prenant en compte la complexité des contextes territoriaux et sociaux.
+
+Adopter une posture réflexive sur son propre rôle en tant que future professionnelle engagée dans les questions de gestion des risques et catastrophes à l'ère de l'Anthropocène.
+
+
+### Notes de cours (structurées)
+ggg
+
+### Résumé
+
+…
+
+### Points clés
+
+-   …
+
+### Méthodes / Outils
+
+-   …
+
+## Application Burkina Faso
+
+Décrire une étude de cas, des jeux de données, ou des pistes d'adaptation pour le BF.
+
+## Bibliographie commentée
+
+-   Auteur (année). *Titre*. **Résumé** : …

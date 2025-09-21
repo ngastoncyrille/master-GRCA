@@ -1,0 +1,7 @@
+---
+title: "R – Notions & recettes utiles"
+tags: ["outils","R"]
+application_bf: true
+---
+
+Snippets pour import, nettoyage, visualisation, reporting (Quarto).

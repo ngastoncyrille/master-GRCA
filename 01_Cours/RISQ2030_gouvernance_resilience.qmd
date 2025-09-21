@@ -1,0 +1,37 @@
+---
+title: "Gouvernance, planification d'urgence, résilience et adaptation – REX"
+enseignants: ["Nicolas Antoine-Moussiaoux", "Florence de Longueville", "Pierre Ozer", "Dominique Perrin"]
+course_code: ""
+date: "2025-08-24"
+keywords: ["GRCA","cours"]
+application_bf: false
+tags: ["cours"]
+sdg_links: ["ODD11","ODD13"]
+---
+
+## Objectifs du module
+
+- …
+
+## Plan de cours
+
+1. …
+
+## Notes de cours (structurées)
+
+### Résumé
+…
+
+### Points clés
+- …
+
+### Méthodes / Outils
+- …
+
+## Application Burkina Faso
+
+Décrire une étude de cas, des jeux de données, ou des pistes d'adaptation pour le BF.
+
+## Bibliographie commentée
+
+- Auteur (année). *Titre*. **Résumé** : …

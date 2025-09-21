@@ -1,0 +1,7 @@
+---
+title: "TFE – Rédaction (draft)"
+tags: ["TFE","rédaction"]
+application_bf: true
+---
+
+Structure de rédaction Quarto (sections IMRaD recommandées).

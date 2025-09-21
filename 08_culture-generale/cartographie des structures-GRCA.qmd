@@ -1,0 +1,198 @@
+---
+title: "Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l'ère de l'Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l'Ouest"
+tags: ["reseau","alumni"]
+application_bf: true
+---
+
+
+## Cadre Conceptuel de la Gestion des Risques et des Catastrophes à l'Ère de l'Anthropocène
+
+Le paysage de la gestion des risques et des catastrophes (GRC) a connu une transformation fondamentale, s'éloignant de la simple réaction aux aléas perçus comme "naturels" pour se diriger vers une approche plus complexe et holistique. Cette évolution est le reflet de l'entrée dans l'ère de l'[Anthropocène](https://climatoscope.ca/lanthropocene-realite-geologique-ou-evenement-planetaire/), une époque géologique où les activités humaines sont devenues la force dominante façonnant les systèmes terrestres. Dans ce nouveau contexte, les catastrophes ne sont plus considérées comme des évènements purement fortuits. La *vulnérabilité des communautés* et des *infrastructures*, souvent le produit de l'urbanisation rapide et non planifiée, de la dégradation de l'environnement ou des conflits, est reconnue comme le *principal facteur déterminant l'impact d'un aléa*. Le Bureau des Nations Unies pour la réduction des risques de catastrophe ([UNDRR](https://www.eird.org/americas/we/who-we-are.html)) a été un acteur central dans ce changement de paradigme, promouvant l'idée qu'il n'*existe pas* de « **catastrophe naturelle** », mais seulement des aléas naturels dont les conséquences désastreuses sont le résultat direct de vulnérabilités créées par l'homme.
+
+Cette nouvelle compréhension se traduit dans les politiques et les cadres d'action à tous les niveaux. Le mandat de la Direction Générale de la Protection Civile ([DGPC](https://faolex.fao.org/docs/pdf/ner209970.pdf)) du Burkina Faso, par exemple, illustre cette prise de conscience en se chargeant explicitement d'identifier et de hiérarchiser les risques "naturels et anthropiques". 1  Cette reconnaissance de la composante humaine dans la genèse des catastrophes est un point de départ essentiel pour comprendre les structures d'intervention actuelles.
+
+Le rapport de référence pour la gouvernance mondiale de la RRC est le Cadre de Sendai pour la réduction des risques de catastrophe (2015-2030). Il s'articule autour de quatre priorités d'action fondamentales  :
+
+- **Priorité 1** : Comprendre le risque de catastrophe.
+- **Priorité 2** : Renforcer la gouvernance des risques de catastrophe pour les gérer.
+- **Priorité 3** : Investir dans la réduction des risques de catastrophe pour la résilience.
+- **Priorité 4** : Renforcer l'état de préparation aux catastrophes pour une réponse efficace et une reconstruction améliorée (« Build Back Better »).
+
+Parallèlement, l'émergence de crises hybrides, combinant des facteurs sécuritaires, climatiques et socio-économiques, a popularisé le concept du « Nexus humanitaire - développement - paix ». Cette approche intégrée vise à lier les actions d'aide d'urgence à la construction de la résilience à long terme et à la consolidation de la paix. La complexité de cet environnement exige une cartographie précise des acteurs, de leurs rôles et des dynamiques qui les animent, afin de saisir pleinement les opportunités et les besoins du marché de l'expertise en GRC. (https://www.refworld.org/en/download/148622)
+
+## L'Écosystème International de la Gestion des Risques et des Catastrophes
+
+L'écosystème international de la GRC est un réseau dense d'organisations aux mandats distincts, mais souvent complémentaires. Il comprend des agences intergouvernementales, des institutions financières et une *myriade* (quantité immense) d'organisations non gouvernementales.
+
+### Les Agences des Nations Unies et leurs mandats
+
+Le système des Nations Unies est un pilier de la coordination et de l'action en matière de GRC. Chaque entité apporte une contribution spécifique en fonction de son mandat principal :
+
+- **Le Bureau des Nations Unies pour la réduction des risques de catastrophe (UNDRR)** : Il s'agit de l'acteur pivot. L'[UNDRR](https://www.undrr.org/implementing-sendai-framework/what-sendai-framework) a pour mandat de servir de point focal au sein du système de l'ONU pour la coordination de la réduction des risques de catastrophe. Son rôle est de soutenir la mise en œuvre, le suivi et l'examen du Cadre de Sendai, et de coordonner l'action au sein du système de l'ONU pour que cette mise en œuvre se concrétise. 
+- **Le Programme des Nations Unies pour le développement (PNUD)** : Il s'agit de l'acteur pivot. Le PNUD est l'agence des Nations Unies principalement responsable des activités opérationnelles en matière de prévention des catastrophes et de renforcement des capacités au niveau national. Il aide les pays à développer des politiques, des compétences de leadership et des capacités institutionnelles afin de renforcer leur résilience et de maintenir les acquis du développement. En savoir plus sur la gestion des crises et catastrophes au Bénin selon le [PNUD Bénin](https://www.undp.org/fr/benin/publications/le-pnud-et-la-gestion-des-crises-et-catastrophes-naturelles-au-benin)
+- **Le Bureau de la coordination des affaires humanitaires (OCHA)** : Son rôle est de coordonner les affaires humanitaires et d'apporter une réponse aux crises sur le terrain. Il ne se concentre pas sur la prévention, mais plutôt sur la réponse immédiate et la coordination de l'aide en cas de catastrophe.
+- **Les Organisations Spécialisées** : D'autres agences de l'ONU interviennent dans leurs domaines d'expertise respectifs. L'**Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO)** est sollicitée pour aider les agriculteurs à relancer leur production après des crises. Le **Programme alimentaire mondial (PAM)** apporte une aide alimentaire d'urgence aux victimes. Le **Fonds des Nations Unies pour l'enfance (UNICEF)** se concentre sur l'aide aux enfants touchés par les crises humanitaires.
+
+### Les Institutions Financières et leur rôle dans la résilience
+
+Les institutions financières multilatérales ont opéré un changement stratégique significatif, passant d'une logique de financement réactif post-catastrophe à des approches proactives. Le [**Groupe de la Banque mondiale**](https://documents1.worldbank.org/curated/en/461291612960159930/pdf/World-Bank-Group-Strategy-for-Fragility-Conflict-and-Violence-2020-2025.pdf) , en tant qu'acteur majeur, joue un rôle stratégique dans la gestion des risques de crise. 1  Ce rôle s'illustre à travers le développement de mécanismes de financement innovants.
+
+Le **Global Risk Financing Facility** ([**GRiF**](https://annualreport.insuresilience.org/fr/world-bank-grif-update/)) est un fonds fiduciaire multidonateurs qui ne se contente pas de fournir des subventions après un choc. Il fournit des subventions pour tester, piloter et développer des instruments financiers « préétablis » afin d'aider les pays en développement à mieux gérer les impacts des chocs climatiques, des catastrophes et des crises. De même, le **Mécanisme d'assurance contre les risques liés aux catastrophes dans les Caraïbes (CCRIF)** est un fonds commun régional de gestion des risques qui offre des solutions d'assurance aux petits États insulaires. Ces initiatives illustrent une évolution fondamentale de l'écosystème : l'objectif n'est plus seulement de réparer les dégâts, mais de créer une résilience financière permettant de réduire la vulnérabilité économique et d'assurer une réponse plus rapide et plus prévisible aux événements.
+
+### Les ONG Internationales et le mouvement humanitaire
+
+Les organisations non gouvernementales internationales (ONG) et les mouvements humanitaires constituent le maillage opérationnel de la GRC, souvent en première ligne sur le terrain.
+
+- Le **Mouvement International de la Croix-Rouge et du Croissant-Rouge** : Ce mouvement est le plus grand réseau humanitaire au monde, avec des sociétés nationales dans presque tous les pays. La **Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge** ([IFRC](https://www.ifrc.org/fr)) soutient l'action locale dans plus de 191 pays , tandis que le **Comité International de la Croix-Rouge (CICR)** se concentre sur la protection des victimes de conflits armés. Leur collaboration étroite avec les sociétés nationales, comme la Croix-Rouge du Burkina Faso (CRBF) et la Croix-Rouge béninoise (CRB), est un atout majeur pour l'efficacité des interventions.
+- **Médecins Sans Frontières** ([**MSF**](https://www.msf.fr/)) : MSF opère dans 72 pays, se spécialisant dans l'assistance médicale vitale en cas de conflits, d'épidémies et de crises. L'organisation se distingue par sa capacité à intervenir rapidement et à fournir des soins d'urgence aux populations dont la vie ou la santé est menacée.
+- **Oxfam** : [Oxfam](https://www.oxfamamerica.org/explore/issues/locally-led-disaster-response/disasters-and-conflicts/) adopte une approche multidimensionnelle, combinant assistance humanitaire directe, renforcement des capacités locales, et un travail de plaidoyer et de campagne. L'organisation s'efforce de minimiser les préjudices et d'intégrer les questions de genre dans son action, reconnaissant que les catastrophes et les conflits affectent différemment les femmes et les hommes.
+- [**Première Urgence Internationale**](https://www.premiere-urgence.org/nous-connaitre/#:~:text=Premi%C3%A8re%20Urgence%20Internationale%20est%20une,de%20situations%20d'effondrement%20%C3%A9conomique.) : Cette ONG apolitique et laïque fournit une aide humanitaire aux victimes civiles, marginalisées par les effets des guerres, des catastrophes et de l'effondrement économique.
+
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+
+library(kableExtra)
+library(stringr)
+
+# Création du tableau avec retours à la ligne manuels
+donnees <- data.frame(
+  Organisation = c("UNDRR", "PNUD", "OCHA", "Groupe de la\nBanque Mondiale", 
+                   "IFRC & CICR", "MSF", "Oxfam"),
+  Mandat = c("Coordination du système de l'ONU pour la RRC,\nsoutien à la mise en œuvre.",
+             "Prévention des catastrophes, renforcement des\ncapacités et de la résilience à la réponse d'urgence.",
+             "Coordination des affaires humanitaires et de\nla réponse d'urgence.",
+             "Financement de projets, gestion des risques de\ncrise, promotion de la résilience.",
+             "Assistance humanitaire aux victimes de\ncatastrophes et de conflits, soutien à la réponse d'urgence.",
+             "Assistance médicale vitale dans les situations\nde crise.",
+             "Assistance humanitaire, plaidoyer pour la\nréduction des vulnérabilités, renforcement\ndes capacités et de la résilience.")
+)
+
+donnees |> 
+  kbl(format = "latex", booktabs = TRUE) |> 
+  kable_styling(font_size = 9, latex_options = "hold_position")
+```
+
+
+## Gouvernance et Coordination Régionales en Afrique de l'Ouest
+
+Les organisations régionales et sous-régionales jouent un rôle crucial en servant de pont entre les cadres mondiaux et les réalités nationales en Afrique. L'intégration des questions de RRC et d'adaptation aux changements climatiques est devenue une priorité stratégique pour ces blocs régionaux.
+
+L'Union Africaine (UA) a élaboré sa propre stratégie pour la [RRC](https://www.arc.int/gender-drmp/la-strategie-regionale-africaine-pour-la-reduction-des-risques-de-catastrophe.html), visant à contribuer au développement durable et à l'éradication de la pauvreté en facilitant l'intégration de la RRC dans les politiques de développement. De même, la  **Communauté Économique des États de l'Afrique Centrale** ([CEEAC](https://www.preventionweb.net/files/46692_dclarationsommairedugtafr.pdf?startDownload=true)) a une stratégie régionale qui s'appuie sur les priorités du Cadre d'action de Hyogo et s'inscrit dans la vision de l'Union africaine. Cependant, il existe un décalage entre l'ambition des stratégies régionales et leur mise en œuvre concrète au niveau national. Les documents de l'UA et de la CEEAC indiquent que si les cadres stratégiques existent, "très peu de pays ont adopté les politiques et les législations qui prennent en considération les risques de catastrophe". Ce constat met en lumière une lacune institutionnelle majeure : le défi ne réside pas seulement dans la conception des politiques, mais dans leur traduction en actions concrètes, en cadres juridiques contraignants et en capacités nationales de mise en œuvre.
+
+La **Communauté Économique des États de l'Afrique de l'Ouest** ([CEDEAO](https://www.undp.org/fr/africa/communiques/reduction-des-risques-de-catastrophe-la-cedeao-intensifie-la-cooperation-au-sahel)) s'est positionnée comme un acteur clé dans ce contexte. En partenariat avec le PNUD, la CEDEAO intensifie la coopération au Sahel pour renforcer la résilience par le biais des institutions régionales et nationales de gestion des catastrophes. La Commission de la CEDEAO est active sur le terrain, par exemple en évaluant la réponse humanitaire et le rétablissement de la résilience à Katsina, au Nigéria.
+
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| tbl-cap: "Structures régionales de gestion des risques et catastrophes"
+
+library(kableExtra)
+
+# Création des données avec retours à la ligne
+donnees_regionales <- data.frame(
+  Organisation = c("Union Africaine", "CEDEAO", "CEEAC"),
+  `Cadre Stratégique` = c(
+    "Stratégie Régionale Africaine\npour la RRC",
+    "Stratégie Régionale pour la Résilience\nen Afrique de l'Ouest",
+    "Stratégie Régionale pour la Prévention\ndes Risques et la Gestion des Catastrophes"
+  ),
+  Alignement = c(
+    "Cadre de Sendai",
+    "Cadre de Sendai, ODD",
+    "Cadre d'Action de Hyogo,\nvision UA"
+  ),
+  `Priorités Clés` = c(
+    "Intégration de la RRC dans le développement durable,\nsensibilisation, gouvernance des risques.",
+    "Renforcement des institutions,\ncoopération transfrontalière,\ngestion des risques climatiques.",
+    "Systèmes d'alerte rapide,\ngouvernance des risques urbains,\nintégration climat-RRC."
+  )
+)
+
+# Ajuster les noms de colonnes
+names(donnees_regionales) <- c("Organisation", "Cadre Stratégique", "Alignement", "Priorités Clés")
+
+# Créer le tableau formaté
+donnees_regionales |> 
+  kbl(format = "latex", booktabs = TRUE, longtable = FALSE, align = "l") |> 
+  kable_styling(
+    font_size = 9, 
+    latex_options = c("hold_position", "scale_down")
+  ) |> 
+  column_spec(1, width = "2.5cm", bold = TRUE) |>
+  column_spec(2, width = "4cm") |>
+  column_spec(3, width = "2.5cm") |>
+  column_spec(4, width = "5cm") |>
+  row_spec(0, bold = TRUE)
+```
+
+##  Étude de Cas I : La Cartographie des Structures de Gestion des Risques au Burkina Faso
+
+Le Burkina Faso est un cas d'étude pertinent pour saisir la complexité de la gestion des risques à l'ère de l'Anthropocène. Le pays a été confronté depuis 2015 à une crise sécuritaire qui a provoqué des déplacements forcés de populations sans précédent. Cela a transformé la gestion des catastrophes en un "enjeu majeur" et un "impératif de développement" pour la nation. (https://ishr.ch/wp-content/uploads/2024/10/Rapport-du-Burkina-Faso-a-la-Commission-africaine.pdf)
+
+### Cadre juridique et stratégique national
+
+Le cadre juridique de la GRC au Burkina Faso est établi par la  [**Loi d'OrientationN° 012-2014/AN**](https://www.refworld.org/legal/legislation/natlegbod/2014/fr/120980), qui porte sur la prévention et la gestion des risques, des crises humanitaires et des catastrophes. Cette loi est le référentiel de toute intervention dans le pays Stratégie Nationale de Réduction des Risques de Catastrophe (SN-RRC), qui est alignée sur le Cadre de Sendai, est pilotée par un comité placé auprès du cabinet du Premier Ministre et son opérationnalisation est confiée à la plateforme nationale de RRC.
+
+### Les acteurs gouvernementaux clés
+
+L'écosystème gouvernemental du Burkina Faso est structuré autour de deux entités principales, avec des rôles potentiellement complémentaires mais aussi sujets à chevauchement :
+
+- Le **Conseil National de Secours d'Urgence et de Réhabilitation (CONASUR)** est une institution publique à vocation humanitaire, créée pour élaborer et mettre en œuvre la stratégie de prévention et de réduction des effets des catastrophes naturelles. Son secrétariat permanent est chargé de coordonner les interventions humanitaires, de former les acteurs, de développer une culture de prévention et de gérer les ressources pour les secours et la réhabilitation. Le CONASUR est plus visible sur le territoire national que la DGPC en matière de gestion des risques et désastres.
+-   **La Direction Générale de la Protection Civile (DGPC)**  est chargée de la protection permanente des personnes, des biens et de l'environnement contre les risques, tant en temps de paix qu'en temps de crise. Ses missions incluent la cartographie des risques, la gestion des stocks d'urgence, la distribution de l'assistance et la planification des interventions. Le mandat de la DGPC semble plus axé sur la gestion opérationnelle et technique des risques au sens large, tandis que le CONASUR se concentre sur la coordination humanitaire et la réhabilitation. La coordination entre ces deux entités, ainsi qu'avec leurs démembrements provinciaux et locaux (CORESUR, COPROSUR, CODESUR), est un facteur déterminant pour l'efficacité de la gouvernance des risques.
+
+### Les acteurs non étatiques et les défis contemporains
+
+La gestion des crises au Burkina Faso est fortement influencée par les acteurs non étatiques, notamment les ONG et les agences de l'ONU qui interviennent face à la crise humanitaire. La crise sécuritaire a provoqué le déplacement de 1,5 million de personnes déplacées internes (PDI) en 2021. En réponse, le pays a adopté la **Stratégie Nationale de Relèvement des Personnes Déplacées Internes et des Communautés d'Accueil (SNR-PDICA)**. Cette stratégie, explicitement fondée sur l'approche du « Nexus humanitaire - développement - paix », vise non seulement à apporter une assistance humanitaire immédiate, mais aussi à promouvoir le relèvement à long terme, la réconciliation et la résilience économique des populations affectées. Cette démarche démontre une adaptation des politiques nationales à la nature hybride des crises contemporaines.
+
+## Étude de Cas II : La Cartographie des Structures de Gestion des Risques au Bénin
+
+Le Bénin, également touché par les risques climatiques et les menaces sécuritaires, a mis en place un écosystème de GRC qui reflète un fort accent sur la planification et l'intégration.
+
+### Cadre stratégique et législatif
+
+Le cadre de référence du Bénin est la **Stratégie Nationale de Réduction des Risques de Catastrophe** ([**SNRRC**](https://faolex.fao.org/docs/pdf/ben210371.pdf)) **2019-2030**. Cette stratégie, qui s'aligne sur les orientations régionales et mondiales, vise à renforcer la résilience du pays en améliorant la connaissance des risques, en développant les capacités des institutions et des communautés, en promouvant des mécanismes financiers durables, et en renforçant la culture du risque.  
+
+Un élément distinctif du Bénin est son Plan National d'Adaptation (PNA), soumis à la CCNUCC en 2022. Ce plan vise à renforcer la résilience dans huit secteurs clés, dont l'agriculture, l'eau et les zones côtières. Il intègre de manière explicite les questions de genre dans le processus de planification, ce qui est une approche progressive pour la région.
+
+### Les structures gouvernementales
+Contrairement au Burkina Faso, la gouvernance des risques au Bénin semble plus centralisée autour d'une seule agence principale :
+
+- [**L'Agence Nationale de Protection Civile (ANPC)**](https://sgg.gouv.bj/upload/files/documentheque/0850010001530084017.pdf) est un acteur central doté de la personnalité morale et de l'autonomie financière. Sa mission est de contribuer à la mise en œuvre de la politique gouvernementale de RRC en assurant la prévention, la formation, la coordination des secours et la préparation des populations. L'ANPC est chargée de la coordination des acteurs et de la gestion de l'information sur les risques. Cependant, le système de dissémination de l'information est jugé complexe et l'ANPC manque de compétences techniques pour centraliser et gérer toutes les informations relatives aux risques et aux vulnérabilités. (https://www.cadri.net/system/files/2021-06/Benin%20-%20National%20Capacity%20Assessment%20Report.pdf)
+
+- **Ministères Sectoriels** : La GRC est une responsabilité partagée. Des ministères clés comme celui de l'Environnement, de l'Agriculture, de la Famille et de l'Urbanisme sont impliqués dans la conception et la mise en œuvre des politiques d'urgence. La faiblesse des mécanismes de gouvernance des risques entre ces entités est identifiée comme un facteur anthropique de la vulnérabilité du pays.
+
+### La dynamique de l'action des partenaires
+Le Bénin bénéficie de l'appui d'un large éventail de partenaires techniques et financiers (PTF). Le PNUD est un partenaire de longue date, notamment pour l'élaboration de son programme pays. L'agence soutient des projets de renforcement de la résilience des communautés agricoles, avec le soutien financier de la Belgique.
+
+Les ONG et la société civile jouent également un rôle essentiel. Caritas Bénin, en partenariat avec des organisations internationales comme l'UNHCR et l'UNICEF, intervient sur le terrain avec un accent sur la résilience et la cohésion sociale. Le Comité International de la Croix-Rouge (CICR) a renforcé sa présence au Bénin en 2024, en collaboration avec la Croix-Rouge béninoise (CRB), pour répondre aux besoins humanitaires dans le nord du pays face à la crise sécuritaire.
+
+## Analyse et Synthèse : De la Gouvernance à la Résilience
+### Analyse comparative : Burkina Faso vs. Bénin
+Une analyse comparative des deux cas d'étude révèle des similitudes et des différences notables dans leurs approches. Les deux pays ont des cadres stratégiques et juridiques alignés sur les priorités mondiales du Cadre de Sendai. 1  Ils sont tous deux confrontés à des défis similaires, tels que les risques climatiques (inondations, sécheresses) et les conséquences des crises sécuritaires sur les populations déplacées.  
+
+Cependant, des différences significatives émergent au niveau de leur architecture de gouvernance et de leur orientation stratégique. La structure burkinabè, avec la coexistence du CONASUR et de la DGPC, semble avoir évolué de manière pragmatique pour répondre à la complexité des crises hybrides. Son accent est particulièrement mis sur la gestion de la crise des PDI à travers une stratégie explicite basée sur le « Nexus humanitaire - développement - paix ». En revanche, le Bénin, bien que confronté à une situation sécuritaire dans le nord, a une structure plus centralisée autour de l'ANPC et met un accent stratégique plus fort sur la planification de l'adaptation au changement climatique, comme en témoigne son Plan National d'Adaptation (PNA) qui cible des secteurs spécifiques et intègre la question du genre.
+
+### Les défis communs et les opportunités
+
+Malgré leurs approches distinctes, les deux pays et la région dans son ensemble partagent des défis communs qui se traduisent par des besoins clairs sur le marché de l'expertise en GRC. L'urbanisation rapide de l'Afrique est un facteur de risque majeur. La stratégie régionale reconnaît que la gouvernance des risques dans les établissements urbains doit être améliorée pour renforcer la résilience et prévenir l'accumulation de risques futurs. Un autre défi de taille est l'intégration et la gestion des données. L'analyse révèle que, si les deux pays collectent des données, la disponibilité de données désagrégées sur les vulnérabilités est limitée et la centralisation des informations sur les risques est un point de faiblesse institutionnel. La première priorité du Cadre de Sendai, qui est de comprendre les risques, est directement entravée par ces lacunes.
+
+## Conclusion et Perspectives
+
+L'écosystème de la gestion des risques et des catastrophes à l'ère de l'Anthropocène est un domaine d'intervention complexe, multi-niveaux et en constante évolution. Le Cadre de Sendai sert de fil conducteur, reliant les stratégies internationales, régionales et nationales. L'analyse des cas du Burkina Faso et du Bénin révèle que si les cadres stratégiques existent, leur efficacité repose sur leur capacité à s'adapter aux réalités hybrides du terrain, à surmonter les défis de coordination institutionnelle et à combler les lacunes en matière de données et de financement.
+
+Pour l'étudiant en Master qui cherche à comprendre les « besoins du marché » et les axes d'intervention actuels, cette cartographie ouvre des perspectives claires :
+
+- **Expertise en gouvernance et coordination** : La coexistence de multiples structures étatiques et le besoin de coordination entre les ministères sectoriels et les partenaires internationaux créent une demande pour des experts capables de naviguer dans des architectures de gouvernance complexes.
+
+- **Financement et résilience économique** : La transition vers des mécanismes de financement proactifs, comme ceux promus par la Banque Mondiale , indique une opportunité pour les spécialistes capables de concevoir et de gérer des instruments financiers innovants pour la résilience. 
+
+- **Systèmes d'information et cartographie des risques** : La compréhension des risques est un domaine critique de faiblesse en Afrique de l'Ouest. Les compétences en Système d'Information Géographique (SIG) et en gestion de bases de données (comme DesInventar Sendai) sont des atouts essentiels. 
+
+- Le « **Nexus** » en pratique : Les crises sécuritaires et climatiques du Sahel exigent des professionnels capables de travailler à l'intersection de l'humanitaire, du développement et de la paix. L'élaboration et la mise en œuvre de stratégies comme la SNR-PDICA du Burkina Faso sont des modèles d'intervention qui nécessitent une expertise transversale. 
+
+Le développement professionnel ne devrait pas se limiter à l'acquisition de compétences techniques, mais également à la maîtrise des compétences interpersonnelles de négociation et de coordination intersectorielle, essentielles pour traduire les politiques en actions concrètes sur le terrain. L'engagement auprès d'ONG ou d'agences de l'ONU est un moyen pertinent de gagner cette expérience pratique pour se positionner avantageusement dans un marché du travail où la GRC continue d'évoluer en un domaine d'expertise stratégique.

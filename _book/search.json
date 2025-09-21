@@ -1,0 +1,681 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenue - Note synthétique du Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA)",
+    "section": "",
+    "text": "Ce document n’a pas vocation à se substituer aux contenus officiels du master. Il constitue une initiative personnelle visant à rassembler, en un seul espace, le parcours d’une année de formation.\nL’objectif est de proposer une synthèse réflexive des enseignements suivis, des outils mobilisés, des applications de terrain ainsi que du processus complet lié au Travail de Fin d’Études (TFE).\nLa plupart des exemples et études de cas seront orientés vers le Burkina Faso, pays d’origine de l’auteur."
+  },
+  {
+    "objectID": "index.html#organisation-des-contenus",
+    "href": "index.html#organisation-des-contenus",
+    "title": "Bienvenue - Note synthétique du Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA)",
+    "section": "Organisation des contenus",
+    "text": "Organisation des contenus\nLe document est structuré autour des axes suivants :\n- Administration : programme, enseignants, partenaires, historique et suivi global.\n- Cours : notes et ressources associées à chaque module officiel.\n- Outils : compétences techniques transversales (R, SIG, systèmes d’alerte).\n- Pays & Applications : Burkina Faso et autres pays ciblés.\n- Veille : suivi stratégique (actualités, politiques, alertes).\n- TFE : processus de recherche et rédaction du mémoire."
+  },
+  {
+    "objectID": "00_Admin/historique.html",
+    "href": "00_Admin/historique.html",
+    "title": "2  Informations générales sur le Master de spécialisation en Gestion des Risques et des Catastrophes",
+    "section": "",
+    "text": "Le Master de spécialisation en Gestion des Risques et des Catastrophes à l’ère de l’Anthropocène (GRCA) a été conçu pour répondre à des défis mondiaux inédits, notamment les changements climatiques, l’effondrement de la biodiversité, les crises migratoires et les tensions socio-économiques. Il vise à former des professionnels capables d’intégrer une approche systémique et prospective dans la gestion des risques, tant au Nord qu’au Sud.\nPorté par une vision interdisciplinaire, ce programme a été développé pour :\n\nAnticiper les conséquences des politiques actuelles sur l’habitabilité de la Terre ;\nFormer des experts capables d’intervenir dans des contextes de crises complexes ;\nPromouvoir une gestion des risques fondée sur la collaboration interdisciplinaire et l’intelligence collective."
+  },
+  {
+    "objectID": "00_Admin/historique.html#description-de-la-faculté-hôte",
+    "href": "00_Admin/historique.html#description-de-la-faculté-hôte",
+    "title": "2  Informations générales sur le Master de spécialisation en Gestion des Risques et des Catastrophes",
+    "section": "2.2 Description de la faculté hôte",
+    "text": "2.2 Description de la faculté hôte\nLe master est organisé au sein du Département des Sciences et Gestion de l’Environnement de la Faculté des Sciences de l’Université de Liège, basé sur le Campus Environnement d’Arlon. Ce département dispose d’une expertise reconnue dans les domaines de l’environnement, des risques et de la transition écologique.\n\n\n\n\n\nPrésentation des campus de l’Université de Liège.\n\n\n\n\nLe campus d’Arlon est situé dans le sud de la Belgique, au centre de la ville d’Arlon, chef-lieu de la province de Luxembourg. Arlon bénéficie d’une position stratégique au cœur de la Grande-Région, à 130 km de Liège, à un jet de pierres du Grand-Duché de Luxembourg (à moins de 30 km de Luxembourg-Ville), de la France (à 90 km de Metz), et à 75 km de Trèves en Allemagne.\n\n\n\n\n\nCarte de la Belgique.\n\n\n\n\nLancé il y a plus de 20 ans, il est inscrit dans le cadre des programmes de l’Académie de Recherche et d’Enseignement Supérieur (ARES), destinés notamment aux étudiants des pays du Sud. Il est Co-organisé par l’Université de Liège (ULiège) et l’Université de Namur (UNamur)."
+  },
+  {
+    "objectID": "00_Admin/historique.html#références",
+    "href": "00_Admin/historique.html#références",
+    "title": "2  Informations générales sur le Master de spécialisation en Gestion des Risques et des Catastrophes",
+    "section": "2.3 Références",
+    "text": "2.3 Références\n\nSite officiel du master\nPrésentation ARES"
+  },
+  {
+    "objectID": "00_Admin/enseignants.html",
+    "href": "00_Admin/enseignants.html",
+    "title": "3  Équipe de Coordinateurs et assistant",
+    "section": "",
+    "text": "l’équipe de coordination est composée de :\n\nPr Pierre Ozer (ULiége) coordonateur\nDr Florence De Longueville (Unamur) co-coordination\nDoctorant Koufanou HIEN (ULiége) assistant de Pierre Ozer."
+  },
+  {
+    "objectID": "00_Admin/programme.html",
+    "href": "00_Admin/programme.html",
+    "title": "4  Programme et équipe enseignante 2025–2026",
+    "section": "",
+    "text": "Le master dure une année est comprend 60 crédits reparties en trois blocs et un Travail de fin d’études (TFE)"
+  },
+  {
+    "objectID": "00_Admin/programme.html#bloc-1-enseignement-pluridisciplinaire-relatif-aux-risques-et-catastrophes-à-lère-de-lanthropocène-14-crédits",
+    "href": "00_Admin/programme.html#bloc-1-enseignement-pluridisciplinaire-relatif-aux-risques-et-catastrophes-à-lère-de-lanthropocène-14-crédits",
+    "title": "4  Programme et équipe enseignante 2025–2026",
+    "section": "4.1 Bloc 1 : Enseignement pluridisciplinaire relatif aux risques et catastrophes à l’ère de l’Anthropocène (14 crédits)",
+    "text": "4.1 Bloc 1 : Enseignement pluridisciplinaire relatif aux risques et catastrophes à l’ère de l’Anthropocène (14 crédits)\n\nIntroduction à l’Anthropocène, enseignant Pierre M. Stassart\nIntroduction aux risques et catastrophes :\nPartim 1 : approche systémique (P. Ozer, Nicolas Dendoncker)\n\nPartim 2 : Introduction au notion de base (N..)\n\nRisques et catastrophes naturels (Serge Brouyère, Benjamin Dewals, Hans-Balder Havenith, Aurelia Hubert, N..)\nRisques et catastrophes techniques / technologiques (Jean-Francois Demonceau, Benjamin Dewals)\nRisques et catastrophes sanitaires (Catherine Linard)"
+  },
+  {
+    "objectID": "00_Admin/programme.html#bloc-2-outils-danalyse-de-prévention-et-de-gestion-des-risques-et-catastrophes-15-crédits",
+    "href": "00_Admin/programme.html#bloc-2-outils-danalyse-de-prévention-et-de-gestion-des-risques-et-catastrophes-15-crédits",
+    "title": "4  Programme et équipe enseignante 2025–2026",
+    "section": "4.2 Bloc 2 : Outils d’analyse, de prévention et de gestion des risques et catastrophes (15 crédits)",
+    "text": "4.2 Bloc 2 : Outils d’analyse, de prévention et de gestion des risques et catastrophes (15 crédits)\n\nRôles des systèmes d’information géographique et des techniques géomatiques dans la gestion des risques et catastrophes\nPartim 1 : Télédétection (Atoinne Denis)\nPartim 2 : Systèmes d’information géographique (Atoinne Denis, Yvon Hountondji)\nTraitement des données environnementales, Partim 2 : Initiation à R (Anne-Claude Romain)\nSystèmes d’alerte précoce (Bakary Djaby, Bernard Tychon)\nAménagement du territoire et prévention des risques et catastrophes (Aurelia Hubert, Pierre Ozer, Marc Salmon)"
+  },
+  {
+    "objectID": "00_Admin/programme.html#bloc-3-gestion-des-catastrophes-de-lurgence-à-la-résilience-16-crédits",
+    "href": "00_Admin/programme.html#bloc-3-gestion-des-catastrophes-de-lurgence-à-la-résilience-16-crédits",
+    "title": "4  Programme et équipe enseignante 2025–2026",
+    "section": "4.3 Bloc 3 : Gestion des catastrophes : de l’urgence à la résilience (16 crédits)",
+    "text": "4.3 Bloc 3 : Gestion des catastrophes : de l’urgence à la résilience (16 crédits)\n\nSéminaire interdisciplinaire (Équipe plurielle)\nSoft skills (F. De Longueville, C. Linard, etc.)\nMigrations environnementales (C. Zickgraf, etc.)\nGouvernance et retours d’expérience (Intervenants externes)"
+  },
+  {
+    "objectID": "00_Admin/programme.html#travail-de-fin-détudes-15-crédits",
+    "href": "00_Admin/programme.html#travail-de-fin-détudes-15-crédits",
+    "title": "4  Programme et équipe enseignante 2025–2026",
+    "section": "4.4 Travail de fin d’études (15 crédits)",
+    "text": "4.4 Travail de fin d’études (15 crédits)\n\nMémoire de recherche + expertise interdisciplinaire\n\nPour plus de détail, [cliquez](Programme détaillé 2025–2026](https://www.programmes.uliege.be/cocoon/20252026/formations/bref/S3RISQ01.html)"
+  },
+  {
+    "objectID": "00_Admin/programme.html#entrée-universitaire-20252026-rencontre-académique",
+    "href": "00_Admin/programme.html#entrée-universitaire-20252026-rencontre-académique",
+    "title": "4  Programme et équipe enseignante 2025–2026",
+    "section": "4.5 Entrée universitaire 2025–2026 : rencontre académique",
+    "text": "4.5 Entrée universitaire 2025–2026 : rencontre académique\nLe lundi 15 septembre 2025, dans le cadre de l’entrée académique 2025–2026, s’est tenue une rencontre d’échanges entre l’équipe de coordination du Master de spécialisation en Gestion des Risques et des Catastrophes à l’ère de l’Anthropocène (Ms GRCA) et les étudiants de la nouvelle promotion. Cette séance inaugurale a marqué le lancement officiel de l’année académique et permis de poser les fondements d’un cadre de travail collaboratif.\n\n4.5.1 Objectifs de la rencontre\nCette première séance visait à :\n\nprésenter la structure pédagogique du master et les axes qui l’organisent ;\nclarifier les modalités de fonctionnement et les attentes vis-à-vis des étudiants ;\namorcer les premières réflexions autour du travail de fin d’études (TFE) ;\ninstaurer un climat de confiance, de collégialité et de dialogue entre enseignants et apprenants.\n\n\n\n4.5.2 Contenus abordés\nAprès une brève présentation des membres de l’équipe pédagogique, notamment les professeurs Pierre Ozer et Florence De Longueville, ainsi que M. Koufanou Hien. Ce dernier a exposé les éléments clés du programme :\n\nLes axes structurants de la formation :\n\nAxe 1 – Approche théorique : enjeux contemporains, concepts fondamentaux et cadres d’analyse ;\nAxe 2 – Approche méthodologique : outils d’analyse, systèmes d’information géographique (SIG), traitement de données environnementales, etc. ;\nAxe 3 – Approche opérationnelle : aménagement, gestion de crise, résilience, planification stratégique ;\nApproche de mise en pratique : travail de fin d’études avec séjour de terrain de deux mois dans un pays du Sud.\n\n\nLe TFE, véritable cœur du parcours académique, devra articuler :\n\nun travail de recherche personnel ;\nun travail d’expertise interdisciplinaire à vocation professionnelle ;\nun séjour de terrain (les pays partenaires pour l’année sont : Bénin, Sénégal, Cameroun, Madagascar).\n\nÀ la différence d’autres formations, l’ensemble des modules du master est obligatoire, avec des cours organisés sur les sites de l’Université de Namur (UNamur) et du Campus d’Arlon.\nUn point important a été souligné : la confiance mutuelle entre les étudiants et les encadrants constitue une valeur fondatrice du programme. À ce titre, il a été rappelé que Mme De Longueville (il y a une vingtaine d’années) et M. Hien (il y a trois ans) sont eux-mêmes d’anciens diplômés du master.\n\n\n4.5.3 ️ Conseils méthodologiques et pratiques\nPour tirer le meilleur parti de cette année intensive, plusieurs recommandations ont été partagées :\n\nGérer son temps avec rigueur, en anticipant les grandes échéances : cours, lectures, évaluations, terrain, rédaction du TFE ;\nDéfinir rapidement une problématique claire et réaliste en lien avec les enjeux du programme ;\nDocumenter systématiquement son apprentissage, à travers une prise de notes structurée, des résumés et une capitalisation régulière ;\nS’approprier les outils numériques proposés :\n\nCELCAT pour le calendrier des cours ;\neCampus pour les supports et échanges pédagogiques ;\noutils personnels (Google Agenda, Trello, Notion, etc.) pour l’organisation ;\n\nConstituer les groupes rapidement : pour la soumission au Fonds Elisabeth et Aménie (FEA) les projets doivent être soumis avant le 10 octobre 2025. Ils devront s’inscrire dans la thématique des Objectifs de Développement Durable (ODD), avec un accent sur l’ODD 6 (eau et assainissement) pour être recevables.\n\nConcernant les travaux écrits :\n\nLe TFE individuel ne devra pas excéder 40 pages, de la page de garde à la bibliographie, avec environ 10 pages d’annexes.\nLe rapport collectif (expertise interdisciplinaire) sera limité à 10 pages, de l’introduction à la conclusion.\n\n\n\n4.5.4 Ouverture et ancrage\nLes échanges ont mis en évidence la nature transversale, interdisciplinaire et engagée du Ms GRCA. Le programme entend former des professionnels capables de naviguer dans la complexité des enjeux liés aux risques et catastrophes dans un monde en mutation rapide. Les étudiants sont ainsi invités à adopter une posture réflexive, proactive et critique, tout en tissant des liens entre les dynamiques locales, les politiques globales et les trajectoires de résilience face à l’Anthropocène."
+  },
+  {
+    "objectID": "01_Cours/RISQ2014_introduction.html",
+    "href": "01_Cours/RISQ2014_introduction.html",
+    "title": "5  Introduction aux risques et catastrophes à l’ère de l’Anthropocène",
+    "section": "",
+    "text": "Ce module est intégré dans le bloc 1 : enseignement pluridisciplinaire relatif aux risques et catastrophes à l’ère de l’Anthropocène. Repartir en deux partim, il a une durée de 36 h et compte pour 3 crédits :"
+  },
+  {
+    "objectID": "01_Cours/RISQ2014_introduction.html#partim-1-une-approche-systémique",
+    "href": "01_Cours/RISQ2014_introduction.html#partim-1-une-approche-systémique",
+    "title": "5  Introduction aux risques et catastrophes à l’ère de l’Anthropocène",
+    "section": "5.1 Partim 1 : Une approche systémique",
+    "text": "5.1 Partim 1 : Une approche systémique\nCe cours offre une introduction approfondie à toute la formation spécialisée en gestion des risques et des catastrophes à l’ère de l’Anthropocène, en combinant théorie, études de cas, séminaires invités et retours d’expérience.\nLe cours vise à former les étudiantes à une capacité d’analyse systémique et critique des interactions entre facteurs environnementaux, sociaux et économiques, et contextes d’inégalités, afin de les préparer à concevoir des stratégies d’adaptation et de résilience adaptées aux territoires et aux populations concernées.\nEn s’appuyant sur une approche interdisciplinaire et multiscalaire, le cours propose une analyse approfondie des mécanismes par lesquels les transformations environnementales (pollution, changement climatique, dégradation des écosystèmes, etc.) affectent différemment les populations selon leur position sociale, leur lieu de vie, et leur niveau de vulnérabilité.\n\n5.1.1 Objectifs du module\nÀ l’issue de ce cours, les étudiantes seront capables de :\n\nComprendre et mobiliser des concepts clés\n\nIdentifier et expliquer les notions fondamentales liées aux risques et catastrophes à l’ère de l’Anthropocène (vulnérabilité, adaptation, résilience, justice environnementale, pollution, etc.).\nMobiliser des cadres théoriques issus des sciences de l’environnement, des sciences sociales et de la géographie pour analyser les interactions entre environnement et risques.\n\nAnalyser de manière critique les situations de risques et de catastrophes à l’ère de l’Anthropocène\n\nÉlaborer une lecture systémique et multiscalaire des facteurs de risque (locaux, globaux, structurels).\nIdentifier les dynamiques d’inégalités sociales et territoriales en matière d’exposition, de vulnérabilité et d’accès aux ressources.\n\nÉvaluer les réponses institutionnelles et sociétales\n\nAnalyser les stratégies d’adaptation et de résilience mises en place par différents acteurs (États, collectivités, ONG, communautés locales).\nÉvaluer de manière critique les politiques publiques et les cadres de gouvernance des risques, en questionnant les rapports de pouvoir et les logiques d’exclusion.\n\nDévelopper des compétences pratiques et réflexives\n\nFormuler des recommandations ou des pistes d’intervention prenant en compte la complexité des contextes territoriaux et sociaux.\nAdopter une posture réflexive sur son propre rôle en tant que future professionnelle engagée dans les questions de gestion des risques et catastrophes à l’ère de l’Anthropocène.\n\n\n5.1.2 Notes de cours (structurées)\nggg\n\n\n5.1.3 Résumé\n…\n\n\n5.1.4 Points clés\n\n…\n\n\n\n5.1.5 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2014_introduction.html#application-burkina-faso",
+    "href": "01_Cours/RISQ2014_introduction.html#application-burkina-faso",
+    "title": "5  Introduction aux risques et catastrophes à l’ère de l’Anthropocène",
+    "section": "5.2 Application Burkina Faso",
+    "text": "5.2 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/RISQ2014_introduction.html#bibliographie-commentée",
+    "href": "01_Cours/RISQ2014_introduction.html#bibliographie-commentée",
+    "title": "5  Introduction aux risques et catastrophes à l’ère de l’Anthropocène",
+    "section": "5.3 Bibliographie commentée",
+    "text": "5.3 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/ENVT0846_anthropocene.html",
+    "href": "01_Cours/ENVT0846_anthropocene.html",
+    "title": "6  Introduction à l’anthropocène",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/ENVT0846_anthropocene.html#plan-de-cours",
+    "href": "01_Cours/ENVT0846_anthropocene.html#plan-de-cours",
+    "title": "6  Introduction à l’anthropocène",
+    "section": "6.2 Plan de cours",
+    "text": "6.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/ENVT0846_anthropocene.html#notes-de-cours-structurées",
+    "href": "01_Cours/ENVT0846_anthropocene.html#notes-de-cours-structurées",
+    "title": "6  Introduction à l’anthropocène",
+    "section": "6.3 Notes de cours (structurées)",
+    "text": "6.3 Notes de cours (structurées)\n\n6.3.1 Résumé\n…\n\n\n6.3.2 Points clés\n\n…\n\n\n\n6.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/ENVT0846_anthropocene.html#application-burkina-faso",
+    "href": "01_Cours/ENVT0846_anthropocene.html#application-burkina-faso",
+    "title": "6  Introduction à l’anthropocène",
+    "section": "6.4 Application Burkina Faso",
+    "text": "6.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/ENVT0846_anthropocene.html#bibliographie-commentée",
+    "href": "01_Cours/ENVT0846_anthropocene.html#bibliographie-commentée",
+    "title": "6  Introduction à l’anthropocène",
+    "section": "6.5 Bibliographie commentée",
+    "text": "6.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/RISQ2015_risques_naturels.html",
+    "href": "01_Cours/RISQ2015_risques_naturels.html",
+    "title": "7  Les risques et catastrophes naturels",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2015_risques_naturels.html#plan-de-cours",
+    "href": "01_Cours/RISQ2015_risques_naturels.html#plan-de-cours",
+    "title": "7  Les risques et catastrophes naturels",
+    "section": "7.2 Plan de cours",
+    "text": "7.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2015_risques_naturels.html#notes-de-cours-structurées",
+    "href": "01_Cours/RISQ2015_risques_naturels.html#notes-de-cours-structurées",
+    "title": "7  Les risques et catastrophes naturels",
+    "section": "7.3 Notes de cours (structurées)",
+    "text": "7.3 Notes de cours (structurées)\n\n7.3.1 Résumé\n…\n\n\n7.3.2 Points clés\n\n…\n\n\n\n7.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2015_risques_naturels.html#application-burkina-faso",
+    "href": "01_Cours/RISQ2015_risques_naturels.html#application-burkina-faso",
+    "title": "7  Les risques et catastrophes naturels",
+    "section": "7.4 Application Burkina Faso",
+    "text": "7.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/RISQ2015_risques_naturels.html#bibliographie-commentée",
+    "href": "01_Cours/RISQ2015_risques_naturels.html#bibliographie-commentée",
+    "title": "7  Les risques et catastrophes naturels",
+    "section": "7.5 Bibliographie commentée",
+    "text": "7.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/RISQ2016_tech_technologiques.html",
+    "href": "01_Cours/RISQ2016_tech_technologiques.html",
+    "title": "8  Les risques et catastrophes techniques / technologiques",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2016_tech_technologiques.html#plan-de-cours",
+    "href": "01_Cours/RISQ2016_tech_technologiques.html#plan-de-cours",
+    "title": "8  Les risques et catastrophes techniques / technologiques",
+    "section": "8.2 Plan de cours",
+    "text": "8.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2016_tech_technologiques.html#notes-de-cours-structurées",
+    "href": "01_Cours/RISQ2016_tech_technologiques.html#notes-de-cours-structurées",
+    "title": "8  Les risques et catastrophes techniques / technologiques",
+    "section": "8.3 Notes de cours (structurées)",
+    "text": "8.3 Notes de cours (structurées)\n\n8.3.1 Résumé\n…\n\n\n8.3.2 Points clés\n\n…\n\n\n\n8.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2016_tech_technologiques.html#application-burkina-faso",
+    "href": "01_Cours/RISQ2016_tech_technologiques.html#application-burkina-faso",
+    "title": "8  Les risques et catastrophes techniques / technologiques",
+    "section": "8.4 Application Burkina Faso",
+    "text": "8.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/RISQ2016_tech_technologiques.html#bibliographie-commentée",
+    "href": "01_Cours/RISQ2016_tech_technologiques.html#bibliographie-commentée",
+    "title": "8  Les risques et catastrophes techniques / technologiques",
+    "section": "8.5 Bibliographie commentée",
+    "text": "8.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/RISQ2117_sanitaires.html",
+    "href": "01_Cours/RISQ2117_sanitaires.html",
+    "title": "9  Les risques et catastrophes environnementaux et sanitaires",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2117_sanitaires.html#plan-de-cours",
+    "href": "01_Cours/RISQ2117_sanitaires.html#plan-de-cours",
+    "title": "9  Les risques et catastrophes environnementaux et sanitaires",
+    "section": "9.2 Plan de cours",
+    "text": "9.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2117_sanitaires.html#notes-de-cours-structurées",
+    "href": "01_Cours/RISQ2117_sanitaires.html#notes-de-cours-structurées",
+    "title": "9  Les risques et catastrophes environnementaux et sanitaires",
+    "section": "9.3 Notes de cours (structurées)",
+    "text": "9.3 Notes de cours (structurées)\n\nInformations pratiques\n\n13 novembre : visite de terrain – vallée de la Vesdre (inondations 2021).\n\nSemaine suivante : sortie – cas de pollution diffuse.\n\n25 septembre à 17h30 : conférence à Liège\n\nEffets des pesticides dans l’eau sur la santé\n\nIntervenants : Laurence HUC (INRAE), Stéphane (Le Monde), Gautier (ULiège).\n\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 Inondations de juillet 2021 en Belgique\n🔗 Laurence Huc – INRAE\n\n\nVision holistique du module\n\nRessources planétaires finies.\n\nUrbanisation rapide, surtout dans le Sud global et les zones littorales → vulnérabilité accrue.\n\nÉnergie : demande croissante depuis 1945. Renouvelables en hausse mais insuffisants pour réduire les fossiles.\n\nClimat : élévation du niveau de la mer.\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 ONU-Habitat – Urbanisation mondiale\n🔗 BP Energy Outlook 2019\n\n\nBesoins alimentaires et pressions écologiques\n\nExpansion céréalière : + en Afrique & Asie ; – en Europe (compensée par rendements/importations).\n\nÉlevage en hausse (ovins, caprins, bovins).\n\nMonocultures → ne compensent pas la déforestation.\n\nTransfert des impacts Nord → Sud.\n\nForte érosion de la biodiversité.\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 FAO – Situation mondiale de l’alimentation\n🔗 Rapport IPBES 2019 – Biodiversité\n\n\nChangements climatiques et disparités\n\nVitesse des changements → adaptation difficile.\n\nInégalités : 1 % les plus riches > émissions que 50 % les plus pauvres.\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 Rapport Oxfam – Inégalités climatiques\n🔗 Résumé GIEC pour décideurs\n\n\nPublicité et consommation\n\nExemple Aldi : « Vie plus chère → prix réduits ».\n\nPublicité encourage la surconsommation → pressions environnementales accrues.\n\nÉtude de cas : système alimentaire belge (Carrefour)\nActe 1 (2006)\n\nExemple crevettes : pêche locale → Asie pour décorticage → retour Europe.\n\nImpact carbone + destruction des mangroves.\n\nActe 2 (2015)\n\nCampagnes « Consommer belge ».\n\nStratégie marketing/lobbying (ex. COP).\n\nActes 3 à 6 (2021–2025) - Mise en avant du « local » mais dépendance aux importations.\n\n\n\n\n\n\nNote\n\n\n\n🔗 WWF – Empreinte alimentaire de la Belgique\n🔗 CIWF – Systèmes alimentaires\n\n\nCaractéristiques du système agro-industriel\n\nIntensif\n\nSpécialisé\n\nConcentré\n\nMondialisé\n\nFinanciarisé\n\nDépassement des limites planétaires (Rockström et al.)\n- 2009 : 3 limites dépassées\n- 2015 : 4 limites dépassées\n- 2023 : 6 limites dépassées\n\n\n\n\n\n\nAvertissement\n\n\n\n🔗 Stockholm Resilience Centre – Planetary Boundaries\n\n\nChaînes de valeur agroalimentaires\n\nActuel : distributeur → transformateur → agriculteur.\n\nPropositions : regroupements d’agriculteurs en première ligne.\n\nCrise alimentaire actuelle (3 traits) :\n1. Consommation impulsive\n2. Peur de la surconsommation\n3. [À compléter]\nCommunication et prévention\n\nMarketing agroalimentaire ≈ 1000× > communication préventive.\n\nSolution : mise en avant des produits avec Nutri-Score positif.\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 Nutri-Score officiel\n\n\n\nSynthèse partielle\nLe cours souligne les liens entre urbanisation, consommation, système alimentaire et risques sanitaires/environnementaux.\nLes dynamiques globales (climat, énergie, biodiversité) sont aggravées par les inégalités sociales et le rôle du marketing dans la consommation.\nMardi 16 septembre 2025\nCours : Risques environnementaux et sanitaires.\nCe cours est un module en commun avec les master en gestion de l’environnement.\nQuelques informations avants de poursuivre :\n\nUne visite terrain dans la vallet de la Verse (innondation en 2021) le 13 novembre ;\nune semaine après le 13 novembre une sortie pour voir un cas de pollution diffuse ;\nLe jeudi 25 septembre à 17h30 assister à une conférence à Liége. Thème : “effet Les pecticides dans l’eau sur la santé” LAURENCE HUC, Stephane elle travail à journal le monde,\n\nGAUTIER, chercher Uligé\nLes échanges ont débutés par planter le décor sur le fait que ce module souhaite avoir une vision holistique.\nNous vivons sur une planéte avec des ressources finie. Il est vraie qu’une forte démocraphie laisse sous entendre une grande consomation, mais ce que l’on en fait.\nDepuis 2011, les zones urbaines sont plus peupler que les zones rurales … Cette croissance est plus marqué dans les pays du Sud. De plus en plus d’inondations …\nLa célérité de la création des villes est à prendre en compte. Elle est accentué dans les zones littoral, qui a plus de la moitié des populations. On a globalement une tendance lourde de certain risques.\nOn a une forte augmentation des besoins énergétique de la guerre mondiale.\nOn a une augmentation du niveau de la mer qui est en croissance\nLe British Petrolium Outlook edition 2019 …Selon eux, il y’a une augmentation des energis renouvelable, mais pour inverser l’augmentation des autres types d’énergies.\nLes besoins alimentaires croissants : Augmentation des terres céréalières pas globalement croissantes. Mais une augmentation en Afrique, et Asie et une diminution en Europe. Cela sous entend une augmentation des rendements en Europe et un approvisionnement de puis les autres pays.\nEn Amérique on une léger augmentation, mais lorsqu’on ne rentront en détails on a une baisse en amérique du Nord et central en contraste avec le sud.\nConcernant les ovins et caprins, et les bovins on a une augmentation mondiale. Mais avec toujours un constraste entre les continents.\nLes impacts srturturels sur les ressources, …\nOn a certe plus de mono cultures industriels mais ça ne remplace pas la desforestation natuerelle. Les problèmes qui en découle, ces pertes sont disproportionnés très fortes en amériques du Sud et en Afrique. Surtout à cause du transfert des besoins des pays du Nord vers celles du Sud. Cela pose la problématique du laisser pour compte certain état / classe social …\nRésultats des course, on a une forte dégradation de la biodiversité. Cette perte en mondiale, mais plus poussé dans les pays du Sud, notamment l’Amérique du Sud et l’Afrique.\nLa problématique du changement climatique réside dans la célérité du changement. La question d’adaptation devient difficile à implémenter au regard de cette célérité de tout les changement.\nEn somme cela créer une gigantesques disparités. Un pourcent des plus riches, émet (gaz) que de fois plus de la moitié de la population.\nL’analyse des publicités de certain produits des firmes, permet de dégager une disparité croissante. “Parce que la vie devient plus chères” = “ALDI devient encore moins cher : prix durablement réduit” Ce slogan, montre comment la pression social grandira. Des véhicules plus consommatrice.\n\n\n\n\n\n\nAnalyse des changements envrionnementaux sur la base des besoins alimentaires de la belgique et ces alentours. De maniére chronologique sur l’hypermarché carrefour.\n\n\n\n\ntitle: “Les risques et catastrophes environnementaux et sanitaires” enseignants: [“Catherine Linard”] course_code: “” date: “2025-08-24” keywords: [“GRCA”,“cours”] application_bf: false tags: [“cours”] sdg_links: [“ODD11”,“ODD13”]"
+  },
+  {
+    "objectID": "01_Cours/RISQ2117_sanitaires.html#objectifs-du-module-1",
+    "href": "01_Cours/RISQ2117_sanitaires.html#objectifs-du-module-1",
+    "title": "9  Les risques et catastrophes environnementaux et sanitaires",
+    "section": "9.4 Objectifs du module",
+    "text": "9.4 Objectifs du module\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2117_sanitaires.html#plan-de-cours-1",
+    "href": "01_Cours/RISQ2117_sanitaires.html#plan-de-cours-1",
+    "title": "9  Les risques et catastrophes environnementaux et sanitaires",
+    "section": "9.5 Plan de cours",
+    "text": "9.5 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2117_sanitaires.html#notes-de-cours-structurées-1",
+    "href": "01_Cours/RISQ2117_sanitaires.html#notes-de-cours-structurées-1",
+    "title": "9  Les risques et catastrophes environnementaux et sanitaires",
+    "section": "9.6 Notes de cours (structurées)",
+    "text": "9.6 Notes de cours (structurées)\n\nInformations pratiques\n\n13 novembre : visite de terrain – vallée de la Vesdre (inondations 2021).\n\nSemaine suivante : sortie – cas de pollution diffuse.\n\n25 septembre à 17h30 : conférence à Liège\n\nEffets des pesticides dans l’eau sur la santé\n\nIntervenants : Laurence HUC (INRAE), Stéphane (Le Monde), Gautier (ULiège).\n\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 Inondations de juillet 2021 en Belgique\n🔗 Laurence Huc – INRAE\n\n\nVision holistique du module\n\nRessources planétaires finies.\n\nUrbanisation rapide, surtout dans le Sud global et les zones littorales → vulnérabilité accrue.\n\nÉnergie : demande croissante depuis 1945. Renouvelables en hausse mais insuffisants pour réduire les fossiles.\n\nClimat : élévation du niveau de la mer.\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 ONU-Habitat – Urbanisation mondiale\n🔗 BP Energy Outlook 2019\n\n\nBesoins alimentaires et pressions écologiques\n\nExpansion céréalière : + en Afrique & Asie ; – en Europe (compensée par rendements/importations).\n\nÉlevage en hausse (ovins, caprins, bovins).\n\nMonocultures → ne compensent pas la déforestation.\n\nTransfert des impacts Nord → Sud.\n\nForte érosion de la biodiversité.\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 FAO – Situation mondiale de l’alimentation\n🔗 Rapport IPBES 2019 – Biodiversité\n\n\nChangements climatiques et disparités\n\nVitesse des changements → adaptation difficile.\n\nInégalités : 1 % les plus riches > émissions que 50 % les plus pauvres.\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 Rapport Oxfam – Inégalités climatiques\n🔗 Résumé GIEC pour décideurs\n\n\nPublicité et consommation\n\nExemple Aldi : « Vie plus chère → prix réduits ».\n\nPublicité encourage la surconsommation → pressions environnementales accrues.\n\nÉtude de cas : système alimentaire belge (Carrefour)\nActe 1 (2006)\n\nExemple crevettes : pêche locale → Asie pour décorticage → retour Europe.\n\nImpact carbone + destruction des mangroves.\n\nActe 2 (2015)\n\nCampagnes « Consommer belge ».\n\nStratégie marketing/lobbying (ex. COP).\n\nActes 3 à 6 (2021–2025) - Mise en avant du « local » mais dépendance aux importations.\n\n\n\n\n\n\nNote\n\n\n\n🔗 WWF – Empreinte alimentaire de la Belgique\n🔗 CIWF – Systèmes alimentaires\n\n\nCaractéristiques du système agro-industriel\n\nIntensif\n\nSpécialisé\n\nConcentré\n\nMondialisé\n\nFinanciarisé\n\nDépassement des limites planétaires (Rockström et al.)\n- 2009 : 3 limites dépassées\n- 2015 : 4 limites dépassées\n- 2023 : 6 limites dépassées\n\n\n\n\n\n\nAvertissement\n\n\n\n🔗 Stockholm Resilience Centre – Planetary Boundaries\n\n\nChaînes de valeur agroalimentaires\n\nActuel : distributeur → transformateur → agriculteur.\n\nPropositions : regroupements d’agriculteurs en première ligne.\n\nCrise alimentaire actuelle (3 traits) :\n1. Consommation impulsive\n2. Peur de la surconsommation\n3. [À compléter]\nCommunication et prévention\n\nMarketing agroalimentaire ≈ 1000× > communication préventive.\n\nSolution : mise en avant des produits avec Nutri-Score positif.\n\n\n\n\n\n\n\nNote\n\n\n\n🔗 Nutri-Score officiel\n\n\n\nSynthèse partielle\nLe cours souligne les liens entre urbanisation, consommation, système alimentaire et risques sanitaires/environnementaux.\nLes dynamiques globales (climat, énergie, biodiversité) sont aggravées par les inégalités sociales et le rôle du marketing dans la consommation.\nMardi 16 septembre 2025\nCours : Risques environnementaux et sanitaires.\nCe cours est un module en commun avec les master en gestion de l’environnement.\nQuelques informations avants de poursuivre :\n\nUne visite terrain dans la vallet de la Verse (innondation en 2021) le 13 novembre ;\nune semaine après le 13 novembre une sortie pour voir un cas de pollution diffuse ;\nLe jeudi 25 septembre à 17h30 assister à une conférence à Liége. Thème : “effet Les pecticides dans l’eau sur la santé” LAURENCE HUC, Stephane elle travail à journal le monde,\n\nGAUTIER, chercher Uligé\nLes échanges ont débutés par planter le décor sur le fait que ce module souhaite avoir une vision holistique.\nNous vivons sur une planéte avec des ressources finie. Il est vraie qu’une forte démocraphie laisse sous entendre une grande consomation, mais ce que l’on en fait.\nDepuis 2011, les zones urbaines sont plus peupler que les zones rurales … Cette croissance est plus marqué dans les pays du Sud. De plus en plus d’inondations …\nLa célérité de la création des villes est à prendre en compte. Elle est accentué dans les zones littoral, qui a plus de la moitié des populations. On a globalement une tendance lourde de certain risques.\nOn a une forte augmentation des besoins énergétique de la guerre mondiale.\nOn a une augmentation du niveau de la mer qui est en croissance\nLe British Petrolium Outlook edition 2019 …Selon eux, il y’a une augmentation des energis renouvelable, mais pour inverser l’augmentation des autres types d’énergies.\nLes besoins alimentaires croissants : Augmentation des terres céréalières pas globalement croissantes. Mais une augmentation en Afrique, et Asie et une diminution en Europe. Cela sous entend une augmentation des rendements en Europe et un approvisionnement de puis les autres pays.\nEn Amérique on une léger augmentation, mais lorsqu’on ne rentront en détails on a une baisse en amérique du Nord et central en contraste avec le sud.\nConcernant les ovins et caprins, et les bovins on a une augmentation mondiale. Mais avec toujours un constraste entre les continents.\nLes impacts srturturels sur les ressources, …\nOn a certe plus de mono cultures industriels mais ça ne remplace pas la desforestation natuerelle. Les problèmes qui en découle, ces pertes sont disproportionnés très fortes en amériques du Sud et en Afrique. Surtout à cause du transfert des besoins des pays du Nord vers celles du Sud. Cela pose la problématique du laisser pour compte certain état / classe social …\nRésultats des course, on a une forte dégradation de la biodiversité. Cette perte en mondiale, mais plus poussé dans les pays du Sud, notamment l’Amérique du Sud et l’Afrique.\nLa problématique du changement climatique réside dans la célérité du changement. La question d’adaptation devient difficile à implémenter au regard de cette célérité de tout les changement.\nEn somme cela créer une gigantesques disparités. Un pourcent des plus riches, émet (gaz) que de fois plus de la moitié de la population.\nL’analyse des publicités de certain produits des firmes, permet de dégager une disparité croissante. “Parce que la vie devient plus chères” = “ALDI devient encore moins cher : prix durablement réduit” Ce slogan, montre comment la pression social grandira. Des véhicules plus consommatrice.\n\nAnalyse des changements envrionnementaux sur la base des besoins alimentaires de la belgique et ces alentours. De maniére chronologique sur l’hypermarché carrefour.\nActe 1 - En 2006 : l’exemple d’un plat dessert fruit et de crevette à consommer. Les crevettes pécher à dans les mers proches. Il est envoyer au Sud Est de l’Asie pour décortiquer. Juste pour le transport en plus des autres produits on un taux de gaz non négligeable.\n\nModification du LandLuse notamment des zones de Mangrove dans des pays de l’amérique du Sud, du à une forte production des besoins alimentaires des pays du Nord par les changements de terres.\nLes plats résistants : notamment la viande pour la plupart proviennent d’autres contrés.\n\nSomme les prix de plus en plus bas en Europe d’un certain nombre de produit. Sont au dépend d’une forte dégradation des zones du Sud et/ou déjà plus vulnérables.\nPour être sur plus transparent :\nIdée 1 : indiquer l’origine des produit Idée 2 : indiquer le mode de transport sur le logo\nCes idées évoulent plus en Suisse.\nLes couts de transport du CO2 est plus élevé pour l’avion, avec le bateau ne moins polluant.\nActe 2 : Consommer plus belge\nDepuis févier 2015 de forte publicité sur le consommer. Du reste, ceci n’etait qu’un cours marketing. A l’image de carrefour, ces firmes du genre on un gros Lobbiing … Cela est matérialisé par exemple par le “partenariat” carrefour dans le cadre de la COP.\nActe 3 : Action concrété pour mieux manger\nDe forte présence de drapeau Belgique au niveau des produits, mais avec des provenances loin voir loin du pays.\n(NB : selon les filiales carrefour ils ont des agissements différents, de la belgique à l’italie en passant par la France).\nActe 4 : Mars 2021 Comme slogan : priviligier l’origine belge de nos produits. Mais dans les faits pas encore reel. Sur une grande large de produit, cela est faux. On a bien encore d’autres origine.\nActe 5 : octobre 2021\nSlogan : Les producteurs de circuits court.\nActe 6 : Aujourd’hui.\nLa même configuration.\nL’on fini par voir Les caractéristiques du système alimentaire agroindustriel :\n\nintensif :\nspécialisé :\nconcentré :\nmondialisation :\nFinanciarisé (fonds d’in)\n\nUne analyse de la contribution du système alimentaire au dépassement des limites planétaires de 2009 à 2023 a été présenté.\n2009 : 3 limites dépassées, 2015 : 4 limites dépassées, 2023 : 6 limites dépassées,\nDans les chaines de valeurs agro alimentaires, l’agriculteur gagne moins que les autres parties prenantes. Ce qui fache parmi eux. Il faut des politiques d’inversion de la construction du prix, cela est en promotion en France :\nAvant : Distributeur -transformateur-agriculteur. apres : regroupements d’agriculteurs - Distributeur.\nLe système actuellement profite au distributeur. Une caractérisque de la crise alimentaire actuelle en 3 points :\n\nconsommation implusive,\npeur de la surconsommation,\n…. (pas pu la noté)\n\nUne grosse communication est faite sur le marketing du secteur agroalimentaire l’odre de 1000 fois par rapport à la communication préventive. Il serait bien de mettre en avant les produits avec un bon nutri score. FIN du cours de ce matin.\nReprise le soir à partir de 14h.\nCours échange avec Clair et Emélie de l’ONG Eclosio\n% ce soir sur un système alimentaire durable. Chaine de valeur acjouté, insertion des Jeunes.\nil ONG Eclosio\nPrise de note du 18 septembre 2025. Apprentissage par des cas.\ncas 1 : cas du Djibouti\nAvant de démarrer voyons un peu qu’est …\nDjibouti, un micro-État de 23 000 km² et d’environ un million d’habitants, possède une importance géostratégique totalement disproportionnée par rapport à sa taille ou à sa puissance économique intrinsèque. Cette importance découle presque exclusivement de sa géographie, qui en fait un point de passage obligatoire et un lieu de projection de puissance.\n\nLes Pilliers de la Puissance Géostratégique de Djibouti A. Le Verrou Maritime : Le Bab-el-Mandeb Djibouti est situé sur l’une des voies maritimes les plus critiques au monde : le détroit de Bab-el-Mandeb (“Porte des Lamentations”). Ce détroit est le canal de sortie de la mer Rouge vers le golfe d’Aden et l’océan Indien.\n\nTrafic mondial : Près de 30% du trafic maritime mondial transite par ce détroit, dont une part massive du commerce de pétrole et de gaz (en provenance du Golfe Persique à destination de l’Europe et de l’Amérique).\nPoint de choke point : Sa largeur ne dépasse pas 30 km à son point le plus étroit, ce qui en fait un goulot d’étranglement vulnérable à la piraterie, au terrorisme ou à un blocage militaire. Contrôler ses abords est donc une priorité absolue pour les grandes puissances maritimes.\nB. La Plateforme Logistique Régionale Djibouti s’est transformé en un hub portuaire et logistique majeur pour l’ensemble de l’Afrique de l’Est, et surtout pour son géant voisin et sans littoral :\nPorte de l’Éthiopie : L’Éthiopie, deuxième pays le plus peuplé d’Afrique et puissance économique régionale en croissance, dépend à plus de 95% du port de Djibouti pour son commerce extérieur. Cette dépendance confère à Djibouti un levier économique et politique considérable sur Addis-Abeba.\nInvestissements portuaires massifs : Djibouti a développé plusieurs ports modernes (Doraleh, Tadjourah) avec des investissements notamment chinois et dubaiotes, visant à capter les flux commerciaux de toute la région.\nC. La “Plateforme Aéronavale” des Puissances Mondiales C’est l’aspect le plus spectaculaire de la stratégie de Djibouti : héberger des bases militaires étrangères. Aucun autre pays au monde n’accueille autant de puissances militaires simultanément sur son territoire.\nFrance : Base historique (depuis l’indépendance en 1977). C’est une plateforme cruciale pour la force française stationnée à Djibouti (FFDj), permettant des interventions en Afrique et dans l’océan Indien, et la lutte contre le terrorisme.\nÉtats-Unis : Camp Lemonnier est la seule base militaire permanente des États-Unis en Afrique. C’est un centre névralgique pour les opérations des drones et les forces spéciales dans la Corne de l’Afrique et la péninsule arabique (notamment contre Al-Shabaab et AQPA).\nChine : Sa première et seule base militaire outre-mer est à Djibouti (inaugurée en 2017). Elle permet à Pékin de protéger ses voies d’approvisionnement, d’appuyer ses opérations anti-piraterie, et de projeter sa puissance militaire croissante, sécurisant ainsi ses immenses investissements dans le cadre des “Nouvelles Routes de la Soie” (Belt and Road Initiative - BRI).\nAutres acteurs : L’Italie, le Japon (seule base outre-mer pour ses Forces d’autodéfense) et, plus récemment, des présence de l’Arabie Saoudite et de potentiels intérêts d’autres pays comme la Turquie et la Russie.\n\nUne Politique Étrangère Pragmatique : Le “Multi-alignement” Face à cette concentration d’intérêts, Djibouti mène une politique étrangère extrêmement habile et pragmatique, souvent qualifiée de “multi-alignement” ou de “diplomatie de location”.\n\nÉquilibre des puissances : Le gouvernement djiboutien loue ses terres à toutes les puissances présentes, jouant habilement des rivalités (notamment sino-américaine) pour maximiser ses revenus (les loyers des bases représentent une part significative de son PIB) et assurer sa sécurité.\nSouveraineté et non-alignement : Djibouti affirme sa souveraineté et évite de s’aligner exclusivement sur une seule puissance. Il tire profit de la présence de tous pour se prémunir contre les menaces régionales et garantir la stabilité de son régime.\n\nDéfis et Vulnérabilités Cette position enviable n’est pas sans risques :\n\nDépendance à la stabilité régionale : Une escalade des conflits au Yémen, en Somalie ou en Éthiopie pourrait directement menacer la sécurité de Djibouti et perturber les flux maritimes.\nSurenchère géopolitique : La proximité de bases militaires de puissances rivales (Chine vs USA) crée un risque de friction ou d’incident, transformant Djibouti en potentiel théâtre de conflit par procuration.\nDette souveraine : Les importants investissements chinois dans les infrastructures ont considérablement endetté Djibouti envers Pékin, ce qui pourrait, à terme, limiter sa marge de manœuvre politique et constituer un piège de la dette.\nDépendance à l’Éthiopie : Si l’Éthiopie développe d’autres accès à la mer (via le Somaliland ou le Soudan), l’atout économique principal de Djibouti pourrait s’éroder.\nConclusion : Le Guichet Géostratégique de l’Afrique Djibouti est bien plus qu’un simple pays ; c’est une infrastructure géostratégique globale. Son modèle de survie et de prospérité repose sur la monétisation de son emplacement unique.\nEn résumé, Djibouti est :\nLe gardien d’un détroit critique pour l’économie mondiale.\nLa porte maritime vitale de la puissance économique éthiopienne.\nLa seule plateforme militaire commune où cohabitent, dans un périmètre restreint, les principales puissances militaires du XXIe siècle (Occidentaux, Chinois).\nSon avenir dépendra de sa capacité à continuer à naviguer avec pragmatisme dans les eaux troubles de la compétition internationale, en maintenant un équilibre précaire mais jusqu’à présent rentable entre toutes les puissances qui convoitent son territoire.\nUne image satellitaire du 17 octobre (Djibiuti) présenté. *Large regional drought effect on migrations. Une analyse des précipitations des précipitations (1901-2011) des pluviométrique. Baisse du nombre de jours pluies, couplet à une baisse des intensité. Ce article résume bien : (https://orbi.uliege.be/handle/2268/171105)\nVoici son résumé : Ces dernières décennies, l’Afrique de l’Est souffre d’une longue et lente détérioration pluviométrique. De 2007 à 2011, la ville de Djibouti a enregistré un déficit de 73% des précipitations moyennes annuelles par rapport à la moyenne de 30 ans (1981-2010). Cette sécheresse sans précédent va mettre de nombreuses familles des zones rurales (de Djibouti, d’Ethiopie et de Somalie) sur la route. Cette migration a pour point de chute la ville de Djibouti où des quartiers neufs se créent, comme Buldhuqo. Totalement inexistant en 2004, il explose après 2009. Les derniers arrivants s’installent dans le fond de l’oued, là même où la zone était inondée en 2004 et 2009 suite à des pluies courtes mais intenses. La prochaine pluie extrême, l’exposition de ces populations précaires aux risques hydrologiques sera maximale. Cette analyse montre que le déficit pluviométrique actuel est exceptionnel et historiquement unique. Les migrations importantes de population induites par cette sécheresse vers la ville de Djibouti doivent être encadrées, notamment lors de leur installation spontanée. Il est nécessaire de diminuer l’exposition aux risques hydrologiques de ces populations sinistrées, pour que les victimes de la sécheresse ne soient pas emportées par un excès pluviométrique.\nL’analyse d’image satellitaires diachronique d’une localité du pays a été fait, montrant la perte de plan d’eau entre 2009 et 2012. ’ (il faut bien se documenter sur la position stratégique du Djibouti)\nLes données de OCHA, 2017 montre l’ampleur de la gestion pour l’aide humanitaire. La question de la sécheresse en accrue dans la corne de l’afrique.\nCas 2 : La Mauritanie - Nouakchott (2014) Migration Environnementale et Crise Urbaine 1. Contexte et Causes Racines :\nVotre note décrit un épisode de migration climatique interne survenu en 2014. Les causes sont bien résumées, mais on peut les approfondir :\nSécheresse et Variabilité Climatique : La Mauritanie, pays sahélien, est structurellement vulnérable aux chocs climatiques. La “suite de mauvaise pluviométrie” évoquée s’inscrit dans une tendance de long terme de désertification et d’irrégularité des pluies, exacerbée par le changement climatique anthropique.\nEffondrement des Moyens de Subsistance : Les “pertes cultures” ne signifient pas seulement une mauvaise récolte. Pour les populations agro-pastorales, cela équivaut à :\nPerte de revenus : Plus de cultures à vendre.\nInsécurité alimentaire : Les “greniers vides” signifient aucune réserve pour nourrir les familles jusqu’à la prochaine saison.\nDécapitalisation : Les éleveurs sont souvent obligés de vendre leur bétail – leur épargne sur pied – à bas prix face à la pénurie de pâturages et d’eau.\n\nMécanismes du Déplacement :\n\nLe “déplacement massif” ne s’est pas fait de manière aléatoire. Il suit des logiques spatiales précises :\nDestination : Nouakchott : La capitale est perçue comme le seul endroit où trouver de l’aide (humanitaire), des opportunités économiques informelles (petits boulots, commerce) et où avoir des parents pouvant offrir un soutien initial (réseaux de solidarité familiaux et ethniques).\nPhénomène d’Appel : La concentration des services, de l’administration et des ONG à Nouakchott agit comme un aimant en période de crise, bien que la ville soit elle-même très pauvre.\n\nConséquences et Enjeux (Au-delà de l’événement immédiat) :\n\nL’arrivée massive de migrants climatiques dans une ville comme Nouakchott crée une crise urbaine durable :\nPression sur les Services Urbains : Aggravation de la crise du logement (expansion des bidonvilles), saturation des points d’eau, pression sur les structures de santé et les écoles déjà dépassées.\nVulnérabilité Accrue : Les nouveaux arrivants, déjà affaiblis, s’installent souvent dans les zones les plus exposées de la ville (zones inondables, non loties), les rendant extrêmement vulnérables au prochain choc (par exemple, des pluies torrentielles pouvant causer des inondations).\nChangement Social : Transformation du tissu social et économique de la ville, avec un afflux de populations aux cultures et modes de vie différents (often more rural), pouvant parfois générer des tensions.\nRemarque : plus le système est vulnérable, plus une perturbation qu’elle soit petite peut l’influencer.\nAnalyse du Cas : L’Occupation des Zones Inondables 1. La Séquence des Événements : Un Scénario Prévisible Votre description suit une chronologie qui est presque un archétype de la catastrophe évitable :\n2006 : Production de la carte d’inondation.\nAction rationnelle : Une autorité (souvent les services techniques de la ville, un bureau d’études ou une direction de l’urbanisme) produit un document scientifique crucial. Cette carte identifie les zones à aléa inondation (zones rouges où le risque est fort, zones bleues où il est modéré, etc.) grâce à des modèles hydrologiques et hydrauliques.\nObjectif : Ce document doit être opposable et servir de base au Plan d’Urbanisme (ou Plan Local d’Urbanisme - PLU en France) pour interdire ou strictement réglementer toute construction dans ces zones.\n2012 : Lotissements dans les zones identifiées comme inondables.\nDécision irrationnelle/ politique/ économique : Malgré la carte, des décideurs (municipaux, promoteurs) accordent des permis de construire et lotissent des terrains. Les motivations peuvent être multiples :\nPression foncière : Besoin urgent de terrains constructibles pour loger une population croissante.\nSpéculation immobilière : La valeur des terrains inondables est moindre ; les vendre comme terrains à bâtir est très lucratif.\nCorruption ou clientélisme : Attribution de terrains à des particuliers ou à des promoteurs en échange de soutien.\nDéni de risque : Minimisation du risque (“une crue centennale, c’est tous les 100 ans, on a le temps”).\nDate ultérieure : Suites d’inondations et leur corollaire.\nLa catastrophe prévisible se produit : Un épisode pluvieux important, pas nécessairement exceptionnel, provoque une inondation. L’eau s’engouffre dans les zones qui étaient naturellement destinées à l’accueillir (champs d’expansion de crue) mais qui sont maintenant urbanisées.\nLes conséquences (le “corollaire”) sont toujours les mêmes :\nHumaines : Pertes de vies humaines, traumatismes, déplacements de population.\nÉconomiques : Destruction d’habitations, de véhicules, d’infrastructures publiques (routes, réseaux électriques). Coût faramineux pour la collectivité en termes de secours, de réhabilitation et d’indemnisation (souvent via le régime des catastrophes naturelles).\nSociales et Politiques : Colère des habitants (“On nous a vendu un terrain en zone inondable !”), perte de confiance dans les autorités, procès contre la mairie pour faute lourde (avoir délivré un permis de construire en connaissance du risque).\n\nPourquoi cela arrive-t-il ? Les Causes Profondes Défaut de prise en compte de l’aléa dans les documents d’urbanisme : La carte existe, mais elle n’a pas été intégrée réglementairement dans le plan d’urbanisme, ou des dérogations ont été massivement accordées.\n\nCourt-termisme : Les bénéfices immédiats de la construction (taxes, logements, emplois pendant le chantier) prennent le pas sur le risque futur, perçu comme lointain et incertain.\nRapport de force : Les services techniques qui alertent sur les risques sont souvent mis en minorité face aux élus et aux promoteurs qui poussent pour le développement économique.\nPhénomène de “mauvaise foi” : Parfois, les lotissements sont officialisés mais les acquéreurs ne sont pas clairement informés du risque dans leur acte de vente.\n\nLe Rôle Crucial de la Géomatique (SIG) pour Comprendre et Agir Un expert en SIG ne se contente pas de produire la carte ; il peut démontrer l’absurdité de la situation :\n\nSuperposition et preuve par l’image : La démonstration la plus frappante consiste à superposer dans un SIG :\nLa carte des aléas inondation de 2006 (en transparence rouge).\nLe cadastre et le plan des lotissements réalisés après 2012.\nLes photos satellites ou aériennes des inondations lorsqu’elles ont eu lieu.\nCette superposition visuelle est une preuve accablante de l’erreur de décision. Elle montre sans équivoque que l’on a construit exactement là où la science prédisait que l’eau passerait.\nAnalyse prospective : Les SIG permettent aussi de modéliser l’impact de nouveaux projets avant de construire. On peut simuler une crue et visualiser quels bâtiments seraient touchés, estimer les dégâts potentiels et donc le coût pour la collectivité, ce qui peut aider à faire annuler un projet risqué.\nConclusion : Un Échec de la Gestion des Risques Ce cas n’est pas une simple “malchance” ou une “catastrophe naturelle”. C’est un désastre anthropique – c’est-à-dire causé par l’homme – qui relève de la négligence ou de la faute délibérée.\nLa production d’une carte de risque est une première étape essentielle, mais elle est parfaitement inutile si elle n’est pas suivie d’une volonté politique forte pour en appliquer les conclusions dans l’aménagement du territoire. C’est un exemple typique de la manière dont, à l’Anthropocène, nos propres décisions court-termistes aggravent considérablement l’impact des aléas naturels, transformant un phénomène environnemental normal (une crue) en une catastrophe humaine et économique.\nCas Documenté : L’Érosion Côtière Accélérée de Cotonou, Bénin\n\nLe Constat : Une Côte qui Disparaît La côte béninoise, et particulièrement le secteur de Cotonou, subit une érosion sévère et accélérée depuis des décennies.\n\nChiffres clés : Le littoral béninois recule en moyenne de 1 à 1,5 mètre par an, avec des pointes allant jusqu’à 10 à 30 mètres par an sur les zones les plus critiques, comme l’embouchure de la lagune de Cotonou (source: Programme WACA).\nImpacts :\nDisparition de villages côtiers (ex: Gbodjè, Gbèdonou).\nDestruction d’infrastructures économiques vitales : route côtière RNIE1, habitations, hôtels.\nPerte de terres agricoles et de moyens de subsistance pour les populations.\nSalinisation des eaux souterraines et des terres.\n\nLes Causes Anthropiques : La Perturbation du Transit Sédimentaire Votre description des causes est tout à fait exacte. La dynamique littorale naturelle a été inversée par une série d’aménagements.\n\nA. La Construction des Barrages en Amont (Cause Majeure)\nLe fleuve Volta (Ghana) et le fleuve Mono (frontière Togo-Bénin) sont les principaux pourvoyeurs de sédiments (sable) qui alimentaient les plages du Bénin, du Togo et du Ghana par un mouvement naturel de dérive littorale d’Est en Ouest.\nBarrage d’Akosombo (Ghana, 1965) : La construction du barrage qui a créé le lac Volta, l’un des plus grands lacs artificiels du monde, a été un choc sédimentaire régional.\nMécanisme : Le barrage piège la quasi-totalité des sédiments qui étaient charriés par le fleuve Volta. Privé de son charriage solide, le fleuve sortant du barrage a un pouvoir “nettoyant” et érosif accru sur son lit, mais il ne fournit plus de sable pour nourrir les plais en aval.\nConséquence : La “dérive littorale”, courant marin qui longe la côte, continue de transporter le sable vers l’ouest mais n’est plus alimentée suffisamment par les apports du Volta. Elle devient alors érosive pour compenser ce déficit, “grignotant” les plages du Bénin et du Togo.\nBarrage de Nangbéto (Togo/Bénin, 1987) : Bien que plus petit, ce barrage sur le fleuve Mono a amplifié le phénomène en piégeant à son tour les sédiments restants qui nourrissaient spécifiquement la côte est du Bénin.\nB. La Construction des Ports en Aval (Cause Locale Aggravante)\nPort de Lomé (Togo) et Port Autonome de Cotonou (Bénin) : Ces deux infrastructures majeures sont construites perpendiculairement à la côte avec de longues jetées.\nMécanisme : Ces jetées agissent comme une barrière physique au transit naturel des sédiments le long de la côte (la dérive littorale). Le sable s’accumule du côté amont (côté est des jetées), provoquant une accretion (avancée de la terre), mais il est bloqué pour le côté aval (côté ouest), ce qui crée une “ombre sédimentaire” et une érosion sévère.\nEffet spécifique à Cotonou : La jetée de l’ancien port de Cotonou (agrandie à plusieurs reprises) est identifiée comme la cause directe de l’érosion catastrophique à son ouest immédiat, là où se trouve l’embouchure et les quartiers vulnérables.\n\nInversion de la Dynamique et Preuves Vous avez raison de pointer la période autour de 1965 comme charnière. Les études sédimentologiques et la comparaison de photographies aériennes et satellitaires sur plusieurs décennies le confirment :\n\nAvant les aménagements : La côte était globalement stable ou même en légère accretion (progradation), les fleuves compensant l’érosion naturelle par leurs apports.\nAprès les aménagements : La réduction drastique des apports sédimentaires (estimée à plus de 70% pour certains fleuves) a inversé l’équilibre. La force des vagues (notamment la houle de sud-ouest) n’est plus contrebalancée par l’apport de sable, ce qui mène à un recul inexorable du trait de côte.\n\nRéponses et Mitigation Face à cette crise, le Bénin a tenté plusieurs solutions, souvent coûteuses et aux résultats mitigés :\n\nOuvrages de protection “dures” : Enrochements, épis. Ils protègent localement mais peuvent déplacer le problème d’érosion plus loin sur la côte.\nRechargement de plage (nourrissement) : Apport artificiel de sable pour compenser les pertes. C’est une solution plus naturelle mais très coûteuse et à renouveler périodiquement.\nCoopération Régionale (Programme WACA) : Le Bénin est engagé dans le Programme de Gestion du Littoral de l’Afrique de l’Ouest (WACA), financé par la Banque Mondiale. Ce programme reconnaît le caractère transfrontalier du problème et vise des solutions intégrées de gestion du littoral.\nRéférences et Sources pour Vérification : Banque Mondiale / Programme WACA : Le site du programme WACA fournit des données détaillées sur l’érosion au Bénin et les projets en cours.\nLien : www.waca.org\nÉtudes Scientifiques :\nKaki, C. et al. (2021). “Assessment of the Impact of Shoreline Segmentation on the Evolution of the Coastline of Cotonou (Benin)”. Journal of Coastal Research.\nLaïbi, R. A. et al. (2014). “The erosion of the coast of Benin: diagnosis and solutions”. Géo-Eco-Trop.\nAnthony, E. J. et al. (2016). “The wave-dominated gravel beaches of Ghana: lessons for coastal management”. Ocean & Coastal Management. (Cette étude traite du Ghana mais explique parfaitement l’impact régional du barrage d’Akosombo).\nRapports Institutionnels :\nUNESCO (2010). “Étude sur l’érosion côtière en Afrique de l’Ouest”. Ce rapport mentionne explicitement l’impact des barrages et des ports.\nDirection Générale de l’Environnement du Bénin : Publie régulièrement des rapports sur l’état du littoral.\nConclusion : Votre description du cas est parfaitement exacte. L’érosion côtière à Cotonou est un paradigme des impacts anthropiques indirects et transfrontaliers. Elle démontre que la gestion du littoral ne peut se concevoir sans une compréhension fine de la sédimentologie des bassins versants à l’échelle régionale et une coopération entre les pays pour gérer les ressources partagées. C’est une leçon cruciale pour l’aménagement du territoire à l’Anthropocène.\nCaractéristiques et dynamiques des populations piégées.\nDu nomadismes forcé par la force des choses. des placements provisoires répétés.\nCertains reste sur place pour s’adapter mais, cela est par moment limité, notamment lors de la montée des eaux.\nObservatoire du littoral sur l’ensemble de l’Afrique de l’ouest (de la Mauritanie au Nigéria).\n\nAnalyse à l’ère de l’Anthropocène :\n\nCe cas est une parfaite illustration des risques systémiques de l’Anthropocène :\nEnchaînement de Causes à Effets : Un phénomène climatique (sécheresse) → provoque une crise économique (perte de récoltes) → qui déclenche une crise sociale (migration forcée) → qui génère une crise urbaine et humanitaire.\nBoucle de Rétroaction Négative : L’exode rural massif aggrave la situation dans les campagnes (perte de main-d’œuvre pour la reconstruction) et dans les villes, créant un cercle vicieux de pauvreté et de vulnérabilité.\nQuestion de Justice Environnementale : Les populations qui ont le moins contribué au changement climatique (les agro-pasteurs mauritaniens) en subissent les conséquences les plus directes et brutales.\n\nOrigine du terme “réfugié climatique” Il est inexact de dire que le terme a été “prononcé pour la première fois en Australie” en tant que pays. Sa paternité est généralement attribuée à un rapport des Nations Unies.\n\nLa référence clé : Le terme “environmental refugee” (réfugié environnemental) a été popularisé, sinon inventé, dans un rapport du Programme des Nations Unies pour l’environnement (PNUE) en 1985, rédigé par l’expert Essam El-Hinnawi.\nLe lien avec l’Australie : L’Australie a été, en effet, l’un des premiers pays à débattre de cette question de manière très concrète et médiatisée. Dans les années 2000, des habitants des îles de Papouasie-Nouvelle-Guinée et de l’État insulaire de Tuvalu (dans le Pacifique) ont demandé l’asile en Australie et en Nouvelle-Zélande en arguant de la montée des eaux qui rendait leurs territoires inhabitables. Les tribunaux australiens et néo-zélandais ont rejeté ces demandes, mais ces cas ont placé la question des “réfugiés climatiques” sous les projecteurs internationaux, avec l’Australie en première ligne géographique. C’est probablement la source de cette idée.\n\nLa position des États-Unis (et d’autres pays) Vrai. Les États-Unis, parmi d’autres nations occidentales (Canada, pays européens), se sont montrés très réticents à adopter le terme juridique de “réfugié climatique”.\n\nRaisons juridiques : Le statut de réfugié est défini strictement par la Convention de Genève de 1951. Il s’applique à toute personne persécutée en raison de sa race, sa religion, sa nationalité, son appartenance à un groupe social ou ses opinions politiques. La définition ne mentionne ni l’environnement, ni le climat. Élargir cette définition créerait une obligation légale d’accueil pour les signataires de la convention, ce que ces pays refusent.\nRaisons politiques et de sécurité : Comme vous le mentionnez, les pays craignent qu’une reconnaissance officielle n’encourage un afflux massif de migrants et n’alourdisse leur système d’asile. Ils redoutent aussi d’être tenus juridiquement et financièrement responsables pour des phénomènes (le changement climatique) auxquels ils ont contribué.\n\nLa non-reconnaissance officielle du terme Vrai à ce jour. Il n’existe aucun statut juridique international de “réfugié climatique”.\n\nLe débat sémantique : Les organisations internationales (HCR, OIM) évitent désormais ce terme, qu’elles jugent inexact et potentiellement nuisible. Elles lui préfèrent des termes plus descriptifs et juridiquement neutres comme :\n“Personnes déplacées dans le contexte de catastrophes et du changement climatique”\n“Migrant environnemental”\nPourquoi ? Parce que la migration climatique est souvent interne (les gens se déplacent à l’intérieur de leur pays) et que le terme “réfugié” implique une traversée de frontière internationale. De plus, le climat est rarement l’unique facteur de migration (il se mêle à des facteurs économiques, politiques et sociaux).\nRéférences et sources pour aller plus loin : Le rapport fondateur d’El-Hinnawi (1985) :\nEl-Hinnawi, E. (1985). Environmental Refugees. United Nations Environment Programme (PNUE). Nairobi.\nC’est la source originelle souvent citée.\nSur la position des États-Unis et le débat juridique :\nHuman Rights Watch et le Brookings Institution ont publié de nombreux rapports sur la frilosité des pays riches.\nLa position officielle des États-Unis se lit dans leurs prises de position lors des négociations climatiques (COP) et dans les documents du Department of State qui distinguent toujours strictement les “réfugiés” (au sens de la Convention de Genève) des “migrants”.\nSur la non-reconnaissance et la terminologie :\nOrganisation Internationale pour les Migrations (OIM) : Leurs publications utilisent systématiquement le terme de “migrant environnemental” et expliquent pourquoi “réfugié” est problématique.\nHaut-Commissariat des Nations Unies pour les Réfugiés (HCR) : Le HCR publie régulièrement des notes juridiques sur le sujet, reconnaissant le défi mais réaffirmant que le cadre juridique actuel de la protection internationale des réfugiés ne couvre pas les motifs environnementaux.\nInitiative Nansen (2012-2015) : Processus intergouvernemental qui a abouti à un Agenda pour la protection des personnes déplacées au-delà des frontières dans le contexte de catastrophes naturelles et des changements climatiques. C’est la base du travail actuel, qui évite soigneusement le terme “réfugié”.\n\n9.6.1 Résumé\nhh ``````````````````` :::"
+  },
+  {
+    "objectID": "01_Cours/RISQ2018_SIG_Teledection.html",
+    "href": "01_Cours/RISQ2018_SIG_Teledection.html",
+    "title": "10  Rôles des systèmes d’information géographique et des techniques géomatiques dans la gestion des risques et catastrophes",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2018_SIG_Teledection.html#plan-de-cours",
+    "href": "01_Cours/RISQ2018_SIG_Teledection.html#plan-de-cours",
+    "title": "10  Rôles des systèmes d’information géographique et des techniques géomatiques dans la gestion des risques et catastrophes",
+    "section": "10.2 Plan de cours",
+    "text": "10.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2018_SIG_Teledection.html#notes-de-cours-structurées",
+    "href": "01_Cours/RISQ2018_SIG_Teledection.html#notes-de-cours-structurées",
+    "title": "10  Rôles des systèmes d’information géographique et des techniques géomatiques dans la gestion des risques et catastrophes",
+    "section": "10.3 Notes de cours (structurées)",
+    "text": "10.3 Notes de cours (structurées)\n\n10.3.1 Résumé\n…\n\n\n10.3.2 Points clés\n\n…\n\n\n\n10.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2018_SIG_Teledection.html#application-burkina-faso",
+    "href": "01_Cours/RISQ2018_SIG_Teledection.html#application-burkina-faso",
+    "title": "10  Rôles des systèmes d’information géographique et des techniques géomatiques dans la gestion des risques et catastrophes",
+    "section": "10.4 Application Burkina Faso",
+    "text": "10.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/RISQ2018_SIG_Teledection.html#bibliographie-commentée",
+    "href": "01_Cours/RISQ2018_SIG_Teledection.html#bibliographie-commentée",
+    "title": "10  Rôles des systèmes d’information géographique et des techniques géomatiques dans la gestion des risques et catastrophes",
+    "section": "10.5 Bibliographie commentée",
+    "text": "10.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/ENVT3124_R_intro.html",
+    "href": "01_Cours/ENVT3124_R_intro.html",
+    "title": "11  Traitement de données environnementales – Partim 2: Initiation à R",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/ENVT3124_R_intro.html#plan-de-cours",
+    "href": "01_Cours/ENVT3124_R_intro.html#plan-de-cours",
+    "title": "11  Traitement de données environnementales – Partim 2: Initiation à R",
+    "section": "11.2 Plan de cours",
+    "text": "11.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/ENVT3124_R_intro.html#notes-de-cours-structurées",
+    "href": "01_Cours/ENVT3124_R_intro.html#notes-de-cours-structurées",
+    "title": "11  Traitement de données environnementales – Partim 2: Initiation à R",
+    "section": "11.3 Notes de cours (structurées)",
+    "text": "11.3 Notes de cours (structurées)\n\n11.3.1 Résumé\n…\n\n\n11.3.2 Points clés\n\n…\n\n\n\n11.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/ENVT3124_R_intro.html#application-burkina-faso",
+    "href": "01_Cours/ENVT3124_R_intro.html#application-burkina-faso",
+    "title": "11  Traitement de données environnementales – Partim 2: Initiation à R",
+    "section": "11.4 Application Burkina Faso",
+    "text": "11.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/ENVT3124_R_intro.html#bibliographie-commentée",
+    "href": "01_Cours/ENVT3124_R_intro.html#bibliographie-commentée",
+    "title": "11  Traitement de données environnementales – Partim 2: Initiation à R",
+    "section": "11.5 Bibliographie commentée",
+    "text": "11.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/RISQ2019_alerte_precoce.html",
+    "href": "01_Cours/RISQ2019_alerte_precoce.html",
+    "title": "12  Systèmes d’alerte précoce",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2019_alerte_precoce.html#plan-de-cours",
+    "href": "01_Cours/RISQ2019_alerte_precoce.html#plan-de-cours",
+    "title": "12  Systèmes d’alerte précoce",
+    "section": "12.2 Plan de cours",
+    "text": "12.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2019_alerte_precoce.html#notes-de-cours-structurées",
+    "href": "01_Cours/RISQ2019_alerte_precoce.html#notes-de-cours-structurées",
+    "title": "12  Systèmes d’alerte précoce",
+    "section": "12.3 Notes de cours (structurées)",
+    "text": "12.3 Notes de cours (structurées)\n\n12.3.1 Résumé\n…\n\n\n12.3.2 Points clés\n\n…\n\n\n\n12.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2019_alerte_precoce.html#application-burkina-faso",
+    "href": "01_Cours/RISQ2019_alerte_precoce.html#application-burkina-faso",
+    "title": "12  Systèmes d’alerte précoce",
+    "section": "12.4 Application Burkina Faso",
+    "text": "12.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/RISQ2019_alerte_precoce.html#bibliographie-commentée",
+    "href": "01_Cours/RISQ2019_alerte_precoce.html#bibliographie-commentée",
+    "title": "12  Systèmes d’alerte précoce",
+    "section": "12.5 Bibliographie commentée",
+    "text": "12.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/RISQ2020_amenagement_prevention.html",
+    "href": "01_Cours/RISQ2020_amenagement_prevention.html",
+    "title": "13  Aménagement du territoire et prévention des risques",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2020_amenagement_prevention.html#plan-de-cours",
+    "href": "01_Cours/RISQ2020_amenagement_prevention.html#plan-de-cours",
+    "title": "13  Aménagement du territoire et prévention des risques",
+    "section": "13.2 Plan de cours",
+    "text": "13.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2020_amenagement_prevention.html#notes-de-cours-structurées",
+    "href": "01_Cours/RISQ2020_amenagement_prevention.html#notes-de-cours-structurées",
+    "title": "13  Aménagement du territoire et prévention des risques",
+    "section": "13.3 Notes de cours (structurées)",
+    "text": "13.3 Notes de cours (structurées)\n\n13.3.1 Résumé\n…\n\n\n13.3.2 Points clés\n\n…\n\n\n\n13.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2020_amenagement_prevention.html#application-burkina-faso",
+    "href": "01_Cours/RISQ2020_amenagement_prevention.html#application-burkina-faso",
+    "title": "13  Aménagement du territoire et prévention des risques",
+    "section": "13.4 Application Burkina Faso",
+    "text": "13.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/RISQ2020_amenagement_prevention.html#bibliographie-commentée",
+    "href": "01_Cours/RISQ2020_amenagement_prevention.html#bibliographie-commentée",
+    "title": "13  Aménagement du territoire et prévention des risques",
+    "section": "13.5 Bibliographie commentée",
+    "text": "13.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/ENVT0010_seminaire_integre.html",
+    "href": "01_Cours/ENVT0010_seminaire_integre.html",
+    "title": "14  Séminaire – Approche intégrée d’une question d’environnement",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/ENVT0010_seminaire_integre.html#plan-de-cours",
+    "href": "01_Cours/ENVT0010_seminaire_integre.html#plan-de-cours",
+    "title": "14  Séminaire – Approche intégrée d’une question d’environnement",
+    "section": "14.2 Plan de cours",
+    "text": "14.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/ENVT0010_seminaire_integre.html#notes-de-cours-structurées",
+    "href": "01_Cours/ENVT0010_seminaire_integre.html#notes-de-cours-structurées",
+    "title": "14  Séminaire – Approche intégrée d’une question d’environnement",
+    "section": "14.3 Notes de cours (structurées)",
+    "text": "14.3 Notes de cours (structurées)\n\n14.3.1 Résumé\n…\n\n\n14.3.2 Points clés\n\n…\n\n\n\n14.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/ENVT0010_seminaire_integre.html#application-burkina-faso",
+    "href": "01_Cours/ENVT0010_seminaire_integre.html#application-burkina-faso",
+    "title": "14  Séminaire – Approche intégrée d’une question d’environnement",
+    "section": "14.4 Application Burkina Faso",
+    "text": "14.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/ENVT0010_seminaire_integre.html#bibliographie-commentée",
+    "href": "01_Cours/ENVT0010_seminaire_integre.html#bibliographie-commentée",
+    "title": "14  Séminaire – Approche intégrée d’une question d’environnement",
+    "section": "14.5 Bibliographie commentée",
+    "text": "14.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/RISQ2029_soft_skills.html",
+    "href": "01_Cours/RISQ2029_soft_skills.html",
+    "title": "15  Soft skills au service de la gestion des risques",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2029_soft_skills.html#plan-de-cours",
+    "href": "01_Cours/RISQ2029_soft_skills.html#plan-de-cours",
+    "title": "15  Soft skills au service de la gestion des risques",
+    "section": "15.2 Plan de cours",
+    "text": "15.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2029_soft_skills.html#note-de-cours-détaillée-communication-interpersonnelle-et-groupale",
+    "href": "01_Cours/RISQ2029_soft_skills.html#note-de-cours-détaillée-communication-interpersonnelle-et-groupale",
+    "title": "15  Soft skills au service de la gestion des risques",
+    "section": "15.3 Note de cours détaillée – Communication interpersonnelle et groupale",
+    "text": "15.3 Note de cours détaillée – Communication interpersonnelle et groupale\nDate : 17 septembre 2025\nLieu : UNamur\nEnseignante : Delphine BROGNA\nCours : Soft skills au service de la gestion des risques et des catastrophes – Module 4\nDurée : 24h SEM (partagé avec F. De Longueville, S. Henry, C. Linard)\n\n\n15.3.1 1. Contexte et objectifs du module\n\nDévelopper des compétences transversales essentielles pour :\n\nle travail interdisciplinaire (Master GRCA),\nla vie professionnelle,\nla vie quotidienne.\n\n\nApproche pédagogique : exercices pratiques, expériences de communication, co-construction → apprendre en faisant et en s’observant.\n\nMéthode d’évaluation :\n\nEntretien oral réflexif (juin/août) basé sur les observations et la mise en pratique des techniques vues en séance.\n\nSupport attendu : un A3 structurant expériences, observations et apprentissages.\n\n\n\n\n\n15.3.2 2. Déroulement de la séance\n\nPrésentation générale du cours et des règles du cadre de travail (confidentialité, respect, posture réflexive).\n\nSérie de jeux et exercices pratiques introduisant les canaux de communication :\n\nJeu de présentation croisée\n- Chaque participant se déplace, se présente (nom/prénom) et remet une partie de dessin au binôme complémentaire.\n- Objectif : créer du lien, amorcer une communication verbale simple.\nBinômes avec dessins complémentaires\n- 3 minutes d’échange mutuel → puis chaque participant présente son binôme au groupe.\n- Objectif : travailler l’écoute active et la reformulation.\nJeu de devinettes des prénoms (inversion du 1er exercice).\nQualités en communication\n- Chaque duo partage une qualité personnelle.\n- Restitution collective → apprentissage par l’autre.\nDéfauts en communication\n- Même logique mais sur les difficultés rencontrées.\n- Objectif : prendre conscience des limites personnelles et des leviers d’amélioration.\nExercice de lecture à voix haute\n- Deux volontaires lisent un texte ; les autres analysent la communication verbale, non verbale et para-verbale.\n- Introduction au triptyque de Mehrabian (1971) :\n- Verbal (mots),\n- Para-verbal (intonation, rythme, pauses),\n- Non-verbal (gestes, posture, expressions).\nAnalyse des proximités\n- Observation des binômes assis côte à côte → lecture des signaux envoyés par la distance/proximité.\nSimulation d’entrée dans une salle\n- Deux participants entrent et s’installent.\n- Les autres identifient les signaux non verbaux envoyés.\n\n\n\n15.3.3 3. Apports conceptuels\n\nCommunication non-verbale : langage du corps, posture, distance, gestes, contact visuel, expressions faciales.\n\nNotion de distance relationnelle : entre indifférence et intrusion, la communication se développe dans l’espace intermédiaire.\n\n\nCommunication para-verbale : intonation, rythme, volume → révélateurs des émotions.\n\nCommunication verbale : contenu, vocabulaire → importance d’un langage adapté aux situations complexes.\n\nÉmotions de base (Paul Ekman, 1972) : joie, tristesse, colère, peur, dégoût, surprise, mépris → omniprésentes dans la communication.\n\n\n\n\n15.3.4 4. Méthode réflexive\nEn fin de séance, chaque étudiant est invité à répondre en 5 minutes :\n- Qu’ai-je appris ? Quels éléments ont résonné en moi ?\n- Application professionnelle : Dans quelle situation ce que j’ai appris peut m’aider ? Comment ?\n\n\n\n15.3.5 5. Ressources complémentaires\n\nAlbert Mehrabian (1971) : Silent Messages → importance du non-verbal.\n\nPaul Ekman (1972) : travaux sur les micro-expressions et les émotions universelles → paulekman.com.\n\nLivre recommandé : La communication non-violente – Marshall Rosenberg.\n\nApplication au GRCA :\n\naméliorer la coopération entre experts,\n\ndialoguer avec les communautés,\n\ngérer des situations de tension.\n\n\n\n\n Mindmap – Communication interpersonnelle et groupale (séance 1, 17 sept 2025).\nFigure 15.1: ?(caption)\n\n\nCe cours organisé en quatre modules a débuté, le 17 septembre 2025 à UNamur avec Delphine BROGNA. Le module 4 intitulé “communication interpersonnelle et inter-groupale” a été à l’ordre du jour. Cette première séance à porté sur l’introduction au canaux de communication.\nLe décor a été planté en présentant l’ensemble des modules, en expliquant clairement leur objectif et le mode d’évaluation.\nA la suite, les fondements (méthode de travail) du cours ont été exposé et admis par l’ensemble des participants.\nLe déroulement du cours s’est faite à travers une serie de jeux.\n\nLe premier à constiter en des marches croiser, et on donne son nom prenoms ou nom à celui qu’on croise. Cela a été répété. Il faut souligner que chaque participant avait en main un dessin dont le complément était détenu par un autre donc à chaque présentation, il fallait remettre à celui à qui on se présente.\nLe second jeu à consiter à mettre en binome ceux qui avait des dessin complémentaire, et il a été demandé que chacun parle de lui (3 minutes pour les deux). A la suite chacun est passé présenté son binome.\nle jeux suivant a été le contraire du premier, cette fois ci il fallait deviner le nom de l’autre et vise versa.\na la suite ceux qui detenait les dessins complementaires devait échanger, mais cette fois, chacun devait donnés une de ses qualités en communication. Et chacun est passé exposé ce qui a été dit par son binome.\nUne fois de plus, le jeux suivant a été le contraire du premier, cette fois ci il fallait deviner le nom de l’autre et vise versa.\nEt les duos devrait à présent données un de leur défauts en communication. Et chacun est passé exposé ce qui a été dit par son binome.\nS’en est suivie un exercice de lecture, ou deux participants ce sont prétés au jeux et la. Les autres devrait après dire ce qui on retenus de la communication des lecteurs.\nPuis on a formé encore des binomes, mais cette fois ci, il a juste été demandé de s’assoir juste ensemble. Une analyse de la manière chaque binome a s’est disposé a été faite.\nles derniers jeux, il a été demandé a deux participants de simuler une entré dans la salle jusqu’a s’assoire à une place. Et les autres devrait expliquer ce qui ont remarqué.\n\nLes jeux ont pris fin et l’enseignante à expliqué l’ensembles des diaspo … l’invite fait aux étudiants de prendre le soin en 5 minutes de notre : ❑ Qu’ai-je appris ? Quels éléments ont retenu mon attention, ont fait écho en moi? ❑ Dans quelle situation professionnelle (y. c. travail intégré), ce que j’ai appris aujourd’hui pourrait faciliter les choses (et comment)?\nLien du module 4 : https://drive.google.com/file/d/1EVYS1_SzbI1LPoc6gP8V21MtxrHmH6f6/view?usp=sharing"
+  },
+  {
+    "objectID": "01_Cours/RISQ2025_migrations_env.html",
+    "href": "01_Cours/RISQ2025_migrations_env.html",
+    "title": "16  Migrations environnementales et déplacements",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2025_migrations_env.html#plan-de-cours",
+    "href": "01_Cours/RISQ2025_migrations_env.html#plan-de-cours",
+    "title": "16  Migrations environnementales et déplacements",
+    "section": "16.2 Plan de cours",
+    "text": "16.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2025_migrations_env.html#notes-de-cours-structurées",
+    "href": "01_Cours/RISQ2025_migrations_env.html#notes-de-cours-structurées",
+    "title": "16  Migrations environnementales et déplacements",
+    "section": "16.3 Notes de cours (structurées)",
+    "text": "16.3 Notes de cours (structurées)\n\n16.3.1 Résumé\n…\n\n\n16.3.2 Points clés\n\n…\n\n\n\n16.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2025_migrations_env.html#application-burkina-faso",
+    "href": "01_Cours/RISQ2025_migrations_env.html#application-burkina-faso",
+    "title": "16  Migrations environnementales et déplacements",
+    "section": "16.4 Application Burkina Faso",
+    "text": "16.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/RISQ2025_migrations_env.html#bibliographie-commentée",
+    "href": "01_Cours/RISQ2025_migrations_env.html#bibliographie-commentée",
+    "title": "16  Migrations environnementales et déplacements",
+    "section": "16.5 Bibliographie commentée",
+    "text": "16.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "01_Cours/RISQ2030_gouvernance_resilience.html",
+    "href": "01_Cours/RISQ2030_gouvernance_resilience.html",
+    "title": "17  Gouvernance, planification d’urgence, résilience et adaptation – REX",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2030_gouvernance_resilience.html#plan-de-cours",
+    "href": "01_Cours/RISQ2030_gouvernance_resilience.html#plan-de-cours",
+    "title": "17  Gouvernance, planification d’urgence, résilience et adaptation – REX",
+    "section": "17.2 Plan de cours",
+    "text": "17.2 Plan de cours\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2030_gouvernance_resilience.html#notes-de-cours-structurées",
+    "href": "01_Cours/RISQ2030_gouvernance_resilience.html#notes-de-cours-structurées",
+    "title": "17  Gouvernance, planification d’urgence, résilience et adaptation – REX",
+    "section": "17.3 Notes de cours (structurées)",
+    "text": "17.3 Notes de cours (structurées)\n\n17.3.1 Résumé\n…\n\n\n17.3.2 Points clés\n\n…\n\n\n\n17.3.3 Méthodes / Outils\n\n…"
+  },
+  {
+    "objectID": "01_Cours/RISQ2030_gouvernance_resilience.html#application-burkina-faso",
+    "href": "01_Cours/RISQ2030_gouvernance_resilience.html#application-burkina-faso",
+    "title": "17  Gouvernance, planification d’urgence, résilience et adaptation – REX",
+    "section": "17.4 Application Burkina Faso",
+    "text": "17.4 Application Burkina Faso\nDécrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF."
+  },
+  {
+    "objectID": "01_Cours/RISQ2030_gouvernance_resilience.html#bibliographie-commentée",
+    "href": "01_Cours/RISQ2030_gouvernance_resilience.html#bibliographie-commentée",
+    "title": "17  Gouvernance, planification d’urgence, résilience et adaptation – REX",
+    "section": "17.5 Bibliographie commentée",
+    "text": "17.5 Bibliographie commentée\n\nAuteur (année). Titre. Résumé : …"
+  },
+  {
+    "objectID": "02_Tools/R_intro.html",
+    "href": "02_Tools/R_intro.html",
+    "title": "18  R – Notions & recettes utiles",
+    "section": "",
+    "text": "Snippets pour import, nettoyage, visualisation, reporting (Quarto)."
+  },
+  {
+    "objectID": "02_Tools/SIG.html",
+    "href": "02_Tools/SIG.html",
+    "title": "19  SIG – Workflows reproductibles",
+    "section": "",
+    "text": "Chaines sf, terra, mapview, tmap pour analyses spatiales."
+  },
+  {
+    "objectID": "02_Tools/EarlyWarning.html",
+    "href": "02_Tools/EarlyWarning.html",
+    "title": "20  EWS – Systèmes d’alerte précoce",
+    "section": "",
+    "text": "Concepts, architectures, exemples BF (inondations, sécheresses)."
+  },
+  {
+    "objectID": "06_Pays_Cibles/Burkina_Faso/contexte.html",
+    "href": "06_Pays_Cibles/Burkina_Faso/contexte.html",
+    "title": "21  Burkina Faso – Contexte & vulnérabilités",
+    "section": "",
+    "text": "Indicateurs clés, cadre institutionnel, risques majeurs, données disponibles."
+  },
+  {
+    "objectID": "06_Pays_Cibles/Burkina_Faso/application_cours.html",
+    "href": "06_Pays_Cibles/Burkina_Faso/application_cours.html",
+    "title": "22  Burkina Faso – Applications par cours",
+    "section": "",
+    "text": "Relier chaque cours à une étude de cas, base de données, ou outil opérationnel."
+  },
+  {
+    "objectID": "06_Pays_Cibles/Burkina_Faso/donnees.html",
+    "href": "06_Pays_Cibles/Burkina_Faso/donnees.html",
+    "title": "23  Burkina Faso – Données",
+    "section": "",
+    "text": "Sources de données (hydroclimat, SIG, socio-éco), standards, licences."
+  },
+  {
+    "objectID": "07_Veille/articles.html",
+    "href": "07_Veille/articles.html",
+    "title": "26  Veille – Articles scientifiques",
+    "section": "",
+    "text": "Noter les papiers clés, tendances, et résumés."
+  },
+  {
+    "objectID": "07_Veille/actualites.html",
+    "href": "07_Veille/actualites.html",
+    "title": "27  Veille – Actualités & événements",
+    "section": "",
+    "text": "Suivi de crises, rapports de situation, communiqués officiels."
+  },
+  {
+    "objectID": "07_Veille/politiques.html",
+    "href": "07_Veille/politiques.html",
+    "title": "28  Veille – Politiques & cadres",
+    "section": "",
+    "text": "Stratégies nationales, plans sectoriels, cadres internationaux."
+  },
+  {
+    "objectID": "07_Veille/alertes.html",
+    "href": "07_Veille/alertes.html",
+    "title": "29  Veille – Alertes & risques",
+    "section": "",
+    "text": "Tableau des veilles : alerte, source, périmètre, période, statut."
+  },
+  {
+    "objectID": "05_TFE/brainstorming.html",
+    "href": "05_TFE/brainstorming.html",
+    "title": "30  TFE – Brainstorming",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "05_TFE/brainstorming.html#problématique-draft",
+    "href": "05_TFE/brainstorming.html#problématique-draft",
+    "title": "30  TFE – Brainstorming",
+    "section": "30.2 Problématique (draft)",
+    "text": "30.2 Problématique (draft)\n\n…"
+  },
+  {
+    "objectID": "05_TFE/plan_travail.html",
+    "href": "05_TFE/plan_travail.html",
+    "title": "31  TFE – Plan de travail",
+    "section": "",
+    "text": "Revue littérature\nAcquisition données\nAnalyses\nRédaction\nSoutenance"
+  },
+  {
+    "objectID": "05_TFE/notes_recherche.html",
+    "href": "05_TFE/notes_recherche.html",
+    "title": "32  TFE – Notes de recherche",
+    "section": "",
+    "text": "Consigner les résultats intermédiaires, hypothèses, tests."
+  },
+  {
+    "objectID": "05_TFE/draft.html",
+    "href": "05_TFE/draft.html",
+    "title": "33  TFE – Rédaction (draft)",
+    "section": "",
+    "text": "Structure de rédaction Quarto (sections IMRaD recommandées)."
+  },
+  {
+    "objectID": "08_culture-generale/cartographie des structures-GRCA.html",
+    "href": "08_culture-generale/cartographie des structures-GRCA.html",
+    "title": "34  Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l’ère de l’Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l’Ouest",
+    "section": "",
+    "text": "Le paysage de la gestion des risques et des catastrophes (GRC) a connu une transformation fondamentale, s’éloignant de la simple réaction aux aléas perçus comme “naturels” pour se diriger vers une approche plus complexe et holistique. Cette évolution est le reflet de l’entrée dans l’ère de l’Anthropocène, une époque géologique où les activités humaines sont devenues la force dominante façonnant les systèmes terrestres. Dans ce nouveau contexte, les catastrophes ne sont plus considérées comme des évènements purement fortuits. La vulnérabilité des communautés et des infrastructures, souvent le produit de l’urbanisation rapide et non planifiée, de la dégradation de l’environnement ou des conflits, est reconnue comme le principal facteur déterminant l’impact d’un aléa. Le Bureau des Nations Unies pour la réduction des risques de catastrophe (UNDRR) a été un acteur central dans ce changement de paradigme, promouvant l’idée qu’il n’existe pas de « catastrophe naturelle », mais seulement des aléas naturels dont les conséquences désastreuses sont le résultat direct de vulnérabilités créées par l’homme.\nCette nouvelle compréhension se traduit dans les politiques et les cadres d’action à tous les niveaux. Le mandat de la Direction Générale de la Protection Civile (DGPC) du Burkina Faso, par exemple, illustre cette prise de conscience en se chargeant explicitement d’identifier et de hiérarchiser les risques “naturels et anthropiques”. 1 Cette reconnaissance de la composante humaine dans la genèse des catastrophes est un point de départ essentiel pour comprendre les structures d’intervention actuelles.\nLe rapport de référence pour la gouvernance mondiale de la RRC est le Cadre de Sendai pour la réduction des risques de catastrophe (2015-2030). Il s’articule autour de quatre priorités d’action fondamentales :\n\nPriorité 1 : Comprendre le risque de catastrophe.\nPriorité 2 : Renforcer la gouvernance des risques de catastrophe pour les gérer.\nPriorité 3 : Investir dans la réduction des risques de catastrophe pour la résilience.\nPriorité 4 : Renforcer l’état de préparation aux catastrophes pour une réponse efficace et une reconstruction améliorée (« Build Back Better »).\n\nParallèlement, l’émergence de crises hybrides, combinant des facteurs sécuritaires, climatiques et socio-économiques, a popularisé le concept du « Nexus humanitaire - développement - paix ». Cette approche intégrée vise à lier les actions d’aide d’urgence à la construction de la résilience à long terme et à la consolidation de la paix. La complexité de cet environnement exige une cartographie précise des acteurs, de leurs rôles et des dynamiques qui les animent, afin de saisir pleinement les opportunités et les besoins du marché de l’expertise en GRC. (https://www.refworld.org/en/download/148622)"
+  },
+  {
+    "objectID": "08_culture-generale/cartographie des structures-GRCA.html#lécosystème-international-de-la-gestion-des-risques-et-des-catastrophes",
+    "href": "08_culture-generale/cartographie des structures-GRCA.html#lécosystème-international-de-la-gestion-des-risques-et-des-catastrophes",
+    "title": "34  Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l’ère de l’Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l’Ouest",
+    "section": "34.2 L’Écosystème International de la Gestion des Risques et des Catastrophes",
+    "text": "34.2 L’Écosystème International de la Gestion des Risques et des Catastrophes\nL’écosystème international de la GRC est un réseau dense d’organisations aux mandats distincts, mais souvent complémentaires. Il comprend des agences intergouvernementales, des institutions financières et une myriade (quantité immense) d’organisations non gouvernementales.\n\n34.2.1 Les Agences des Nations Unies et leurs mandats\nLe système des Nations Unies est un pilier de la coordination et de l’action en matière de GRC. Chaque entité apporte une contribution spécifique en fonction de son mandat principal :\n\nLe Bureau des Nations Unies pour la réduction des risques de catastrophe (UNDRR) : Il s’agit de l’acteur pivot. L’UNDRR a pour mandat de servir de point focal au sein du système de l’ONU pour la coordination de la réduction des risques de catastrophe. Son rôle est de soutenir la mise en œuvre, le suivi et l’examen du Cadre de Sendai, et de coordonner l’action au sein du système de l’ONU pour que cette mise en œuvre se concrétise.\nLe Programme des Nations Unies pour le développement (PNUD) : Il s’agit de l’acteur pivot. Le PNUD est l’agence des Nations Unies principalement responsable des activités opérationnelles en matière de prévention des catastrophes et de renforcement des capacités au niveau national. Il aide les pays à développer des politiques, des compétences de leadership et des capacités institutionnelles afin de renforcer leur résilience et de maintenir les acquis du développement. En savoir plus sur la gestion des crises et catastrophes au Bénin selon le PNUD Bénin\nLe Bureau de la coordination des affaires humanitaires (OCHA) : Son rôle est de coordonner les affaires humanitaires et d’apporter une réponse aux crises sur le terrain. Il ne se concentre pas sur la prévention, mais plutôt sur la réponse immédiate et la coordination de l’aide en cas de catastrophe.\nLes Organisations Spécialisées : D’autres agences de l’ONU interviennent dans leurs domaines d’expertise respectifs. L’Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO) est sollicitée pour aider les agriculteurs à relancer leur production après des crises. Le Programme alimentaire mondial (PAM) apporte une aide alimentaire d’urgence aux victimes. Le Fonds des Nations Unies pour l’enfance (UNICEF) se concentre sur l’aide aux enfants touchés par les crises humanitaires.\n\n\n\n34.2.2 Les Institutions Financières et leur rôle dans la résilience\nLes institutions financières multilatérales ont opéré un changement stratégique significatif, passant d’une logique de financement réactif post-catastrophe à des approches proactives. Le Groupe de la Banque mondiale , en tant qu’acteur majeur, joue un rôle stratégique dans la gestion des risques de crise. 1 Ce rôle s’illustre à travers le développement de mécanismes de financement innovants.\nLe Global Risk Financing Facility (GRiF) est un fonds fiduciaire multidonateurs qui ne se contente pas de fournir des subventions après un choc. Il fournit des subventions pour tester, piloter et développer des instruments financiers « préétablis » afin d’aider les pays en développement à mieux gérer les impacts des chocs climatiques, des catastrophes et des crises. De même, le Mécanisme d’assurance contre les risques liés aux catastrophes dans les Caraïbes (CCRIF) est un fonds commun régional de gestion des risques qui offre des solutions d’assurance aux petits États insulaires. Ces initiatives illustrent une évolution fondamentale de l’écosystème : l’objectif n’est plus seulement de réparer les dégâts, mais de créer une résilience financière permettant de réduire la vulnérabilité économique et d’assurer une réponse plus rapide et plus prévisible aux événements.\n\n\n34.2.3 Les ONG Internationales et le mouvement humanitaire\nLes organisations non gouvernementales internationales (ONG) et les mouvements humanitaires constituent le maillage opérationnel de la GRC, souvent en première ligne sur le terrain.\n\nLe Mouvement International de la Croix-Rouge et du Croissant-Rouge : Ce mouvement est le plus grand réseau humanitaire au monde, avec des sociétés nationales dans presque tous les pays. La Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge (IFRC) soutient l’action locale dans plus de 191 pays , tandis que le Comité International de la Croix-Rouge (CICR) se concentre sur la protection des victimes de conflits armés. Leur collaboration étroite avec les sociétés nationales, comme la Croix-Rouge du Burkina Faso (CRBF) et la Croix-Rouge béninoise (CRB), est un atout majeur pour l’efficacité des interventions.\nMédecins Sans Frontières (MSF) : MSF opère dans 72 pays, se spécialisant dans l’assistance médicale vitale en cas de conflits, d’épidémies et de crises. L’organisation se distingue par sa capacité à intervenir rapidement et à fournir des soins d’urgence aux populations dont la vie ou la santé est menacée.\nOxfam : Oxfam adopte une approche multidimensionnelle, combinant assistance humanitaire directe, renforcement des capacités locales, et un travail de plaidoyer et de campagne. L’organisation s’efforce de minimiser les préjudices et d’intégrer les questions de genre dans son action, reconnaissant que les catastrophes et les conflits affectent différemment les femmes et les hommes.\nPremière Urgence Internationale : Cette ONG apolitique et laïque fournit une aide humanitaire aux victimes civiles, marginalisées par les effets des guerres, des catastrophes et de l’effondrement économique."
+  },
+  {
+    "objectID": "08_culture-generale/cartographie des structures-GRCA.html#gouvernance-et-coordination-régionales-en-afrique-de-louest",
+    "href": "08_culture-generale/cartographie des structures-GRCA.html#gouvernance-et-coordination-régionales-en-afrique-de-louest",
+    "title": "34  Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l’ère de l’Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l’Ouest",
+    "section": "34.3 Gouvernance et Coordination Régionales en Afrique de l’Ouest",
+    "text": "34.3 Gouvernance et Coordination Régionales en Afrique de l’Ouest\nLes organisations régionales et sous-régionales jouent un rôle crucial en servant de pont entre les cadres mondiaux et les réalités nationales en Afrique. L’intégration des questions de RRC et d’adaptation aux changements climatiques est devenue une priorité stratégique pour ces blocs régionaux.\nL’Union Africaine (UA) a élaboré sa propre stratégie pour la RRC, visant à contribuer au développement durable et à l’éradication de la pauvreté en facilitant l’intégration de la RRC dans les politiques de développement. De même, la Communauté Économique des États de l’Afrique Centrale (CEEAC) a une stratégie régionale qui s’appuie sur les priorités du Cadre d’action de Hyogo et s’inscrit dans la vision de l’Union africaine. Cependant, il existe un décalage entre l’ambition des stratégies régionales et leur mise en œuvre concrète au niveau national. Les documents de l’UA et de la CEEAC indiquent que si les cadres stratégiques existent, “très peu de pays ont adopté les politiques et les législations qui prennent en considération les risques de catastrophe”. Ce constat met en lumière une lacune institutionnelle majeure : le défi ne réside pas seulement dans la conception des politiques, mais dans leur traduction en actions concrètes, en cadres juridiques contraignants et en capacités nationales de mise en œuvre.\nLa Communauté Économique des États de l’Afrique de l’Ouest (CEDEAO) s’est positionnée comme un acteur clé dans ce contexte. En partenariat avec le PNUD, la CEDEAO intensifie la coopération au Sahel pour renforcer la résilience par le biais des institutions régionales et nationales de gestion des catastrophes. La Commission de la CEDEAO est active sur le terrain, par exemple en évaluant la réponse humanitaire et le rétablissement de la résilience à Katsina, au Nigéria."
+  },
+  {
+    "objectID": "08_culture-generale/cartographie des structures-GRCA.html#étude-de-cas-i-la-cartographie-des-structures-de-gestion-des-risques-au-burkina-faso",
+    "href": "08_culture-generale/cartographie des structures-GRCA.html#étude-de-cas-i-la-cartographie-des-structures-de-gestion-des-risques-au-burkina-faso",
+    "title": "34  Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l’ère de l’Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l’Ouest",
+    "section": "34.4 Étude de Cas I : La Cartographie des Structures de Gestion des Risques au Burkina Faso",
+    "text": "34.4 Étude de Cas I : La Cartographie des Structures de Gestion des Risques au Burkina Faso\nLe Burkina Faso est un cas d’étude pertinent pour saisir la complexité de la gestion des risques à l’ère de l’Anthropocène. Le pays a été confronté depuis 2015 à une crise sécuritaire qui a provoqué des déplacements forcés de populations sans précédent. Cela a transformé la gestion des catastrophes en un “enjeu majeur” et un “impératif de développement” pour la nation. (https://ishr.ch/wp-content/uploads/2024/10/Rapport-du-Burkina-Faso-a-la-Commission-africaine.pdf)\n\n34.4.1 Cadre juridique et stratégique national\nLe cadre juridique de la GRC au Burkina Faso est établi par la Loi d’OrientationN° 012-2014/AN, qui porte sur la prévention et la gestion des risques, des crises humanitaires et des catastrophes. Cette loi est le référentiel de toute intervention dans le pays Stratégie Nationale de Réduction des Risques de Catastrophe (SN-RRC), qui est alignée sur le Cadre de Sendai, est pilotée par un comité placé auprès du cabinet du Premier Ministre et son opérationnalisation est confiée à la plateforme nationale de RRC.\n\n\n34.4.2 Les acteurs gouvernementaux clés\nL’écosystème gouvernemental du Burkina Faso est structuré autour de deux entités principales, avec des rôles potentiellement complémentaires mais aussi sujets à chevauchement :\n\nLe Conseil National de Secours d’Urgence et de Réhabilitation (CONASUR) est une institution publique à vocation humanitaire, créée pour élaborer et mettre en œuvre la stratégie de prévention et de réduction des effets des catastrophes naturelles. Son secrétariat permanent est chargé de coordonner les interventions humanitaires, de former les acteurs, de développer une culture de prévention et de gérer les ressources pour les secours et la réhabilitation. Le CONASUR est plus visible sur le territoire national que la DGPC en matière de gestion des risques et désastres.\nLa Direction Générale de la Protection Civile (DGPC) est chargée de la protection permanente des personnes, des biens et de l’environnement contre les risques, tant en temps de paix qu’en temps de crise. Ses missions incluent la cartographie des risques, la gestion des stocks d’urgence, la distribution de l’assistance et la planification des interventions. Le mandat de la DGPC semble plus axé sur la gestion opérationnelle et technique des risques au sens large, tandis que le CONASUR se concentre sur la coordination humanitaire et la réhabilitation. La coordination entre ces deux entités, ainsi qu’avec leurs démembrements provinciaux et locaux (CORESUR, COPROSUR, CODESUR), est un facteur déterminant pour l’efficacité de la gouvernance des risques.\n\n\n\n34.4.3 Les acteurs non étatiques et les défis contemporains\nLa gestion des crises au Burkina Faso est fortement influencée par les acteurs non étatiques, notamment les ONG et les agences de l’ONU qui interviennent face à la crise humanitaire. La crise sécuritaire a provoqué le déplacement de 1,5 million de personnes déplacées internes (PDI) en 2021. En réponse, le pays a adopté la Stratégie Nationale de Relèvement des Personnes Déplacées Internes et des Communautés d’Accueil (SNR-PDICA). Cette stratégie, explicitement fondée sur l’approche du « Nexus humanitaire - développement - paix », vise non seulement à apporter une assistance humanitaire immédiate, mais aussi à promouvoir le relèvement à long terme, la réconciliation et la résilience économique des populations affectées. Cette démarche démontre une adaptation des politiques nationales à la nature hybride des crises contemporaines."
+  },
+  {
+    "objectID": "08_culture-generale/cartographie des structures-GRCA.html#étude-de-cas-ii-la-cartographie-des-structures-de-gestion-des-risques-au-bénin",
+    "href": "08_culture-generale/cartographie des structures-GRCA.html#étude-de-cas-ii-la-cartographie-des-structures-de-gestion-des-risques-au-bénin",
+    "title": "34  Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l’ère de l’Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l’Ouest",
+    "section": "34.5 Étude de Cas II : La Cartographie des Structures de Gestion des Risques au Bénin",
+    "text": "34.5 Étude de Cas II : La Cartographie des Structures de Gestion des Risques au Bénin\nLe Bénin, également touché par les risques climatiques et les menaces sécuritaires, a mis en place un écosystème de GRC qui reflète un fort accent sur la planification et l’intégration.\n\n34.5.1 Cadre stratégique et législatif\nLe cadre de référence du Bénin est la Stratégie Nationale de Réduction des Risques de Catastrophe (SNRRC) 2019-2030. Cette stratégie, qui s’aligne sur les orientations régionales et mondiales, vise à renforcer la résilience du pays en améliorant la connaissance des risques, en développant les capacités des institutions et des communautés, en promouvant des mécanismes financiers durables, et en renforçant la culture du risque.\nUn élément distinctif du Bénin est son Plan National d’Adaptation (PNA), soumis à la CCNUCC en 2022. Ce plan vise à renforcer la résilience dans huit secteurs clés, dont l’agriculture, l’eau et les zones côtières. Il intègre de manière explicite les questions de genre dans le processus de planification, ce qui est une approche progressive pour la région.\n\n\n34.5.2 Les structures gouvernementales\nContrairement au Burkina Faso, la gouvernance des risques au Bénin semble plus centralisée autour d’une seule agence principale :\n\nL’Agence Nationale de Protection Civile (ANPC) est un acteur central doté de la personnalité morale et de l’autonomie financière. Sa mission est de contribuer à la mise en œuvre de la politique gouvernementale de RRC en assurant la prévention, la formation, la coordination des secours et la préparation des populations. L’ANPC est chargée de la coordination des acteurs et de la gestion de l’information sur les risques. Cependant, le système de dissémination de l’information est jugé complexe et l’ANPC manque de compétences techniques pour centraliser et gérer toutes les informations relatives aux risques et aux vulnérabilités. (https://www.cadri.net/system/files/2021-06/Benin%20-%20National%20Capacity%20Assessment%20Report.pdf)\nMinistères Sectoriels : La GRC est une responsabilité partagée. Des ministères clés comme celui de l’Environnement, de l’Agriculture, de la Famille et de l’Urbanisme sont impliqués dans la conception et la mise en œuvre des politiques d’urgence. La faiblesse des mécanismes de gouvernance des risques entre ces entités est identifiée comme un facteur anthropique de la vulnérabilité du pays.\n\n\n\n34.5.3 La dynamique de l’action des partenaires\nLe Bénin bénéficie de l’appui d’un large éventail de partenaires techniques et financiers (PTF). Le PNUD est un partenaire de longue date, notamment pour l’élaboration de son programme pays. L’agence soutient des projets de renforcement de la résilience des communautés agricoles, avec le soutien financier de la Belgique.\nLes ONG et la société civile jouent également un rôle essentiel. Caritas Bénin, en partenariat avec des organisations internationales comme l’UNHCR et l’UNICEF, intervient sur le terrain avec un accent sur la résilience et la cohésion sociale. Le Comité International de la Croix-Rouge (CICR) a renforcé sa présence au Bénin en 2024, en collaboration avec la Croix-Rouge béninoise (CRB), pour répondre aux besoins humanitaires dans le nord du pays face à la crise sécuritaire."
+  },
+  {
+    "objectID": "08_culture-generale/cartographie des structures-GRCA.html#analyse-et-synthèse-de-la-gouvernance-à-la-résilience",
+    "href": "08_culture-generale/cartographie des structures-GRCA.html#analyse-et-synthèse-de-la-gouvernance-à-la-résilience",
+    "title": "34  Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l’ère de l’Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l’Ouest",
+    "section": "34.6 Analyse et Synthèse : De la Gouvernance à la Résilience",
+    "text": "34.6 Analyse et Synthèse : De la Gouvernance à la Résilience\n\n34.6.1 Analyse comparative : Burkina Faso vs. Bénin\nUne analyse comparative des deux cas d’étude révèle des similitudes et des différences notables dans leurs approches. Les deux pays ont des cadres stratégiques et juridiques alignés sur les priorités mondiales du Cadre de Sendai. 1 Ils sont tous deux confrontés à des défis similaires, tels que les risques climatiques (inondations, sécheresses) et les conséquences des crises sécuritaires sur les populations déplacées.\nCependant, des différences significatives émergent au niveau de leur architecture de gouvernance et de leur orientation stratégique. La structure burkinabè, avec la coexistence du CONASUR et de la DGPC, semble avoir évolué de manière pragmatique pour répondre à la complexité des crises hybrides. Son accent est particulièrement mis sur la gestion de la crise des PDI à travers une stratégie explicite basée sur le « Nexus humanitaire - développement - paix ». En revanche, le Bénin, bien que confronté à une situation sécuritaire dans le nord, a une structure plus centralisée autour de l’ANPC et met un accent stratégique plus fort sur la planification de l’adaptation au changement climatique, comme en témoigne son Plan National d’Adaptation (PNA) qui cible des secteurs spécifiques et intègre la question du genre.\n\n\n34.6.2 Les défis communs et les opportunités\nMalgré leurs approches distinctes, les deux pays et la région dans son ensemble partagent des défis communs qui se traduisent par des besoins clairs sur le marché de l’expertise en GRC. L’urbanisation rapide de l’Afrique est un facteur de risque majeur. La stratégie régionale reconnaît que la gouvernance des risques dans les établissements urbains doit être améliorée pour renforcer la résilience et prévenir l’accumulation de risques futurs. Un autre défi de taille est l’intégration et la gestion des données. L’analyse révèle que, si les deux pays collectent des données, la disponibilité de données désagrégées sur les vulnérabilités est limitée et la centralisation des informations sur les risques est un point de faiblesse institutionnel. La première priorité du Cadre de Sendai, qui est de comprendre les risques, est directement entravée par ces lacunes."
+  },
+  {
+    "objectID": "08_culture-generale/cartographie des structures-GRCA.html#conclusion-et-perspectives",
+    "href": "08_culture-generale/cartographie des structures-GRCA.html#conclusion-et-perspectives",
+    "title": "34  Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l’ère de l’Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l’Ouest",
+    "section": "34.7 Conclusion et Perspectives",
+    "text": "34.7 Conclusion et Perspectives\nL’écosystème de la gestion des risques et des catastrophes à l’ère de l’Anthropocène est un domaine d’intervention complexe, multi-niveaux et en constante évolution. Le Cadre de Sendai sert de fil conducteur, reliant les stratégies internationales, régionales et nationales. L’analyse des cas du Burkina Faso et du Bénin révèle que si les cadres stratégiques existent, leur efficacité repose sur leur capacité à s’adapter aux réalités hybrides du terrain, à surmonter les défis de coordination institutionnelle et à combler les lacunes en matière de données et de financement.\nPour l’étudiant en Master qui cherche à comprendre les « besoins du marché » et les axes d’intervention actuels, cette cartographie ouvre des perspectives claires :\n\nExpertise en gouvernance et coordination : La coexistence de multiples structures étatiques et le besoin de coordination entre les ministères sectoriels et les partenaires internationaux créent une demande pour des experts capables de naviguer dans des architectures de gouvernance complexes.\nFinancement et résilience économique : La transition vers des mécanismes de financement proactifs, comme ceux promus par la Banque Mondiale , indique une opportunité pour les spécialistes capables de concevoir et de gérer des instruments financiers innovants pour la résilience.\nSystèmes d’information et cartographie des risques : La compréhension des risques est un domaine critique de faiblesse en Afrique de l’Ouest. Les compétences en Système d’Information Géographique (SIG) et en gestion de bases de données (comme DesInventar Sendai) sont des atouts essentiels.\nLe « Nexus » en pratique : Les crises sécuritaires et climatiques du Sahel exigent des professionnels capables de travailler à l’intersection de l’humanitaire, du développement et de la paix. L’élaboration et la mise en œuvre de stratégies comme la SNR-PDICA du Burkina Faso sont des modèles d’intervention qui nécessitent une expertise transversale.\n\nLe développement professionnel ne devrait pas se limiter à l’acquisition de compétences techniques, mais également à la maîtrise des compétences interpersonnelles de négociation et de coordination intersectorielle, essentielles pour traduire les politiques en actions concrètes sur le terrain. L’engagement auprès d’ONG ou d’agences de l’ONU est un moyen pertinent de gagner cette expérience pratique pour se positionner avantageusement dans un marché du travail où la GRC continue d’évoluer en un domaine d’expertise stratégique."
+  }
+]

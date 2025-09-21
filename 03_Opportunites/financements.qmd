@@ -1,0 +1,7 @@
+---
+title: "Financements"
+tags: ["opportunites","financements"]
+application_bf: true
+---
+
+Bourses et appels à projets pertinents (ARES, AUF, UE, FNS…).

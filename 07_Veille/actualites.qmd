@@ -1,0 +1,7 @@
+---
+title: "Veille – Actualités & événements"
+tags: ["veille","actualites"]
+application_bf: true
+---
+
+Suivi de crises, rapports de situation, communiqués officiels.

@@ -1,0 +1,21 @@
+---
+title: "Bienvenue - Note synthétique du Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA)"
+format: html
+page-layout: article
+---
+
+## Objectif {.unnumbered}
+
+Ce document n'a pas vocation à se substituer aux contenus officiels du master. Il constitue une initiative personnelle visant à rassembler, en un seul espace, le parcours d'une année de formation.  
+L'objectif est de proposer une **synthèse réflexive** des enseignements suivis, des outils mobilisés, des applications de terrain ainsi que du processus complet lié au **Travail de Fin d'Études (TFE)**.  
+La plupart des exemples et études de cas seront orientés vers le **Burkina Faso**, pays d'origine de l'auteur.
+
+## Organisation des contenus {.unnumbered}
+
+Le document est structuré autour des axes suivants :  
+- **Administration** : programme, enseignants, partenaires, historique et suivi global.  
+- **Cours** : notes et ressources associées à chaque module officiel.  
+- **Outils** : compétences techniques transversales (R, SIG, systèmes d’alerte).  
+- **Pays & Applications** : Burkina Faso et autres pays ciblés.  
+- **Veille** : suivi stratégique (actualités, politiques, alertes).  
+- **TFE** : processus de recherche et rédaction du mémoire.  

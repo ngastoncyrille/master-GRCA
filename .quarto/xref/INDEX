@@ -1,0 +1,119 @@
+{
+  "index.qmd": {
+    "index.html": "7eec859c"
+  },
+  "intro.qmd": {
+    "intro.html": "6c0faa6d"
+  },
+  "summary.qmd": {
+    "summary.html": "1e44fb9a"
+  },
+  "references.qmd": {
+    "references.html": "f2750aef"
+  },
+  "00_Admin/programme.qmd": {
+    "programme.html": "1e30ce9f"
+  },
+  "00_Admin/enseignants.qmd": {
+    "enseignants.html": "2bba5c62"
+  },
+  "00_Admin/partenaires.qmd": {
+    "partenaires.html": "76c803bd"
+  },
+  "00_Admin/historique.qmd": {
+    "historique.html": "e469f30e"
+  },
+  "00_Admin/progres_global.qmd": {
+    "progres_global.html": "870065b7"
+  },
+  "01_Cours/RISQ2014_introduction.qmd": {
+    "RISQ2014_introduction.html": "f4fb017f"
+  },
+  "01_Cours/ENVT0846_anthropocene.qmd": {
+    "ENVT0846_anthropocene.html": "80f211c4"
+  },
+  "01_Cours/RISQ2015_risques_naturels.qmd": {
+    "RISQ2015_risques_naturels.html": "f1355450"
+  },
+  "01_Cours/RISQ2016_tech_technologiques.qmd": {
+    "RISQ2016_tech_technologiques.html": "e0443627"
+  },
+  "01_Cours/RISQ2117_sanitaires.qmd": {
+    "RISQ2117_sanitaires.html": "081dca88"
+  },
+  "01_Cours/RISQ2018_SIG_Teledection.qmd": {
+    "RISQ2018_SIG_Teledection.html": "e9768e3d"
+  },
+  "01_Cours/ENVT3124_R_intro.qmd": {
+    "ENVT3124_R_intro.html": "c406d635"
+  },
+  "01_Cours/RISQ2019_alerte_precoce.qmd": {
+    "RISQ2019_alerte_precoce.html": "4deed534"
+  },
+  "01_Cours/RISQ2020_amenagement_prevention.qmd": {
+    "RISQ2020_amenagement_prevention.html": "c05d4efd"
+  },
+  "01_Cours/ENVT0010_seminaire_integre.qmd": {
+    "ENVT0010_seminaire_integre.html": "dfe3709d"
+  },
+  "01_Cours/RISQ2029_soft_skills.qmd": {
+    "RISQ2029_soft_skills.html": "6d1db7e8"
+  },
+  "01_Cours/RISQ2025_migrations_env.qmd": {
+    "RISQ2025_migrations_env.html": "4de730b1"
+  },
+  "01_Cours/RISQ2030_gouvernance_resilience.qmd": {
+    "RISQ2030_gouvernance_resilience.html": "ed5bfd85"
+  },
+  "02_Tools/R_intro.qmd": {
+    "R_intro.html": "70d979eb"
+  },
+  "02_Tools/SIG.qmd": {
+    "SIG.html": "05db5a3b"
+  },
+  "02_Tools/EarlyWarning.qmd": {
+    "EarlyWarning.html": "f78d1c73"
+  },
+  "06_Pays_Cibles/Burkina_Faso/contexte.qmd": {
+    "contexte.html": "41537294"
+  },
+  "06_Pays_Cibles/Burkina_Faso/application_cours.qmd": {
+    "application_cours.html": "436615b6"
+  },
+  "06_Pays_Cibles/Burkina_Faso/donnees.qmd": {
+    "donnees.html": "fb2b1ecc"
+  },
+  "06_Pays_Cibles/Autres_pays/Niger.qmd": {
+    "Niger.html": "bbcc6e27"
+  },
+  "06_Pays_Cibles/Autres_pays/Mali.qmd": {
+    "Mali.html": "a7a7f913"
+  },
+  "07_Veille/articles.qmd": {
+    "articles.html": "c8c73111"
+  },
+  "07_Veille/actualites.qmd": {
+    "actualites.html": "1ef1c85a"
+  },
+  "07_Veille/politiques.qmd": {
+    "politiques.html": "e39bfbe1"
+  },
+  "07_Veille/alertes.qmd": {
+    "alertes.html": "c8e807a9"
+  },
+  "05_TFE/brainstorming.qmd": {
+    "brainstorming.html": "49c22ce1"
+  },
+  "05_TFE/plan_travail.qmd": {
+    "plan_travail.html": "58274998"
+  },
+  "05_TFE/notes_recherche.qmd": {
+    "notes_recherche.html": "e34db39f"
+  },
+  "05_TFE/draft.qmd": {
+    "draft.html": "8af7e5a7"
+  },
+  "08_culture-generale/cartographie des structures-GRCA.qmd": {
+    "cartographie des structures-GRCA.html": "4b3e5d50"
+  }
+}

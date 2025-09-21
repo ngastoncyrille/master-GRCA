@@ -1,0 +1,11 @@
+# Defaults for all course files in this directory
+title-block-style: default
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: show
+application_bf: false
+tags: ["cours"]
+sdg_links: []
+bibliography: "Bibliographie/references_courses.bib"

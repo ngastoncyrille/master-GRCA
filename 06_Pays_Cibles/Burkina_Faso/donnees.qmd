@@ -1,0 +1,7 @@
+---
+title: "Burkina Faso – Données"
+tags: ["pays","Burkina Faso","données"]
+application_bf: true
+---
+
+Sources de données (hydroclimat, SIG, socio-éco), standards, licences.

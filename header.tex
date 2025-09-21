@@ -1,0 +1,13 @@
+% Fichier : header.tex
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+
+% Définition de l'en-tête
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+
+% Logo à gauche de l'en-tête
+\fancyhead[L]{\includegraphics[height=1cm]{images/logo.png}}
+
+% Numéro de page à droite
+\fancyhead[R]{\thepage}

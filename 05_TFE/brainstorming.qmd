@@ -1,0 +1,11 @@
+---
+title: "TFE – Brainstorming"
+tags: ["TFE","brainstorm"]
+application_bf: true
+---
+
+## Idées initiales
+- …
+
+## Problématique (draft)
+- …

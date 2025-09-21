@@ -1,0 +1,5 @@
+format:
+  html:
+    toc: true
+    number-sections: true
+bibliography: "references_TFE.bib"
