@@ -15,6 +15,11 @@ book:
         - 00_Admin/historique.qmd
         - 00_Admin/enseignants.qmd
         - 00_Admin/programme.qmd
+    - part: "L'anthropocène"
+      chapters:
+        - 00_Anthropocene/introduction.qmd
+        - 00_Anthropocene/atalas_anthropocene.qmd
+        - 00_Anthropocene/enquete_arte.qmd
     - part: "Cours"
       chapters:
         - 01_Cours/RISQ2014_introduction.qmd
@@ -42,6 +47,9 @@ book:
         - 06_Pays_Cibles/Burkina_Faso/donnees.qmd
         - 06_Pays_Cibles/Autres_pays/Niger.qmd
         - 06_Pays_Cibles/Autres_pays/Mali.qmd
+    - part: "03_Opportunites"
+      chapters:
+        - 03_Opportunites/conferences.qmd       
     - part: "Veille"
       chapters:
         - 07_Veille/articles.qmd
@@ -57,6 +65,8 @@ book:
     - part: "aaaaaaaaa"
       chapters:
         - 08_culture-generale/cartographie des structures-GRCA.qmd
+        - 08_culture-generale/Typologie des Aléas Anthropocène.qmd
+        - 08_culture-generale/risque-cap-haitien.qmd
 
 bibliography: references.bib
 

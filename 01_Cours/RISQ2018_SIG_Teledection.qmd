@@ -9,29 +9,135 @@ tags: ["cours"]
 sdg_links: ["ODD11","ODD13"]
 ---
 
-## Objectifs du module
+Ce cours comprend deux parties que sont :
 
-- …
+-   Partim 1 : Télédétection : 12h Th, 18h Pr
+-   Partim 2 : Systèmes d'information géographique : 12h Th, 18h Pr
 
-## Plan de cours
+## Partim 1 : Télédétection
 
-1. …
+Il alliera pratique et théorie à la fois :
 
-## Notes de cours (structurées)
+Théorie :
 
-### Résumé
-…
+Exemples d'applications de l'utilisation de la télédétection, en particulier dans le domaine de la gestion des risques et des catastrophes. Le rayonnement électromagnétique et son interaction avec la surface terrestre. Acquisition et transfert du signal de la surface terrestre. Analyse et interprétation des images télédétectées.
 
-### Points clés
-- …
+Pratique :
 
-### Méthodes / Outils
-- …
+Initiation à l'utilisation de logiciels, applications et données relevant de la télédétection. En particulier, exercices relatifs à l'utilisation de serveurs et plateformes web de référence (géoportails de données, serveurs de données, Google Earth, Google Earth Engine, EOBrowser, Digital Earth Africa, portails de monitoring des forêts, des masses d'eau, de l'état de la végétation agricole, etc), à la cartographie des zones inondées par télédétection RADAR, à l'étude des dynamiques d'occupation du sol via une analyse de changement, et à la classification supervisée d'une image satellite pour la production d'une carte d'occupation du sol, etc.
 
-## Application Burkina Faso
+L'ensemble des modules théoriques en télédétection et SIG sont réalisés par Denis Antoine.
 
-Décrire une étude de cas, des jeux de données, ou des pistes d'adaptation pour le BF.
+LE MOOC de coursera va au delà des cours des objectifs du cours et donc au lieu de . Il est conseillé de préparer les réponses au question pour mieux préparer les examens.
 
-## Bibliographie commentée
+télécharger la versions QGIS-3.40 LTR.
 
-- Auteur (année). *Titre*. **Résumé** : …
+Il a passer en revue l'ensemble des consignes et directives.
+
+Le s'est
+
+### Exemples d’applications de la télédétection à la gestion de l’environnement
+
+Satellite de type planet à une résolution entre 3 et 5 métres. Ne semble pas être disponible présentement.
+
+Le préprocesing sont des traitements faites avant la mise à disposition au utilisateurs.
+
+Télédétection passive : Exemple : . En passif nous sommes Télédétection active : Sentinel-1 radar
+
+*Vecteurs de la télédéction*, ce sont des engins qui permettre d'embarquer le ecapteur.
+
+Satellite, avion, ULM, ballon, drone, un tracteur, ...
+
+Nous avons des stalactite géostationnaire positionnés à 36000 Km. On a les égalements les satellites d'observations de la terre.
+
+A plus de à moins de 700 Km, la force de pésenteur oblige les satellites à être une vitesse pour ne pas avoir une collision.
+
+**La lumière et les longueurs d'ondes**
+
+La notion de rectangle solaire a été abordé $Réflectance = R/E$ avec E : énergie solaire, R = Energie réfléchir.
+
+Explication de le signature spectrale des différentes occupations du sol en télédétection passive.
+
+Y = la reflectance X = les longueurs d'onde
+
+Un capteur hyperspectrale permet de reproduire la signature spectrale d'un corp assez précisément.
+
+Les longueurs d'onde les plus intéressants pour étudier la matière sont en générale concentré dans les valeurs de l'image ci-dessous.
+
+La descriptions de cette image viendra en devoir ...
+
+::: {#fig-mindmap .figure}
+![Mindmap des concepts principaux](images/SIG/signature_spectrale.png) aaaaaa .
+:::
+
+Dans la pratique les capteurs multispectrale pas à avoir
+
+La télédétection à assez avantages par rapport au suivi classique. Diverses échelle spatiales et diverses échelles temporelles. Il faut garde à l'esprit qu'en télédétection Mettre en adéquation l'ampleur d'un phénomène à étudier avec la résolution de l'image.
+
+on peut :
+
+-   Suivi des inondations : images stallites de type PROBA-V1-. Cas d'une inondation aux pakistans dans en aout 2015.
+
+\*\* Suvi de la sécheresse en Belgique 2018\* L'exemple présenté est une mauvaise représentation des codes couleurs. Il faut une symbologie climatique.
+
+![Suivi de la sécheresse en Belgique en 2018](images/SIG/secheresse_belgique.png)
+
+Le FAPAR est un indicateur bien connu. Qui permet en complément d'objectivé la sécheresse en plus des pluviométriques.1
+
+![Suivi de la sécheresse en Belgique en 2018](images/SIG/secheresse_belgique_1.png)
+
+Le NDVI n'est pas le plus impactant de pour suivre la végétation. Il y'a pas de règle pour la symbologie pour les couleurs de la symbologie du NDVI. Pour les mois d’août, on voir une forme d'anomalie dans la zone du Sud Ouest, avec une baisse de la NDVI. Cela pourrait être congénitale au données source qui parfois sont biaisés pour diverses causes (couverture nuageuse par exemple). La simple visualisation du NDVI ne permet pas de de voir la santé de la plante ...
+
+![Croissance de la végétation au Sénégal](images/SIG/NDVI.png)
+
+Le VIC est un indice qui renseigne sur la tendance de la croissance de la végétation. Le VIC peut être calculé mensuellement. Il n'est pas obligatoire aligné à une période décadaire . Les données à base résolution permet d'avoir des données sur l'ensemble du globe terrestre tous les jours. (le VIC peut venir à l'examen).
+
+![VIC](images/SIG/VIC.png)
+
+Expansion urbaine au Niger
+
+![aaa](images/SIG/Niger1.png)
+
+![bb](images/SIG/Niger2.png)
+
+Le suivi des aménagements
+
+Détection de constructions en zone inondable.
+
+Prévention et post-crise : carte d'occupation des sols
+
+![Carte de vulnérabilité des populations](images/SIG/detection_image.png)
+
+suivi des conditions atmosphériques : A l'aide de Satellite géostationnaire
+
+Le suivi de l'irrigation de cultures en Egypte
+
+à partir des données \[copernicus\](<https://land.copernicus.eu/en/map-viewer>)
+
+Cartographie de stress hydrique des cultures à haute résolution
+
+![Cartographie de stress hydrique des cultures](images/SIG/stress_hydrique.png)
+
+La reconnaissance des types de cultures par le HRLs, on peut faire une cartographie régulière de différent type de culture.
+
+LE VITO : <https://blog.vito.be/remotesensing/topic/crop-mapping>
+
+<https://app.watchitgrow.be/cropmap/>
+
+<https://terrascope.be/fr/secteurs/agriculture>
+
+Le suvi des corrodors écologiques le réseau natura 2000 : <https://geoportail.wallonie.be/catalogue/80a837d8-2c0b-4f77-b5d5-824e9780a4ae.html>
+
+![corridor](images/SIG/corridor_ecologique.png)
+
+![Ab...](images/SIG/corridor_ecologique1.png)
+
+Le CNES : Centre Nationale d'Etude Spatial de France a dévellopé un outil de la Fiévre de la vallée du Rift (FVR) au sénégal à partir du NDPI.
+
+Cartographie de la jacinthe d'eau du barrage de ouaga 3 ... à l'aide de la ...
+
+Suivi de classification de la mangrove ... Il faut prendre en compte les traitements des images pour parvenir à des fins.
+
+Érosion cotière hhh
+
+reconstruction du relief : deux grandes techinques.

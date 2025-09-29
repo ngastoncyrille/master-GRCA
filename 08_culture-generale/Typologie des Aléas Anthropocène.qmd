@@ -1,0 +1,129 @@
+---
+title: "Typologie des Aléas Anthropocène"
+tags: ["reseau","alumni"]
+application_bf: true
+---
+
+En tant que spécialiste en Gestion des Risques et Catastrophes à l'ère de l'Anthropocène, maîtriser la typologie des aléas est fondamental. Cette section dresse une liste non exhaustive de ceux-ci.
+
+## Aléas Géophysiques
+
+Ils comprennent les processus naturels de la Terre pouvant générer des catastrophes.
+
+**Sismiques** :
+
+- Mécanisme de genèse des séismes (subduction, faille transformante)
+- Échelles d'intensité (Mercalli vs Richter)
+- Phénomènes associés : liquéfaction, tsunamis
+
+**Volcanique**
+
+- Types de volcans (strato-volcan, volcan bouclier)
+- Aléas spécifiques : coulées pyroclastiques, lahars, gaz volcaniques
+- Indice d'explosivité volcanique (VEI)
+
+**Mouvements de terrain**
+
+- Glissements de terrain (déclencheurs, typologie)
+- Effondrements karstiques
+- Avalanches (types de neige, déclencheurs)
+
+## Aléas Hydrométéorologiques
+
+Maîtriser les phénomènes liés au cycle de l'eau, amplifiés par le changement climatique.
+
+**Inondations**
+
+- Typologie (crues lentes, crues éclairs, inondations côtières)
+- Facteurs aggravants en zone urbaine
+- Retour statistique (crue centennale)
+
+**Tempêtes**
+
+- Cyclones tropicaux (structure, échelle de Saffir-Simpson)
+- Tempêtes extratropicales
+- Phénomènes convectifs violents (Derecho)
+
+**Sécheresses**
+
+- Types (météorologique, agricole, hydrologique)
+- Indices de suivi (SPI, Palmer Drought Severity Index)
+- Effets en cascade sur les sociétés
+
+## Aléas Biologiques et Sanitaires
+
+Appréhender les risques épidémiques et écologiques.
+
+**Pandémies**
+
+- Modes de transmission (aérien, vectoriel, direct)
+- Notion de taux de reproduction de base (R0)
+- Stratégies de confinement et d'atténuation
+
+**Invasions biologiques**
+
+- Espèces exotiques envahissantes (impacts écologiques)
+- Vecteurs d'introduction (commerce, transport)
+- Gestion des bio-invasions
+
+**Épidémies animales**
+
+- Maladies émergentes à potentiel zoonotique
+- Impacts sur la sécurité alimentaire
+
+## Aléas Technologiques et Anthropiques
+
+Comprendre les risques liés aux activités humaines. Cela ne sous entend évidement pas que les autres aléa non pas une empreinte humaine.
+
+**Accidents industriels**
+
+- Typologie Seveso (substances dangereuses)
+- Effets dominos dans les clusters industriels
+- Plans de prévention des risques technologiques (PPRT)
+
+**Ruptures de barrages**
+
+- Causes techniques et humaines
+- Onde de submersion (hauteur, célérité)
+- Plans particuliers d'intervention (PPI)
+
+**Pollutions majeures**
+
+- Marées noires (comportement des hydrocarbures)
+- Pollution des aquifères (panache, durée)
+- Techniques de remédiation
+
+## Aléas complexes et cascadants
+
+Maîtriser les interactions et effets domino.
+
+**Effets domino**
+
+- Séisme → Rupture barrage → Inondation → Pollution
+- Cyclone → Inondation → Épidémie (léptospirose)
+
+**Risques systémiques**
+
+- Défaillances en réseau (cascade électrique)
+- Perturbations des chaînes d'approvisionnement
+
+**Points de basculement**
+
+- Boucles de rétroaction climatique
+- Effondrement d'écosystèmes critiques
+
+## Métriques et Indicateurs de Risque
+
+Quantifier et évaluer les aléas.
+
+**Paramétrisation**
+
+- Période de retour vs probabilité annuelle
+- Intensité vs magnitude
+- Indices de vulnérabilité (Social Vulnerability Index)
+
+**Cartographie**
+
+- Courbes d'exposition aux aléas
+- Cartes de sensibilité territoriale
+- Scénarios multi-aléas

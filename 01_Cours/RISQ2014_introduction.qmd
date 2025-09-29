@@ -11,8 +11,8 @@ sdg_links: ["ODD11","ODD13"]
 
 Ce module est intégré dans le bloc 1 : **enseignement pluridisciplinaire relatif aux risques et catastrophes à l'ère de l'Anthropocène**. Repartir en deux *partim*, il a une durée de *36 h* et compte pour 3 crédits :
 
-- Partim 1 : une approche systémique (24h Th) : enseignant  Nicolas DENDONCKER et Pierre OZER.
-- Partim 2 : introduction aux notions de base (12h Th).
+-   Partim 1 : une approche systémique (24h Th) : enseignant Nicolas DENDONCKER et Pierre OZER.
+-   Partim 2 : introduction aux notions de base (12h Th).
 
 ## Partim 1 : Une approche systémique
 
@@ -26,50 +26,601 @@ En s'appuyant sur une approche interdisciplinaire et multiscalaire, le cours pro
 
 À l'issue de ce cours, les étudiantes seront capables de :
 
-- Comprendre et mobiliser des concepts clés
+-   Comprendre et mobiliser des concepts clés
 
 Identifier et expliquer les notions fondamentales liées aux risques et catastrophes à l'ère de l'Anthropocène (vulnérabilité, adaptation, résilience, justice environnementale, pollution, etc.).
 
 Mobiliser des cadres théoriques issus des sciences de l'environnement, des sciences sociales et de la géographie pour analyser les interactions entre environnement et risques.
 
-- Analyser de manière critique les situations de risques et de catastrophes à l'ère de l'Anthropocène
+-   Analyser de manière critique les situations de risques et de catastrophes à l'ère de l'Anthropocène
 
 Élaborer une lecture systémique et multiscalaire des facteurs de risque (locaux, globaux, structurels).
 
 Identifier les dynamiques d'inégalités sociales et territoriales en matière d'exposition, de vulnérabilité et d'accès aux ressources.
 
-- Évaluer les réponses institutionnelles et sociétales
+-   Évaluer les réponses institutionnelles et sociétales
 
 Analyser les stratégies d'adaptation et de résilience mises en place par différents acteurs (États, collectivités, ONG, communautés locales).
 
 Évaluer de manière critique les politiques publiques et les cadres de gouvernance des risques, en questionnant les rapports de pouvoir et les logiques d'exclusion.
 
-- Développer des compétences pratiques et réflexives
+-   Développer des compétences pratiques et réflexives
 
 Formuler des recommandations ou des pistes d'intervention prenant en compte la complexité des contextes territoriaux et sociaux.
 
 Adopter une posture réflexive sur son propre rôle en tant que future professionnelle engagée dans les questions de gestion des risques et catastrophes à l'ère de l'Anthropocène.
 
+### Notes de cours
 
-### Notes de cours (structurées)
-ggg
+<!-- Mardi 16 septembre 2025 -->
 
-### Résumé
+Débuté le Mardi 16 septembre 2025, avec Pierre Ozer, le cours a commencé par une note d'information.
 
-…
+**Informations pratiques**
 
-### Points clés
+-   **13 novembre** : visite de terrain – vallée de la Vesdre (inondations 2021).\
+-   **Semaine suivante** : sortie – cas de pollution diffuse.\
+-   **25 septembre à 17h30** : conférence à Liège
+    -   *Effets des pesticides dans l’eau sur la santé*\
+    -   Intervenants : Laurence HUC (INRAE), Stéphane (*Le Monde*), Gautier (ULiège).
 
--   …
+::: callout-note
+🔗 [Inondations de juillet 2021 en Belgique](https://fr.wikipedia.org/wiki/Inondations_de_juillet_2021_en_Europe)\
+🔗 [Laurence Huc – INRAE](https://www.inrae.fr/experts/laurence-huc)
+:::
 
-### Méthodes / Outils
+Il faut garder en mémoire que notre planéte à des **ressources finies**. Et avec une capacité de résilience limité.
 
--   …
+Cependant, l'on assiste à
 
-## Application Burkina Faso
+-   **Urbanisation** rapide, surtout dans le **Sud global** et les **zones littorales** → vulnérabilité accrue. La célérité de la création des villes est à prendre en compte. Elle est accentué dans les zones littoral, qui a plus de la moitié des populations. On a globalement une tendance lourde de certain risques.
+-   **Énergie** : demande croissante depuis 1945. Renouvelables en hausse mais insuffisants pour réduire les fossiles. Le British Petrolium Outlook le documente assez bien dans leur édition de 2019.
+-   **Climat** : élévation du niveau de la mer.
 
-Décrire une étude de cas, des jeux de données, ou des pistes d'adaptation pour le BF.
+::: callout-note
+🔗 [ONU-Habitat – Urbanisation mondiale](https://unhabitat.org/fr)\
+🔗 [BP Energy Outlook 2019](https://www.bp.com/en/global/corporate/energy-economics/energy-outlook.html)
+:::
 
-## Bibliographie commentée
+Nous assistons à des **besoins alimentaires et pressions écologiques** sans précédent :
 
--   Auteur (année). *Titre*. **Résumé** : …
+-   Expansion céréalière : + en Afrique & Asie ; – en Europe (compensée par rendements/importations).\
+-   Élevage en hausse (ovins, caprins, bovins).\
+-   **Monocultures** → ne compensent pas la **déforestation**.\
+-   Transfert des impacts **Nord → Sud**.\
+-   Forte **érosion de la biodiversité**.
+
+Ceci est couplet à une **Changements climatiques** caractérisé par une disparité marqué.
+
+-   [Vitesse des changements](https://www.ipcc.ch/languages-2/francais/) → adaptation difficile.
+-   [Inégalités](https://www.oxfam.org/fr/reports/climate-equality-report) : 1 % les plus riches $>$ émissions que 50 % les plus pauvres.
+
+On assiste à une invite subtile à plus de consommation venant des grandes firmes à travers parfois de publicité que l'on peut qualifier de mensongère.
+
+-   Exemple *Aldi* : *« Vie plus chère → prix réduits »*.\
+-   Publicité encourage la surconsommation → pressions environnementales accrues.
+
+Illustrons ceci à travers un cas pratique.
+
+#### Étude de cas : système alimentaire belge (Carrefour)
+
+##### Acte 1 (2006)
+
+Afin de satisfaire la consommation des populations du Sud à des *coût relativement*, les firmes mettent en place des systèmes de productions qui au contraire augmente des indicateurs des limites planétaires et appauvrissent plus les nations déjà très vulnérables.
+
+-   l'exemple d'un plat dessert fruit et de crevette à consommer. Les crevettes pécher à dans les mers proches. Il est envoyer au Sud Est de l'Asie pour décortiquer. Juste pour le transport en plus des autres produits on un taux de gaz non négligeable.
+
+-   Modification du LandLuse notamment des zones de Mangrove dans des pays de l'amérique du Sud, du à une forte production des besoins alimentaires des pays du Nord par les changements de terres.
+
+-   Les plats résistants : notamment la viande pour la plupart proviennent d'autres contrés.
+
+En somme, les prix de plus en plus bas en Europe d'un certain nombre de produit. Sont au dépend d'une forte dégradation des zones du Sud et/ou déjà plus vulnérables.
+
+##### Acte 2 (2015)
+
+Des campagnes publicitaires encourageants à consommer des produits locaux. Mais dans les faits les produits sont faites bien loin du lien de consommation, mais ceci n'est pas mentionné sur les emballages. Des firmes associe - Campagnes *« Consommer belge »*.\
+- Stratégie marketing/lobbying (ex. COP).
+
+Févier 2015 de forte publicité sur le consommer. Du reste, ceci n’était qu'un cours marketing. A l'image de *carrefour*, ces firmes du genre on un gros Lobbiing ... Cela est matérialisé par exemple par le "partenariat" carrefour dans le cadre de la COP afin de miroiter leur bonne foi dans la réduction des gaz à effet de serre.
+
+##### Actes 3 à 6 (2021–2025)
+
+Toujours une mise en avant du local mais dépendance aux importations. Fort indice d'émission de gaz à effet de serre pour satisfaire peu de personne au détriment de la masse.
+
+De forte présence de drapeau Belgique au niveau des produits, mais avec des provenances loin voir loin du pays.
+
+(NB : selon les filiales *carrefour* ils ont des agissements différents, de la Belgique à l'Italie en passant par la France).
+
+Mars 2021 Comme slogan : priviligier l'origine belge de nos produits. Mais dans les faits pas encore reel. Sur une grande large de produit, cela est faux. On a bien encore d'autres origine.
+
+::: callout-note
+🔗 [WWF – Empreinte alimentaire de la Belgique](https://www.wwf.be/fr/empreinte-alimentaire)\
+🔗 [CIWF – Systèmes alimentaires](https://www.ciwf.fr/)
+:::
+
+A la suite, des échanges ont été fait sur les Caractéristiques du système agro-industriel qui se traduisent par :
+
+-   Intensif
+-   Spécialisé
+-   Concentré
+-   Mondialisé
+-   Financiarisé
+
+La résultante de tout ceci se traduit par, un dépassement successif et inquiétant des de six des neuf [limites planétaires](https://www.stockholmresilience.org/research/planetary-boundaries.html) (*Rockström et al.*) - 3 limites dépassées en 2009 : climat, biodiversité et cycle de l'azote et du phosphore; - 4 limites dépassées 2015 : écosystèmes terrestres - 6 limites dépassées 2023 : le dépassement de la limite de l'eau douce a porté le total à six limites franchies.
+
+Une des solutions pour améliorer le système de chaines de valeur est d'inverser le schéma actuel. A nos jours, l'agriculteur gagne moins que les autres parties prenantes. Il faut des politiques d'inversion de la construction du prix, cela est en promotion en France :
+
+-   Actuel : distributeur → transformateur → agriculteur.
+-   Propositions : regroupements d'agriculteurs en première ligne.
+
+Pour l'instant nous vivons en plein pied dans une crise alimentaire qui comporte trois traits :
+
+1.  Consommation impulsive
+2.  Peur de la surconsommation
+3.  Dissonance cognitive qui décrit l'état mental conflictuel qui résulte directement de la tension entre le comportement (1) et les préoccupations (2)
+
+Autre levier sur lequel il faille se pencher pour inverser la courbe c'est la **communication et prévention**. Nous avons par contre une forte communication dans le Marketing agroalimentaire **≈ 1000×** $>$ à la communication communication préventive. On pourrait dans la même veine suggéré de mettre en avant des produits avec **Nutri-Score positif**.
+
+Le cours souligne les liens entre **urbanisation, consommation, système alimentaire et risques sanitaires environnementaux**. Les dynamiques globales (climat, énergie, biodiversité) sont aggravées par les **inégalités sociales** et le rôle du **marketing** dans la consommation.
+
+Le baptême de feu de la journée s'est prolongé en soirée par des échanges collectifs entre étudiants, précédés de la projection d'un documentaire, le tout organisé par l'[ONG Eclosio](https://www.eclosio.ong/).
+
+Eclosio, ONG de l’Université de Liège, porte une vision claire : un monde où les générations actuelles et futures exercent ensemble leur droit à une vie digne, en harmonie avec leur environnement.
+
+Sa mission s'articule autour de trois axes majeurs :
+
+-   promouvoir la transition agroécologique,
+-   favoriser l'insertion socioéconomique des populations
+-   fragilisées par l'exclusion et les inégalités,
+-   encourager l’engagement citoyen face aux défis sociétaux et climatiques contemporains.
+
+L'animation des activités a été assurée par deux de ses membres, Claire et Émilie. Un tour de table original a été proposé : chaque participant devait se présenter et partager son plat préféré, en expliquant ce choix.
+
+Dans la continuité, la séance a été suivie par la projection du documentaire « L'***Empire de l'or rouge*** », réalisé par l’ONG [Humundi](https://www.inter-reseaux.org/membre/humundi/) (anciennement SOS Faim Belgique). Le film retrace l'épopée mondiale de la tomate, symbole d'un commerce globalisé et révélateur d'enjeux économiques et géopolitiques.
+
+Plusieurs points clés ont émergé :
+
+-   La Chine s'est imposée au fil du temps comme une superpuissance mondiale dans le secteur.
+-   Aujourd'hui, elle cherche à exporter afin de prolonger son hégémonie.
+-   Du reste, le secteur est dominé principalement par : USA, l'itaie et Chine.
+
+La consommation constitue le moteur de cette dynamique globale.
+
+L'Afrique de l'Ouest apparaît comme la région où la croissance démographique est la plus intense et la plus concentrée.
+
+A la suite, des jeux débats autour des enjeux alimentaire mondiaux ont été débattu mettant fin aux activités du jour.
+
+Le cours s'est poursuivit le du 18 septembre 2025. Cette séance à mis l'accent sur divers crises caractéristiques de l'anthropocéne à travers des cas d'étude.
+
+#### Cas d'étude n°1 : cas du Djibouti
+
+Djibouti, un micro-État de 23 000 km² et d'environ un million d'habitants, possède une importance géostratégique totalement disproportionnée par rapport à sa taille ou à sa puissance économique intrinsèque. Cette importance découle presque exclusivement de sa géographie, qui en fait un point de passage obligatoire et un lieu de projection de puissance.
+
+1.  Les Pilliers de la Puissance Géostratégique de Djibouti A. Le Verrou Maritime : Le Bab-el-Mandeb Djibouti est situé sur l'une des voies maritimes les plus critiques au monde : le détroit de Bab-el-Mandeb ("Porte des Lamentations"). Ce détroit est le canal de sortie de la mer Rouge vers le golfe d'Aden et l'océan Indien.
+
+Trafic mondial : Près de 30% du trafic maritime mondial transite par ce détroit, dont une part massive du commerce de pétrole et de gaz (en provenance du Golfe Persique à destination de l'Europe et de l'Amérique).
+
+Point de choke point : Sa largeur ne dépasse pas 30 km à son point le plus étroit, ce qui en fait un goulot d'étranglement vulnérable à la piraterie, au terrorisme ou à un blocage militaire. Contrôler ses abords est donc une priorité absolue pour les grandes puissances maritimes.
+
+B. La Plateforme Logistique Régionale Djibouti s'est transformé en un hub portuaire et logistique majeur pour l'ensemble de l'Afrique de l'Est, et surtout pour son géant voisin et sans littoral :
+
+Porte de l'Éthiopie : L'Éthiopie, deuxième pays le plus peuplé d'Afrique et puissance économique régionale en croissance, dépend à plus de 95% du port de Djibouti pour son commerce extérieur. Cette dépendance confère à Djibouti un levier économique et politique considérable sur Addis-Abeba.
+
+Investissements portuaires massifs : Djibouti a développé plusieurs ports modernes (Doraleh, Tadjourah) avec des investissements notamment chinois et dubaiotes, visant à capter les flux commerciaux de toute la région.
+
+C. La "Plateforme Aéronavale" des Puissances Mondiales C'est l'aspect le plus spectaculaire de la stratégie de Djibouti : héberger des bases militaires étrangères. Aucun autre pays au monde n'accueille autant de puissances militaires simultanément sur son territoire.
+
+France : Base historique (depuis l'indépendance en 1977). C'est une plateforme cruciale pour la force française stationnée à Djibouti (FFDj), permettant des interventions en Afrique et dans l'océan Indien, et la lutte contre le terrorisme.
+
+États-Unis : Camp Lemonnier est la seule base militaire permanente des États-Unis en Afrique. C'est un centre névralgique pour les opérations des drones et les forces spéciales dans la Corne de l'Afrique et la péninsule arabique (notamment contre Al-Shabaab et AQPA).
+
+Chine : Sa première et seule base militaire outre-mer est à Djibouti (inaugurée en 2017). Elle permet à Pékin de protéger ses voies d'approvisionnement, d'appuyer ses opérations anti-piraterie, et de projeter sa puissance militaire croissante, sécurisant ainsi ses immenses investissements dans le cadre des "Nouvelles Routes de la Soie" (Belt and Road Initiative - BRI).
+
+Autres acteurs : L'Italie, le Japon (seule base outre-mer pour ses Forces d'autodéfense) et, plus récemment, des présence de l'Arabie Saoudite et de potentiels intérêts d'autres pays comme la Turquie et la Russie.
+
+2.  Une Politique Étrangère Pragmatique : Le "Multi-alignement" Face à cette concentration d'intérêts, Djibouti mène une politique étrangère extrêmement habile et pragmatique, souvent qualifiée de "multi-alignement" ou de "diplomatie de location".
+
+Équilibre des puissances : Le gouvernement djiboutien loue ses terres à toutes les puissances présentes, jouant habilement des rivalités (notamment sino-américaine) pour maximiser ses revenus (les loyers des bases représentent une part significative de son PIB) et assurer sa sécurité.
+
+Souveraineté et non-alignement : Djibouti affirme sa souveraineté et évite de s'aligner exclusivement sur une seule puissance. Il tire profit de la présence de tous pour se prémunir contre les menaces régionales et garantir la stabilité de son régime.
+
+3.  Défis et Vulnérabilités Cette position enviable n'est pas sans risques :
+
+Dépendance à la stabilité régionale : Une escalade des conflits au Yémen, en Somalie ou en Éthiopie pourrait directement menacer la sécurité de Djibouti et perturber les flux maritimes.
+
+Surenchère géopolitique : La proximité de bases militaires de puissances rivales (Chine vs USA) crée un risque de friction ou d'incident, transformant Djibouti en potentiel théâtre de conflit par procuration.
+
+Dette souveraine : Les importants investissements chinois dans les infrastructures ont considérablement endetté Djibouti envers Pékin, ce qui pourrait, à terme, limiter sa marge de manœuvre politique et constituer un piège de la dette.
+
+Dépendance à l'Éthiopie : Si l'Éthiopie développe d'autres accès à la mer (via le Somaliland ou le Soudan), l'atout économique principal de Djibouti pourrait s'éroder.
+
+Conclusion : Le Guichet Géostratégique de l'Afrique Djibouti est bien plus qu'un simple pays ; c'est une infrastructure géostratégique globale. Son modèle de survie et de prospérité repose sur la monétisation de son emplacement unique.
+
+En résumé, Djibouti est :
+
+Le gardien d'un détroit critique pour l'économie mondiale.
+
+La porte maritime vitale de la puissance économique éthiopienne.
+
+La seule plateforme militaire commune où cohabitent, dans un périmètre restreint, les principales puissances militaires du XXIe siècle (Occidentaux, Chinois).
+
+Son avenir dépendra de sa capacité à continuer à naviguer avec pragmatisme dans les eaux troubles de la compétition internationale, en maintenant un équilibre précaire mais jusqu'à présent rentable entre toutes les puissances qui convoitent son territoire.
+
+Une image satellitaire du 17 octobre (Djibiuti) présenté. \*Large regional drought effect on migrations. Une analyse des précipitations des précipitations (1901-2011) des pluviométrique. Baisse du nombre de jours pluies, couplet à une baisse des intensité. Ce article résume bien : (https://orbi.uliege.be/handle/2268/171105)
+
+Voici son résumé : Ces dernières décennies, l’Afrique de l’Est souffre d’une longue et lente détérioration pluviométrique. De 2007 à 2011, la ville de Djibouti a enregistré un déficit de 73% des précipitations moyennes annuelles par rapport à la moyenne de 30 ans (1981-2010). Cette sécheresse sans précédent va mettre de nombreuses familles des zones rurales (de Djibouti, d’Ethiopie et de Somalie) sur la route. Cette migration a pour point de chute la ville de Djibouti où des quartiers neufs se créent, comme Buldhuqo. Totalement inexistant en 2004, il explose après 2009. Les derniers arrivants s’installent dans le fond de l’oued, là même où la zone était inondée en 2004 et 2009 suite à des pluies courtes mais intenses. La prochaine pluie extrême, l'exposition de ces populations précaires aux risques hydrologiques sera maximale. Cette analyse montre que le déficit pluviométrique actuel est exceptionnel et historiquement unique. Les migrations importantes de population induites par cette sécheresse vers la ville de Djibouti doivent être encadrées, notamment lors de leur installation spontanée. Il est nécessaire de diminuer l'exposition aux risques hydrologiques de ces populations sinistrées, pour que les victimes de la sécheresse ne soient pas emportées par un excès pluviométrique.
+
+L'analyse d'image satellitaires diachronique d'une localité du pays a été fait, montrant la perte de plan d'eau entre 2009 et 2012. ' (il faut bien se documenter sur la position stratégique du Djibouti)
+
+Les données de OCHA, 2017 montre l’ampleur de la gestion pour l'aide humanitaire. La question de la sécheresse en accrue dans la corne de l'afrique.
+
+Cas 2 : La Mauritanie - Nouakchott (2014) Migration Environnementale et Crise Urbaine 1. Contexte et Causes Racines :
+
+Votre note décrit un épisode de migration climatique interne survenu en 2014. Les causes sont bien résumées, mais on peut les approfondir :
+
+Sécheresse et Variabilité Climatique : La Mauritanie, pays sahélien, est structurellement vulnérable aux chocs climatiques. La "suite de mauvaise pluviométrie" évoquée s'inscrit dans une tendance de long terme de désertification et d'irrégularité des pluies, exacerbée par le changement climatique anthropique.
+
+Effondrement des Moyens de Subsistance : Les "pertes cultures" ne signifient pas seulement une mauvaise récolte. Pour les populations agro-pastorales, cela équivaut à :
+
+Perte de revenus : Plus de cultures à vendre.
+
+Insécurité alimentaire : Les "greniers vides" signifient aucune réserve pour nourrir les familles jusqu'à la prochaine saison.
+
+Décapitalisation : Les éleveurs sont souvent obligés de vendre leur bétail – leur épargne sur pied – à bas prix face à la pénurie de pâturages et d'eau.
+
+2.  Mécanismes du Déplacement :
+
+Le "déplacement massif" ne s'est pas fait de manière aléatoire. Il suit des logiques spatiales précises :
+
+Destination : Nouakchott : La capitale est perçue comme le seul endroit où trouver de l'aide (humanitaire), des opportunités économiques informelles (petits boulots, commerce) et où avoir des parents pouvant offrir un soutien initial (réseaux de solidarité familiaux et ethniques).
+
+Phénomène d'Appel : La concentration des services, de l'administration et des ONG à Nouakchott agit comme un aimant en période de crise, bien que la ville soit elle-même très pauvre.
+
+3.  Conséquences et Enjeux (Au-delà de l'événement immédiat) :
+
+L'arrivée massive de migrants climatiques dans une ville comme Nouakchott crée une crise urbaine durable :
+
+Pression sur les Services Urbains : Aggravation de la crise du logement (expansion des bidonvilles), saturation des points d'eau, pression sur les structures de santé et les écoles déjà dépassées.
+
+Vulnérabilité Accrue : Les nouveaux arrivants, déjà affaiblis, s'installent souvent dans les zones les plus exposées de la ville (zones inondables, non loties), les rendant extrêmement vulnérables au prochain choc (par exemple, des pluies torrentielles pouvant causer des inondations).
+
+Changement Social : Transformation du tissu social et économique de la ville, avec un afflux de populations aux cultures et modes de vie différents (often more rural), pouvant parfois générer des tensions.
+
+Remarque : plus le système est vulnérable, plus une perturbation qu'elle soit petite peut l'influencer.
+
+Analyse du Cas : L'Occupation des Zones Inondables 1. La Séquence des Événements : Un Scénario Prévisible Votre description suit une chronologie qui est presque un archétype de la catastrophe évitable :
+
+2006 : Production de la carte d'inondation.
+
+Action rationnelle : Une autorité (souvent les services techniques de la ville, un bureau d'études ou une direction de l'urbanisme) produit un document scientifique crucial. Cette carte identifie les zones à aléa inondation (zones rouges où le risque est fort, zones bleues où il est modéré, etc.) grâce à des modèles hydrologiques et hydrauliques.
+
+Objectif : Ce document doit être opposable et servir de base au Plan d'Urbanisme (ou Plan Local d'Urbanisme - PLU en France) pour interdire ou strictement réglementer toute construction dans ces zones.
+
+2012 : Lotissements dans les zones identifiées comme inondables.
+
+Décision irrationnelle/ politique/ économique : Malgré la carte, des décideurs (municipaux, promoteurs) accordent des permis de construire et lotissent des terrains. Les motivations peuvent être multiples :
+
+Pression foncière : Besoin urgent de terrains constructibles pour loger une population croissante.
+
+Spéculation immobilière : La valeur des terrains inondables est moindre ; les vendre comme terrains à bâtir est très lucratif.
+
+Corruption ou clientélisme : Attribution de terrains à des particuliers ou à des promoteurs en échange de soutien.
+
+Déni de risque : Minimisation du risque ("une crue centennale, c'est tous les 100 ans, on a le temps").
+
+Date ultérieure : Suites d'inondations et leur corollaire.
+
+La catastrophe prévisible se produit : Un épisode pluvieux important, pas nécessairement exceptionnel, provoque une inondation. L'eau s'engouffre dans les zones qui étaient naturellement destinées à l'accueillir (champs d'expansion de crue) mais qui sont maintenant urbanisées.
+
+Les conséquences (le "corollaire") sont toujours les mêmes :
+
+Humaines : Pertes de vies humaines, traumatismes, déplacements de population.
+
+Économiques : Destruction d'habitations, de véhicules, d'infrastructures publiques (routes, réseaux électriques). Coût faramineux pour la collectivité en termes de secours, de réhabilitation et d'indemnisation (souvent via le régime des catastrophes naturelles).
+
+Sociales et Politiques : Colère des habitants ("On nous a vendu un terrain en zone inondable !"), perte de confiance dans les autorités, procès contre la mairie pour faute lourde (avoir délivré un permis de construire en connaissance du risque).
+
+2.  Pourquoi cela arrive-t-il ? Les Causes Profondes Défaut de prise en compte de l'aléa dans les documents d'urbanisme : La carte existe, mais elle n'a pas été intégrée réglementairement dans le plan d'urbanisme, ou des dérogations ont été massivement accordées.
+
+Court-termisme : Les bénéfices immédiats de la construction (taxes, logements, emplois pendant le chantier) prennent le pas sur le risque futur, perçu comme lointain et incertain.
+
+Rapport de force : Les services techniques qui alertent sur les risques sont souvent mis en minorité face aux élus et aux promoteurs qui poussent pour le développement économique.
+
+Phénomène de "mauvaise foi" : Parfois, les lotissements sont officialisés mais les acquéreurs ne sont pas clairement informés du risque dans leur acte de vente.
+
+3.  Le Rôle Crucial de la Géomatique (SIG) pour Comprendre et Agir Un expert en SIG ne se contente pas de produire la carte ; il peut démontrer l'absurdité de la situation :
+
+Superposition et preuve par l'image : La démonstration la plus frappante consiste à superposer dans un SIG :
+
+La carte des aléas inondation de 2006 (en transparence rouge).
+
+Le cadastre et le plan des lotissements réalisés après 2012.
+
+Les photos satellites ou aériennes des inondations lorsqu'elles ont eu lieu.
+
+Cette superposition visuelle est une preuve accablante de l'erreur de décision. Elle montre sans équivoque que l'on a construit exactement là où la science prédisait que l'eau passerait.
+
+Analyse prospective : Les SIG permettent aussi de modéliser l'impact de nouveaux projets avant de construire. On peut simuler une crue et visualiser quels bâtiments seraient touchés, estimer les dégâts potentiels et donc le coût pour la collectivité, ce qui peut aider à faire annuler un projet risqué.
+
+Conclusion : Un Échec de la Gestion des Risques Ce cas n'est pas une simple "malchance" ou une "catastrophe naturelle". C'est un désastre anthropique – c'est-à-dire causé par l'homme – qui relève de la négligence ou de la faute délibérée.
+
+La production d'une carte de risque est une première étape essentielle, mais elle est parfaitement inutile si elle n'est pas suivie d'une volonté politique forte pour en appliquer les conclusions dans l'aménagement du territoire. C'est un exemple typique de la manière dont, à l'Anthropocène, nos propres décisions court-termistes aggravent considérablement l'impact des aléas naturels, transformant un phénomène environnemental normal (une crue) en une catastrophe humaine et économique.
+
+Cas Documenté : L'Érosion Côtière Accélérée de Cotonou, Bénin
+
+1.  Le Constat : Une Côte qui Disparaît La côte béninoise, et particulièrement le secteur de Cotonou, subit une érosion sévère et accélérée depuis des décennies.
+
+Chiffres clés : Le littoral béninois recule en moyenne de 1 à 1,5 mètre par an, avec des pointes allant jusqu'à 10 à 30 mètres par an sur les zones les plus critiques, comme l'embouchure de la lagune de Cotonou (source: Programme WACA).
+
+Impacts :
+
+Disparition de villages côtiers (ex: Gbodjè, Gbèdonou).
+
+Destruction d'infrastructures économiques vitales : route côtière RNIE1, habitations, hôtels.
+
+Perte de terres agricoles et de moyens de subsistance pour les populations.
+
+Salinisation des eaux souterraines et des terres.
+
+2.  Les Causes Anthropiques : La Perturbation du Transit Sédimentaire Votre description des causes est tout à fait exacte. La dynamique littorale naturelle a été inversée par une série d'aménagements.
+
+A. La Construction des Barrages en Amont (Cause Majeure)
+
+Le fleuve Volta (Ghana) et le fleuve Mono (frontière Togo-Bénin) sont les principaux pourvoyeurs de sédiments (sable) qui alimentaient les plages du Bénin, du Togo et du Ghana par un mouvement naturel de dérive littorale d'Est en Ouest.
+
+Barrage d'Akosombo (Ghana, 1965) : La construction du barrage qui a créé le lac Volta, l'un des plus grands lacs artificiels du monde, a été un choc sédimentaire régional.
+
+Mécanisme : Le barrage piège la quasi-totalité des sédiments qui étaient charriés par le fleuve Volta. Privé de son charriage solide, le fleuve sortant du barrage a un pouvoir "nettoyant" et érosif accru sur son lit, mais il ne fournit plus de sable pour nourrir les plais en aval.
+
+Conséquence : La "dérive littorale", courant marin qui longe la côte, continue de transporter le sable vers l'ouest mais n'est plus alimentée suffisamment par les apports du Volta. Elle devient alors érosive pour compenser ce déficit, "grignotant" les plages du Bénin et du Togo.
+
+Barrage de Nangbéto (Togo/Bénin, 1987) : Bien que plus petit, ce barrage sur le fleuve Mono a amplifié le phénomène en piégeant à son tour les sédiments restants qui nourrissaient spécifiquement la côte est du Bénin.
+
+B. La Construction des Ports en Aval (Cause Locale Aggravante)
+
+Port de Lomé (Togo) et Port Autonome de Cotonou (Bénin) : Ces deux infrastructures majeures sont construites perpendiculairement à la côte avec de longues jetées.
+
+Mécanisme : Ces jetées agissent comme une barrière physique au transit naturel des sédiments le long de la côte (la dérive littorale). Le sable s'accumule du côté amont (côté est des jetées), provoquant une accretion (avancée de la terre), mais il est bloqué pour le côté aval (côté ouest), ce qui crée une "ombre sédimentaire" et une érosion sévère.
+
+Effet spécifique à Cotonou : La jetée de l'ancien port de Cotonou (agrandie à plusieurs reprises) est identifiée comme la cause directe de l'érosion catastrophique à son ouest immédiat, là où se trouve l'embouchure et les quartiers vulnérables.
+
+3.  Inversion de la Dynamique et Preuves Vous avez raison de pointer la période autour de 1965 comme charnière. Les études sédimentologiques et la comparaison de photographies aériennes et satellitaires sur plusieurs décennies le confirment :
+
+Avant les aménagements : La côte était globalement stable ou même en légère accretion (progradation), les fleuves compensant l'érosion naturelle par leurs apports.
+
+Après les aménagements : La réduction drastique des apports sédimentaires (estimée à plus de 70% pour certains fleuves) a inversé l'équilibre. La force des vagues (notamment la houle de sud-ouest) n'est plus contrebalancée par l'apport de sable, ce qui mène à un recul inexorable du trait de côte.
+
+4.  Réponses et Mitigation Face à cette crise, le Bénin a tenté plusieurs solutions, souvent coûteuses et aux résultats mitigés :
+
+Ouvrages de protection "dures" : Enrochements, épis. Ils protègent localement mais peuvent déplacer le problème d'érosion plus loin sur la côte.
+
+Rechargement de plage (nourrissement) : Apport artificiel de sable pour compenser les pertes. C'est une solution plus naturelle mais très coûteuse et à renouveler périodiquement.
+
+Coopération Régionale (Programme WACA) : Le Bénin est engagé dans le Programme de Gestion du Littoral de l'Afrique de l'Ouest (WACA), financé par la Banque Mondiale. Ce programme reconnaît le caractère transfrontalier du problème et vise des solutions intégrées de gestion du littoral.
+
+Références et Sources pour Vérification : Banque Mondiale / Programme WACA : Le site du programme WACA fournit des données détaillées sur l'érosion au Bénin et les projets en cours.
+
+Lien : www.waca.org
+
+Études Scientifiques :
+
+Kaki, C. et al. (2021). "Assessment of the Impact of Shoreline Segmentation on the Evolution of the Coastline of Cotonou (Benin)". Journal of Coastal Research.
+
+Laïbi, R. A. et al. (2014). "The erosion of the coast of Benin: diagnosis and solutions". Géo-Eco-Trop.
+
+Anthony, E. J. et al. (2016). "The wave-dominated gravel beaches of Ghana: lessons for coastal management". Ocean & Coastal Management. (Cette étude traite du Ghana mais explique parfaitement l'impact régional du barrage d'Akosombo).
+
+Rapports Institutionnels :
+
+UNESCO (2010). "Étude sur l'érosion côtière en Afrique de l'Ouest". Ce rapport mentionne explicitement l'impact des barrages et des ports.
+
+Direction Générale de l'Environnement du Bénin : Publie régulièrement des rapports sur l'état du littoral.
+
+Conclusion : Votre description du cas est parfaitement exacte. L'érosion côtière à Cotonou est un paradigme des impacts anthropiques indirects et transfrontaliers. Elle démontre que la gestion du littoral ne peut se concevoir sans une compréhension fine de la sédimentologie des bassins versants à l'échelle régionale et une coopération entre les pays pour gérer les ressources partagées. C'est une leçon cruciale pour l'aménagement du territoire à l'Anthropocène.
+
+Caractéristiques et dynamiques des populations piégées.
+
+Du nomadismes forcé par la force des choses. des placements provisoires répétés.
+
+Certains reste sur place pour s'adapter mais, cela est par moment limité, notamment lors de la montée des eaux.
+
+Observatoire du littoral sur l'ensemble de l'Afrique de l'ouest (de la Mauritanie au Nigéria).
+
+4.  Analyse à l'ère de l'Anthropocène :
+
+Ce cas est une parfaite illustration des risques systémiques de l'Anthropocène :
+
+Enchaînement de Causes à Effets : Un phénomène climatique (sécheresse) → provoque une crise économique (perte de récoltes) → qui déclenche une crise sociale (migration forcée) → qui génère une crise urbaine et humanitaire.
+
+Boucle de Rétroaction Négative : L'exode rural massif aggrave la situation dans les campagnes (perte de main-d'œuvre pour la reconstruction) et dans les villes, créant un cercle vicieux de pauvreté et de vulnérabilité.
+
+Question de Justice Environnementale : Les populations qui ont le moins contribué au changement climatique (les agro-pasteurs mauritaniens) en subissent les conséquences les plus directes et brutales.
+
+1.  Origine du terme "réfugié climatique" Il est inexact de dire que le terme a été "prononcé pour la première fois en Australie" en tant que pays. Sa paternité est généralement attribuée à un rapport des Nations Unies.
+
+La référence clé : Le terme "environmental refugee" (réfugié environnemental) a été popularisé, sinon inventé, dans un rapport du Programme des Nations Unies pour l'environnement (PNUE) en 1985, rédigé par l'expert Essam El-Hinnawi.
+
+Le lien avec l'Australie : L'Australie a été, en effet, l'un des premiers pays à débattre de cette question de manière très concrète et médiatisée. Dans les années 2000, des habitants des îles de Papouasie-Nouvelle-Guinée et de l'État insulaire de Tuvalu (dans le Pacifique) ont demandé l'asile en Australie et en Nouvelle-Zélande en arguant de la montée des eaux qui rendait leurs territoires inhabitables. Les tribunaux australiens et néo-zélandais ont rejeté ces demandes, mais ces cas ont placé la question des "réfugiés climatiques" sous les projecteurs internationaux, avec l'Australie en première ligne géographique. C'est probablement la source de cette idée.
+
+2.  La position des États-Unis (et d'autres pays) Vrai. Les États-Unis, parmi d'autres nations occidentales (Canada, pays européens), se sont montrés très réticents à adopter le terme juridique de "réfugié climatique".
+
+Raisons juridiques : Le statut de réfugié est défini strictement par la Convention de Genève de 1951. Il s'applique à toute personne persécutée en raison de sa race, sa religion, sa nationalité, son appartenance à un groupe social ou ses opinions politiques. La définition ne mentionne ni l'environnement, ni le climat. Élargir cette définition créerait une obligation légale d'accueil pour les signataires de la convention, ce que ces pays refusent.
+
+Raisons politiques et de sécurité : Comme vous le mentionnez, les pays craignent qu'une reconnaissance officielle n'encourage un afflux massif de migrants et n'alourdisse leur système d'asile. Ils redoutent aussi d'être tenus juridiquement et financièrement responsables pour des phénomènes (le changement climatique) auxquels ils ont contribué.
+
+3.  La non-reconnaissance officielle du terme Vrai à ce jour. Il n'existe aucun statut juridique international de "réfugié climatique".
+
+Le débat sémantique : Les organisations internationales (HCR, OIM) évitent désormais ce terme, qu'elles jugent inexact et potentiellement nuisible. Elles lui préfèrent des termes plus descriptifs et juridiquement neutres comme :
+
+"Personnes déplacées dans le contexte de catastrophes et du changement climatique"
+
+"Migrant environnemental"
+
+Pourquoi ? Parce que la migration climatique est souvent interne (les gens se déplacent à l'intérieur de leur pays) et que le terme "réfugié" implique une traversée de frontière internationale. De plus, le climat est rarement l'unique facteur de migration (il se mêle à des facteurs économiques, politiques et sociaux).
+
+Références et sources pour aller plus loin : Le rapport fondateur d'El-Hinnawi (1985) :
+
+El-Hinnawi, E. (1985). Environmental Refugees. United Nations Environment Programme (PNUE). Nairobi.
+
+C'est la source originelle souvent citée.
+
+Sur la position des États-Unis et le débat juridique :
+
+Human Rights Watch et le Brookings Institution ont publié de nombreux rapports sur la frilosité des pays riches.
+
+La position officielle des États-Unis se lit dans leurs prises de position lors des négociations climatiques (COP) et dans les documents du Department of State qui distinguent toujours strictement les "réfugiés" (au sens de la Convention de Genève) des "migrants".
+
+Sur la non-reconnaissance et la terminologie :
+
+Organisation Internationale pour les Migrations (OIM) : Leurs publications utilisent systématiquement le terme de "migrant environnemental" et expliquent pourquoi "réfugié" est problématique.
+
+Haut-Commissariat des Nations Unies pour les Réfugiés (HCR) : Le HCR publie régulièrement des notes juridiques sur le sujet, reconnaissant le défi mais réaffirmant que le cadre juridique actuel de la protection internationale des réfugiés ne couvre pas les motifs environnementaux.
+
+Initiative Nansen (2012-2015) : Processus intergouvernemental qui a abouti à un Agenda pour la protection des personnes déplacées au-delà des frontières dans le contexte de catastrophes naturelles et des changements climatiques. C'est la base du travail actuel, qui évite soigneusement le terme "réfugié".
+
+Mardi 23 septembre 2025. Cap-Hatitien, Haiti Social inhabitability leads to a long-term maladaptation mechanisme to climate : Cap-Haïtien, Haïti L’inhabitabilité sociale conduit à un mécanisme de mal-adaptation à long terme face au climat. De Gracia et Ozer.
+
+Nous sommes au nord d’Haïti, dans la deuxième plus grande ville après Port-au-Prince. Situé en zone tropicale, le Cap-Haïtien se trouve à la frontière d’une région climatique où les cyclones tropicaux sont fréquents et parfois destructeurs. Cette situation est exacerbée par le réchauffement climatique.
+
+**Qu’est-ce qui caractérise cette île** ? Une histoire coloniale qui a séparé Haïti et la République Dominicaine. Aujourd’hui, cette division se traduit notamment par une différence fondamentale dans l’état de dégradation des forêts : très marquée en Haïti.
+
+Le Cap-Haïtien, ville côtière, est exposé à des pluies d’intensité croissante. Cela révèle une gestion passée insuffisante de l’occupation du territoire et des infrastructures.
+
+À cela s’ajoute la problématique de la gestion des déchets, qui reste un défi majeur. L’ensemble de ces facteurs combinés entraîne des inondations répétées.
+
+**Analyse par imagerie satellitaire de l'évolution de la zone** :
+
+-   2004 : présence importante de mangroves.
+-   2010 : le séisme a provoqué des déplacements massifs de population, notamment depuis Port-au-Prince. 2015 : installation accrue de populations dans la zone, accentuant la pression sur l'environnement côtier.
+
+La gouvernance qui a suivi ces évènements a été marquée par un certain laxisme des autorités de transition. Cela n'a pas empêché les populations de s'installer sur les zones de mangroves, en y construisant des habitats particulièrement vulnérables.
+
+Leur principal moyen de subsistance étant la pêche, celle-ci s’est intensifiée, exerçant une pression croissante sur la ressource halieutique.
+
+Les solutions pour y remédier pourrait être :
+
+-   la protection des zones à travers une digue. Mais visiblement très coûteux ;
+-   la deuxième option, pourrait être des constructions sur pilotis
+-   Enfin, un repli en éloignant peu à peur des cotes. Mais il peu usité.
+
+De manière générale, l'être humain, lorsqu'il se sent en position de force face à la nature et qu'il en a les moyens financiers, est tenté de privilégier des solutions techniques immédiates. Ce n'est toutefois pas le cas ici. Les amas de plastique ont servi à former une sorte d'îles artificielles, réduisant la capacité des cours d'eau à s'écouler dans leur lit initial et provoquant des débordements. Cela illustre une forme d’auto-construction du risque.
+
+Pour construire des habitations sur les mangroves ou le long des cours d’eau, les plastiques sont entassés puis brûlés afin de les compacter. L’exposition aux fumées qui en résulte constitue une source supplémentaire de risques pour la santé.
+
+En 2015, des populations côtières ont été évacuées à la suite de prévisions de tsunami. Cependant, leur rélocalisation a posé problème : nombre d'entre elles se sont installées dans des quartiers précaires construits sur des îlots de plastiques, déplaçant ainsi le problème sans réellement le résoudre.
+
+Port-Bouet, Abidjan 124 ha détruit, ...En septembre, ce qui coincide avec la rentrée. Difficile à gérer. Et quatre ans plus tard, le verdict de la justice montre que le déguerpissement était illégale.
+
+## Partim 2 : Introduction aux notions de bases
+
+**Cours** : ***Introduction aux risques et catastrophes à l’ère de l’Anthropocène Enseignant : Nicolas Dendoncker (UNamur)***
+
+**Date** : ***23/09/2025***
+
+**Objectifs de la séance du jours**
+
+-   Clarifier les notions fondamentales : risque, aléa, vulnérabilité, résilience, adaptation, atténuation, urgence complexe.
+
+-   Comprendre le concept d’Anthropocène et ses implications.
+
+-   Explorer les limites planétaires et les enjeux de gouvernance.
+
+-   Initier à la pensée systémique et aux propriétés émergentes des systèmes complexes.
+
+-   Introduire l’économie du donut comme modèle alternatif pour penser durabilité et justice sociale.
+
+### Anthropocène : quand l’humain devient force géologique
+
+-   **Définition** : L’Anthropocène est proposé comme une nouvelle ère géologique où l’humain est le principal facteur de transformation des systèmes terrestres ([Crutzen et Stoermer, 2000](https://www.nature.com/articles/415023a) ).
+
+-   **Débats** :
+
+    -   *Date de début* : non tranchée par l’Union internationale de géologie. Hypothèses : révolution industrielle (\~1750), « grande accélération » (\~1950), agriculture néolithique (\~10 000 ans).
+
+    -   *Indicateurs* : dépôts sédimentaires (lacs, glaces, radionucléides), isotopes (δ18O), plastiques, etc.
+
+-   **Croissance économique infinie** ?
+
+    -   Dogme remis en cause dans un système fermé comme la Terre, où seule l’énergie solaire est vraiment renouvelable.
+
+    -   Depuis les années 1970, l’humanité consomme **plus que ce que la Terre peut régénérer en un an** (Earth Overshoot Day).
+
+-   **Inégalités environnementales** :
+
+    -   Les 1 % les plus riches émettent bien plus de CO₂ que les 50 % les plus pauvres ([Oxfam, 2023](https://www.oxfam.org/fr)).
+
+    -   D’où des propositions de parler de Capitalocène (responsabilité du système économique) ou de Plantationocène (responsabilité des structures coloniales).
+
+-   **Enjeux politiques** :
+
+    -   Concept encore « mollement politique », mais il impose de décloisonner les disciplines et de repenser gouvernance et justice environnementale.
+
+### Les limites planétaires
+
+-   **Concept** : Rockström et al., 2009 (<https://www.stockholmresilience.org/research/planetary-boundaries.html>) définissent 9 processus biophysiques critiques. Dépasser ces seuils → risques de basculements irréversibles.
+
+-   **Exemples** :
+
+    -   Déforestation amazonienne : risque de basculer vers une savane si les précipitations diminuent.
+
+    -   Biodiversité : perte 100 à 1000 fois supérieure au rythme naturel.
+
+-   Pollution plastique : en 2022, une nouvelle limite a été franchie (contamination chimique & plastique).
+
+-   **Boucles de rétroaction** :
+
+    -   Déforestation → baisse humidité des sols → perte de biodiversité → émissions de CO₂ → hausse de température → déforestation accrue.
+
+-   **Lien avec l’économie** : le dépassement des limites planétaires n’est pas seulement écologique, il pose des enjeux sociaux, sanitaires et politiques.
+
+### Exercices pratiques : comprendre la complexité
+
+-   **Jeu en auditoire** :
+
+    -   Chaque étudiant doit rester à égale distance de deux autres → stabilisation spontanée du système après un temps → propriété émergente.
+
+    -   Variante : choisir un ami à approcher et un ennemi à fuir → apparition de sous-groupes.
+
+**Message clé** :
+
+-   Les systèmes complexes (climat, économie, société) produisent des dynamiques impossibles à prévoir par une simple addition des comportements individuels.
+
+-   On ne peut pas « contrôler » ces systèmes mais seulement participer et s’adapter.
+
+### Penser autrement : l’économie du donut
+
+-   **Référence** : Kate Raworth, Doughnut Economics (2017).
+
+-   **Principe** :
+
+    -   Un plafond environnemental : limites planétaires à ne pas dépasser.
+    -   Un plancher social : besoins humains fondamentaux (alimentation, santé, énergie, justice).
+    -   L’espace sûr et juste pour l’humanité = entre les deux.
+
+**Intérêt** :
+
+-   Combine sciences naturelles (seuils biophysiques) et sciences sociales (justice, équité).
+
+-   Propose une vision systémique où durabilité et justice sociale sont indissociables.
+
+Voir : [Doughnut Economics Action Lab](<https://doughnuteconomics.org/>).
+
+### Conclusion provisoire (séance du jour) du partim
+
+L’Anthropocène oblige à penser :
+
+- L’interdépendance entre environnement, société et économie.
+- Les risques comme produits de systèmes complexes.
+- La nécessité d’une pensée systémique pour éviter les solutions simplistes.
+- Les prochaines séances aborderont plus en détail :
+- Les risques spécifiques (climat, santé, migrations).
+- Les modes de gouvernance face à l’incertitude.
+
+### Recommandation de lecture pour approfondir :
+
+Steffen et al. (2015) « Planetary Boundaries: Guiding human development on a changing planet » (Science).
+
+Raworth, K. (2017). Doughnut Economics.
+
+Oxfam (2023). Carbon Inequality Report.
+
