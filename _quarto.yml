@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Master de spécialisation en Gestion des Risques et Catastrophes à l'ère de l'Anthropocène (GRCA) : capitalisation, outils et application en Afrique de l'Ouest"
+  title: "Master de spécialisation en gestion des risques et des catastrophes à l'ère de l'Anthropocène : capitalisation d'une expérience académique"
   author: "NEBIE Gaston Cyrille"
   date: "today"
   cover-image: images/logo.png
@@ -15,7 +15,7 @@ book:
   page-footer:
     border: true
     left: "© 2026 NEBIE Gaston Cyrille — Master GRCA, ULiège."
-    center: "Capitalisation, outils et application en Afrique de l'Ouest."
+    center: "Capitalisation d'une expérience académique de master."
     right: "[RPubs](https://rpubs.com/nebiegc)"
   bibliography:
     - 01_Cours/biblio_cours_sebastien.bib
@@ -101,10 +101,6 @@ format:
     code-tools: true
     logo: images/logo.png
     lang: fr
-  pdf:
-    lang: fr
-    documentclass: scrreprt
-    include-in-header: header.tex        # Optionnel pour personnaliser plus le PDF
 
 execute:
   freeze: auto

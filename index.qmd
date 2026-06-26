@@ -1,21 +1,73 @@
 ---
-title: "Bienvenue - Note synthétique du Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA)"
-format: html
-page-layout: article
+title: "Gérer les risques à l'ère de l'Anthropocène"
+subtitle: "Capitalisation d'une expérience de master en gestion des risques et des catastrophes"
+author: "NEBIE Gaston Cyrille — Ingénieur hydrologue"
+date: today
+title-block-banner: "#0e5066"
+title-block-banner-color: "#ffffff"
+toc: false
+number-sections: false
 ---
 
-## Objectif {.unnumbered}
+::: {.home-intro}
+Ce livre rassemble ce que j'ai appris pendant le Master de spécialisation en gestion des risques et des catastrophes à l'ère de l'Anthropocène (GRCA), à l'Université de Liège, en 2025-2026. J'ai pris l'habitude de tout consigner au fil des cours, plutôt que de laisser mes notes se disperser dans des fichiers oubliés. Ce qui devait rester un outil personnel est devenu un document que je choisis d'ouvrir.
+:::
 
-Ce document n'a pas vocation à se substituer aux contenus officiels du master. Il constitue une initiative personnelle visant à rassembler, en un seul espace, le parcours d'une année de formation.  
-L'objectif est de proposer une **synthèse réflexive** des enseignements suivis, des outils mobilisés, des applications de terrain ainsi que du processus complet lié au **Travail de Fin d'Études (TFE)**.  
-La plupart des exemples et études de cas seront orientés vers le **Burkina Faso**, pays d'origine de l'auteur.
+Le pari est simple. Des connaissances rangées dans un dossier ne servent à personne. Relues, mises en ligne et soumises à la critique, elles peuvent aider la promotion suivante, un collègue qui prépare un terrain, ou un praticien qui cherche un point d'entrée rapide sur un sujet.
 
-## Organisation des contenus {.unnumbered}
+Je l'écris depuis une position précise : ingénieur hydrologue burkinabè, habitué aux réalités de la gestion de l'eau et des risques en Afrique de l'Ouest. C'est ce regard que je garde d'un bout à l'autre. Chaque cours est relu à l'aune d'une même question : qu'est-ce que cela change concrètement pour un pays comme le Burkina Faso ?
 
-Le document est structuré autour des axes suivants :  
-- **Administration** : programme, enseignants, partenaires, historique et suivi global.  
-- **Cours** : notes et ressources associées à chaque module officiel.  
-- **Outils** : compétences techniques transversales (R, SIG, systèmes d’alerte).  
-- **Pays & Applications** : Burkina Faso et autres pays ciblés.  
-- **Veille** : suivi stratégique (actualités, politiques, alertes).  
-- **TFE** : processus de recherche et rédaction du mémoire.  
+Le document reste un chantier. Certaines parties sont abouties, d'autres encore à l'état de notes. Je préfère le publier ainsi, en l'enrichissant régulièrement, plutôt que d'attendre une version définitive qui n'arrive jamais. Les remarques, les corrections et les désaccords sont les bienvenus.
+
+![La promotion GRCA 2025-2026, en sortie de terrain.](images/promo-sortie.jpg){fig-align="center" .home-photo}
+
+::: {.content-visible when-format="html"}
+
+## Au sommaire {.unnumbered}
+
+::: {.grid .home-cards}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Le Master GRCA](00_Admin/historique.qmd)
+Le programme, les enseignants et le cadrage de l'Anthropocène qui structure tout le master.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Comprendre les risques](01_Cours/ENVT0846_anthropocene.qmd)
+Approche pluridisciplinaire : risques naturels, technologiques et sanitaires.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Outils d'analyse](01_Cours/RISQ2018_SIG_Teledection.qmd)
+SIG et télédétection, traitement de données avec R, alerte précoce, aménagement.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [De l'urgence à la résilience](01_Cours/ENVT0010_seminaire_integre.qmd)
+Séminaires de terrain, migrations environnementales, gouvernance et retours d'expérience.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Boîte à outils & ressources](02_Tools/R_intro.qmd)
+Guides réutilisables, cadres de référence et articles publiés en accès libre.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Culture générale du risque](08_culture-generale/cadre_sendai.qmd)
+Cadre de Sendai, typologie des aléas et lectures systémiques de cas réels.
+:::
+
+:::
+
+::: {.author-card}
+::: {.author-text}
+### NEBIE Gaston Cyrille
+Ingénieur hydrologue et consultant en hydrologie et data science appliquée à l'eau. Je travaille sur la gestion des risques et l'adaptation au changement climatique en Afrique de l'Ouest, entre recherche, expertise et terrain.
+
+::: {.author-links}
+[Articles RPubs](https://rpubs.com/nebiegc) · [LinkedIn](https://www.linkedin.com/in/gaston-cyrille-nebie-a2a977222/) · [Site web](https://ngastoncyrille.github.io/)
+:::
+:::
+:::
+
+:::
