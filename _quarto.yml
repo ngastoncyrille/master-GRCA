@@ -1,83 +1,106 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "Master de spécialisation en Gestion des Risques et Catastrophes à l'ére de l'Anthropocène (GRCA) : prise de notes, synthèse des outils et TFE"
+  title: "Master de spécialisation en Gestion des Risques et Catastrophes à l'ère de l'Anthropocène (GRCA) : capitalisation, outils et application en Afrique de l'Ouest"
   author: "NEBIE Gaston Cyrille"
   date: "today"
   cover-image: images/logo.png
-  language: fr       # <-- ajoute cette ligne
-  
+  favicon: images/logo.png
+  language: fr
+  reader-mode: true
+  search: true
+  back-to-top-navigation: true
+  page-footer:
+    border: true
+    left: "© 2026 NEBIE Gaston Cyrille — Master GRCA, ULiège."
+    center: "Capitalisation, outils et application en Afrique de l'Ouest."
+    right: "[RPubs](https://rpubs.com/nebiegc)"
+  bibliography:
+    - 01_Cours/biblio_cours_sebastien.bib
+    - 05_TFE/TFE-GRCA.bib
+
+  csl: apa.csl
+
   chapters:
     - index.qmd
-    - part: "Administration"
+
+    - part: "Le Master GRCA"
       chapters:
         - 00_Admin/historique.qmd
         - 00_Admin/enseignants.qmd
         - 00_Admin/programme.qmd
-    - part: "L'anthropocène"
-      chapters:
         - 00_Anthropocene/introduction.qmd
         - 00_Anthropocene/atalas_anthropocene.qmd
         - 00_Anthropocene/enquete_arte.qmd
-    - part: "Cours"
+
+    - part: "Bloc 1 — Comprendre les risques"
       chapters:
-        - 01_Cours/RISQ2014_introduction.qmd
         - 01_Cours/ENVT0846_anthropocene.qmd
+        - 01_Cours/RISQ2014_introduction.qmd
         - 01_Cours/RISQ2015_risques_naturels.qmd
         - 01_Cours/RISQ2016_tech_technologiques.qmd
         - 01_Cours/RISQ2117_sanitaires.qmd
+
+    - part: "Bloc 2 — Outils d'analyse et de prévention"
+      chapters:
         - 01_Cours/RISQ2018_SIG_Teledection.qmd
         - 01_Cours/ENVT3124_R_intro.qmd
         - 01_Cours/RISQ2019_alerte_precoce.qmd
         - 01_Cours/RISQ2020_amenagement_prevention.qmd
+
+    - part: "Bloc 3 — De l'urgence à la résilience"
+      chapters:
         - 01_Cours/ENVT0010_seminaire_integre.qmd
         - 01_Cours/RISQ2029_soft_skills.qmd
-        - 01_Cours/RISQ2025_migrations_env.qmd
+        - 01_Cours/RISQ2025_migrations_env_1.qmd
         - 01_Cours/RISQ2030_gouvernance_resilience.qmd
-    - part: "Outils"
+
+    - part: "Boîte à outils & ressources"
       chapters:
         - 02_Tools/R_intro.qmd
         - 02_Tools/SIG.qmd
         - 02_Tools/EarlyWarning.qmd
-    - part: "Pays & Applications"
-      chapters:
-        - 06_Pays_Cibles/Burkina_Faso/contexte.qmd
-        - 06_Pays_Cibles/Burkina_Faso/application_cours.qmd
-        - 06_Pays_Cibles/Burkina_Faso/donnees.qmd
-        - 06_Pays_Cibles/Autres_pays/Niger.qmd
-        - 06_Pays_Cibles/Autres_pays/Mali.qmd
-    - part: "03_Opportunites"
-      chapters:
-        - 03_Opportunites/conferences.qmd       
-    - part: "Veille"
-      chapters:
-        - 07_Veille/articles.qmd
-        - 07_Veille/actualites.qmd
-        - 07_Veille/politiques.qmd
-        - 07_Veille/alertes.qmd
-    - part: "TFE"
-      chapters:
-        - 05_TFE/brainstorming.qmd
-        - 05_TFE/plan_travail.qmd
-        - 05_TFE/notes_recherche.qmd
-        - 05_TFE/draft.qmd
-    - part: "aaaaaaaaa"
-      chapters:
-        - 08_culture-generale/cartographie des structures-GRCA.qmd
+        - 08_culture-generale/cadre_sendai.qmd
         - 08_culture-generale/Typologie des Aléas Anthropocène.qmd
+        - 08_culture-generale/cartographie des structures-GRCA.qmd
         - 08_culture-generale/risque-cap-haitien.qmd
 
-bibliography: references.bib
+    - part: "Opportunités & engagement"
+      chapters:
+        - 03_Opportunites/conferences.qmd
+        - 10_Certifications-Formations/osons_humanite.qmd
+
+    - part: "Réseau professionnel"
+      chapters:
+        - 04_Reseau/alumni.qmd
+
+    - part: "Travail de fin d'études"
+      chapters:
+        - 05_TFE/draft.qmd
+
+  # ----------------------------------------------------------------------
+  # Mis de côté volontairement (conservés sur disque, hors rendu public) :
+  #   - 01_Cours/RISQ2025_migrations_env.qmd  -> doublon vide ("hhaha") ; le contenu réel est dans _1
+  #   - 09_prepa_quadri1/intro_anthropo.qmd   -> préparation d'examens = privé
+  #   - part "Application en Afrique de l'Ouest" (06_Pays_Cibles/*) -> retirée du rendu (pages vides). Angle AO tissé dans chaque chapitre.
+  #   - 07_Veille/* (articles, actualites, politiques, alertes) -> retiré pour la v1 : section veille trop lourde à maintenir après août 2026.
+  #   - 04_Reseau/etudiants_promotion.qmd + experts.qmd -> retirés v1 : remplacés par l'annuaire dynamique (alumni.qmd). Conservés sur disque.
+  #   - 05_TFE/brainstorming, plan_travail, notes_recherche -> notes de travail privées ; seul draft.qmd (résumé "en cours") est rendu.
+  # ----------------------------------------------------------------------
 
 format:
   html:
     toc: true
-    theme: cosmo
+    toc-title: "Sur cette page"
+    theme:
+      - cosmo
+      - theme.scss
     number-sections: true
     code-tools: true
-    logo: images/logo.png  
-    lang: fr 
+    logo: images/logo.png
+    lang: fr
   pdf:
     lang: fr
     documentclass: scrreprt
@@ -87,4 +110,3 @@ execute:
   freeze: auto
 
 editor: visual
-

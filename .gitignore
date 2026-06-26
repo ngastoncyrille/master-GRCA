@@ -16,3 +16,6 @@ Thumbs.db
 # Fichiers temporaires Office
 ~$*
 /.quarto/
+
+# Ancienne sortie Quarto (on publie désormais via /docs)
+/_book/
