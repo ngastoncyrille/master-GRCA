@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="keywords" content="GRCA, cours">
+<meta name="keywords" content="GRCA, cours, R, statistiques">
 
-<title>Master de spécialisation en Gestion des Risques et Catastrophes à l’ére de l’Anthropocène (GRCA) : prise de notes, synthèse des outils et TFE - 14&nbsp; Traitement de données environnementales – Partim 2: Initiation à R</title>
+<title>Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA) : capitalisation, outils et application en Afrique de l’Ouest - 14&nbsp; Traitement des données environnementales – Partim 2 : initiation à R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -91,6 +91,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <meta name="quarto:offset" content="../">
 <link href="../01_Cours/RISQ2019_alerte_precoce.html" rel="next">
 <link href="../01_Cours/RISQ2018_SIG_Teledection.html" rel="prev">
+<link href="../images/logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -129,7 +130,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Traitement de données environnementales – Partim 2: Initiation à R</span></h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Traitement des données environnementales – Partim 2 : initiation à R</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -142,7 +143,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="../">Master de spécialisation en Gestion des Risques et Catastrophes à l’ére de l’Anthropocène (GRCA) : prise de notes, synthèse des outils et TFE</a> 
+      <a href="../">Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA) : capitalisation, outils et application en Afrique de l’Ouest</a> 
+        <div class="sidebar-tools-main">
+  <a href="" class="quarto-reader-toggle sidebar-tool" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
     </div>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
@@ -154,12 +162,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Bienvenue - Note synthétique du Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA)</span></a>
+  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Gérer les risques à l’ère de l’Anthropocène</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Administration</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Le Master GRCA</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -167,12 +175,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../00_Admin/historique.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Informations générales sur le Master de spécialisation en Gestion des Risques et des Catastrophes</span></a>
+  <a href="../00_Admin/historique.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Informations générales</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../00_Admin/enseignants.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Equipe de coordination</span></a>
+  <a href="../00_Admin/enseignants.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Équipe de coordination</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -180,19 +188,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <a href="../00_Admin/programme.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Programme et équipe enseignante 2025–2026</span></a>
   </div>
 </li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">L’anthropocène</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../00_Anthropocene/introduction.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Introducton</span></a>
+  <a href="../00_Anthropocene/introduction.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Introduction</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -202,19 +200,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../00_Anthropocene/enquete_arte.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">L’Anthropocène : enquête sur une nouvelle ère géologique et ses implications systémiques</span></a>
+  <a href="../00_Anthropocene/enquete_arte.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">L’Anthropocène : enquête sur une nouvelle ère géologique</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Cours</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Bloc 1 — Comprendre les risques</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../01_Cours/ENVT0846_anthropocene.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Introduction à l’anthropocène</span></a>
@@ -240,6 +238,16 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <a href="../01_Cours/RISQ2117_sanitaires.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Les risques et catastrophes environnementaux et sanitaires</span></a>
   </div>
 </li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Bloc 2 — Outils d’analyse et de prévention</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../01_Cours/RISQ2018_SIG_Teledection.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Rôles des systèmes d’information géographique et des techniques géomatiques dans la gestion des risques et catastrophes</span></a>
@@ -247,7 +255,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01_Cours/ENVT3124_R_intro.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Traitement de données environnementales – Partim 2: Initiation à R</span></a>
+  <a href="../01_Cours/ENVT3124_R_intro.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Traitement des données environnementales – Partim 2 : initiation à R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -260,9 +268,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <a href="../01_Cours/RISQ2020_amenagement_prevention.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Aménagement du territoire et prévention des risques</span></a>
   </div>
 </li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">Bloc 3 — De l’urgence à la résilience</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01_Cours/ENVT0010_seminaire_integre.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Séminaire – Approche intégrée d’une question d’environnement</span></a>
+  <a href="../01_Cours/ENVT0010_seminaire_integre.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Séminaire : approche intégrée d’une question d’environnement</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -272,49 +290,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01_Cours/RISQ2025_migrations_env.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Migrations environnementales</span></a>
+  <a href="../01_Cours/RISQ2025_migrations_env_1.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Migrations environnementales</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01_Cours/RISQ2025_migrations_env_1.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Migrations environnementales</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../01_Cours/RISQ2030_gouvernance_resilience.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Gouvernance, planification d’urgence, résilience et adaptation – REX</span></a>
+  <a href="../01_Cours/RISQ2030_gouvernance_resilience.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Gouvernance, planification d’urgence, résilience et adaptation – REX</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">Outils</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../02_Tools/R_intro.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">R – Notions &amp; recettes utiles</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../02_Tools/SIG.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">SIG – Workflows reproductibles</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../02_Tools/EarlyWarning.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">EWS – Systèmes d’alerte précoce</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">Pays &amp; Applications</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">Boîte à outils &amp; ressources</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -322,34 +310,44 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Burkina_Faso/contexte.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Burkina Faso – Contexte &amp; vulnérabilités</span></a>
+  <a href="../02_Tools/R_intro.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">R – notions et ressources utiles</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Burkina_Faso/application_cours.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Burkina Faso – Applications par cours</span></a>
+  <a href="../02_Tools/SIG.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">SIG et télédétection – workflows reproductibles</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Burkina_Faso/donnees.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Burkina Faso – Données</span></a>
+  <a href="../02_Tools/EarlyWarning.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Systèmes d’alerte précoce – cadre et repères</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Autres_pays/Niger.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Niger – Notes</span></a>
+  <a href="../08_culture-generale/cadre_sendai.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Le cadre de Sendai (2015-2030) : quatre priorités pour réduire les risques de catastrophe</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Autres_pays/Mali.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Mali – Notes</span></a>
+  <a href="../08_culture-generale/Typologie des Aléas Anthropocène.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Typologie des aléas à l’ère de l’Anthropocène</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08_culture-generale/cartographie des structures-GRCA.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Cartographie des structures de gestion des risques : écosystème international et cas ouest-africains</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08_culture-generale/risque-cap-haitien.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Villes côtières à l’épreuve de l’Anthropocène : le Cap-Haïtien et quatre littoraux comparés</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">03_Opportunites</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">Opportunités &amp; engagement</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -357,14 +355,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../03_Opportunites/conferences.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Conférences &amp; Colloques</span></a>
+  <a href="../03_Opportunites/conferences.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Conférences et colloques</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10_Certifications-Formations/osons_humanite.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Fiche de capitalisation : Formation Osons l’Humanitaire</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">Veille</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">Réseau professionnel</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -372,29 +375,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../07_Veille/articles.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Veille – Articles scientifiques</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../07_Veille/actualites.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Veille – Actualités &amp; événements</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../07_Veille/politiques.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Veille – Politiques &amp; cadres</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../07_Veille/alertes.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Veille – Alertes &amp; risques</span></a>
+  <a href="../04_Reseau/alumni.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Annuaire de la communauté GRCA</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">aaaaaaaaa</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">Travail de fin d’études</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -402,37 +390,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../08_culture-generale/cartographie des structures-GRCA.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l’ère de l’Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l’Ouest</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../08_culture-generale/Typologie des Aléas Anthropocène.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Typologie des Aléas Anthropocène</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../08_culture-generale/risque-cap-haitien.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Analyse systémique des risques au Cap-Haïtien à l’ère de l’Anthropocène</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../08_culture-generale/cadre_sendai.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Cadre de sendai (2015-2030) : Les 4 priorités pour réduire les risques de Catastrophe</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true">Préparartion des examens du premlier quadrimestre</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../09_prepa_quadri1/intro_anthropo.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">39</span>&nbsp; <span class="chapter-title">Synthèse des révisions pour les examens du premier quadrimestre</span></a>
+  <a href="../05_TFE/draft.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Travail de fin d’études (en cours)</span></a>
   </div>
 </li>
       </ul>
@@ -443,19 +401,20 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc">
-    <h2 id="toc-title">Table des matières</h2>
+    <h2 id="toc-title">Sur cette page</h2>
    
   <ul>
-  <li><a href="#objectifs-du-module" id="toc-objectifs-du-module" class="nav-link active" data-scroll-target="#objectifs-du-module"> <span class="header-section-number">14.1</span> Objectifs du module</a></li>
-  <li><a href="#plan-de-cours" id="toc-plan-de-cours" class="nav-link" data-scroll-target="#plan-de-cours"> <span class="header-section-number">14.2</span> Plan de cours</a></li>
-  <li><a href="#notes-de-cours-structurées" id="toc-notes-de-cours-structurées" class="nav-link" data-scroll-target="#notes-de-cours-structurées"> <span class="header-section-number">14.3</span> Notes de cours (structurées)</a>
+  <li><a href="#pourquoi-r" id="toc-pourquoi-r" class="nav-link active" data-scroll-target="#pourquoi-r"> <span class="header-section-number">14.1</span> Pourquoi R</a></li>
+  <li><a href="#ce-que-le-cours-couvre" id="toc-ce-que-le-cours-couvre" class="nav-link" data-scroll-target="#ce-que-le-cours-couvre"> <span class="header-section-number">14.2</span> Ce que le cours couvre</a>
   <ul class="collapse">
-  <li><a href="#résumé" id="toc-résumé" class="nav-link" data-scroll-target="#résumé"> <span class="header-section-number">14.3.1</span> Résumé</a></li>
-  <li><a href="#points-clés" id="toc-points-clés" class="nav-link" data-scroll-target="#points-clés"> <span class="header-section-number">14.3.2</span> Points clés</a></li>
-  <li><a href="#méthodes-outils" id="toc-méthodes-outils" class="nav-link" data-scroll-target="#méthodes-outils"> <span class="header-section-number">14.3.3</span> Méthodes / Outils</a></li>
+  <li><a href="#prise-en-main-et-importation" id="toc-prise-en-main-et-importation" class="nav-link" data-scroll-target="#prise-en-main-et-importation"> <span class="header-section-number">14.2.1</span> Prise en main et importation</a></li>
+  <li><a href="#statistique-descriptive" id="toc-statistique-descriptive" class="nav-link" data-scroll-target="#statistique-descriptive"> <span class="header-section-number">14.2.2</span> Statistique descriptive</a></li>
+  <li><a href="#vérifier-la-normalité" id="toc-vérifier-la-normalité" class="nav-link" data-scroll-target="#vérifier-la-normalité"> <span class="header-section-number">14.2.3</span> Vérifier la normalité</a></li>
+  <li><a href="#tests-dhypothèses-et-régression" id="toc-tests-dhypothèses-et-régression" class="nav-link" data-scroll-target="#tests-dhypothèses-et-régression"> <span class="header-section-number">14.2.4</span> Tests d’hypothèses et régression</a></li>
+  <li><a href="#reproductibilité" id="toc-reproductibilité" class="nav-link" data-scroll-target="#reproductibilité"> <span class="header-section-number">14.2.5</span> Reproductibilité</a></li>
   </ul></li>
-  <li><a href="#application-burkina-faso" id="toc-application-burkina-faso" class="nav-link" data-scroll-target="#application-burkina-faso"> <span class="header-section-number">14.4</span> Application Burkina Faso</a></li>
-  <li><a href="#bibliographie-commentée" id="toc-bibliographie-commentée" class="nav-link" data-scroll-target="#bibliographie-commentée"> <span class="header-section-number">14.5</span> Bibliographie commentée</a></li>
+  <li><a href="#une-ressource-de-révision" id="toc-une-ressource-de-révision" class="nav-link" data-scroll-target="#une-ressource-de-révision"> <span class="header-section-number">14.3</span> Une ressource de révision</a></li>
+  <li><a href="#application-en-afrique-de-louest" id="toc-application-en-afrique-de-louest" class="nav-link" data-scroll-target="#application-en-afrique-de-louest"> <span class="header-section-number">14.4</span> Application en Afrique de l’Ouest</a></li>
   </ul>
 </nav>
     </div>
@@ -464,7 +423,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<div class="quarto-title-block"><div><h1 class="title d-none d-lg-block"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Traitement de données environnementales – Partim 2: Initiation à R</span></h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
+<div class="quarto-title-block"><div><h1 class="title d-none d-lg-block"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Traitement des données environnementales – Partim 2 : initiation à R</span></h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
 </div>
 
 
@@ -475,7 +434,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     <div>
     <div class="quarto-title-meta-heading">Date de publication</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">24 août 2025</p>
+      <p class="date">1 mars 2026</p>
     </div>
   </div>
     
@@ -484,46 +443,59 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 </header>
 
-<section id="objectifs-du-module" class="level2" data-number="14.1">
-<h2 data-number="14.1" class="anchored" data-anchor-id="objectifs-du-module"><span class="header-section-number">14.1</span> Objectifs du module</h2>
+<p>Ce partim initie à R, le langage de référence pour l’analyse de données environnementales. Le cours s’est déroulé en trois temps : une partie théorique, des travaux dirigés (TD) pour poser les bases, puis des travaux pratiques (TP) pour mettre en œuvre sur des données réelles.</p>
+<section id="pourquoi-r" class="level2" data-number="14.1">
+<h2 data-number="14.1" class="anchored" data-anchor-id="pourquoi-r"><span class="header-section-number">14.1</span> Pourquoi R</h2>
+<p>R est gratuit, open source et devenu un standard en sciences de l’environnement. Pour un gestionnaire de risques, son intérêt tient à trois choses : la richesse de ses extensions (<em>packages</em>) pour les statistiques, la cartographie et l’hydrologie ; sa capacité à enchaîner sans rupture l’import, le traitement, l’analyse et la visualisation ; et surtout la reproductibilité, via R Markdown et Quarto, qui permet de rejouer une analyse à l’identique et de la documenter. Un atout décisif quand la donnée est rare et que chaque étape doit pouvoir être justifiée.</p>
+</section>
+<section id="ce-que-le-cours-couvre" class="level2" data-number="14.2">
+<h2 data-number="14.2" class="anchored" data-anchor-id="ce-que-le-cours-couvre"><span class="header-section-number">14.2</span> Ce que le cours couvre</h2>
+<p>Le fil suit le parcours d’une analyse, de la donnée brute au résultat interprété.</p>
+<section id="prise-en-main-et-importation" class="level3" data-number="14.2.1">
+<h3 data-number="14.2.1" class="anchored" data-anchor-id="prise-en-main-et-importation"><span class="header-section-number">14.2.1</span> Prise en main et importation</h3>
+<p>Installer et charger des packages, importer un jeu de données (CSV ou texte tabulé, en précisant l’en-tête, le séparateur de colonnes et le séparateur décimal), puis l’explorer : dimensions, structure et type de chaque variable, résumé statistique rapide. Viennent ensuite la sélection de colonnes et le filtrage de lignes pour isoler des sous-populations.</p>
+</section>
+<section id="statistique-descriptive" class="level3" data-number="14.2.2">
+<h3 data-number="14.2.2" class="anchored" data-anchor-id="statistique-descriptive"><span class="header-section-number">14.2.2</span> Statistique descriptive</h3>
 <ul>
-<li>…</li>
+<li>variables quantitatives : tendance centrale (moyenne, médiane), dispersion (variance, écart-type, étendue, écart interquartile, quantiles), et gestion des valeurs manquantes (NA) ;</li>
+<li>représentations : histogramme et boîte à moustaches (boxplot) ;</li>
+<li>variables qualitatives : tableaux d’effectifs et de fréquences, diagrammes en barres et circulaires.</li>
 </ul>
 </section>
-<section id="plan-de-cours" class="level2" data-number="14.2">
-<h2 data-number="14.2" class="anchored" data-anchor-id="plan-de-cours"><span class="header-section-number">14.2</span> Plan de cours</h2>
-<ol type="1">
-<li>…</li>
-</ol>
+<section id="vérifier-la-normalité" class="level3" data-number="14.2.3">
+<h3 data-number="14.2.3" class="anchored" data-anchor-id="vérifier-la-normalité"><span class="header-section-number">14.2.3</span> Vérifier la normalité</h3>
+<p>Étape clé avant tout test paramétrique : l’histogramme avec courbe normale superposée, et le diagramme quantile-quantile (QQ-plot), qui confronte la distribution observée à la loi normale théorique.</p>
 </section>
-<section id="notes-de-cours-structurées" class="level2" data-number="14.3">
-<h2 data-number="14.3" class="anchored" data-anchor-id="notes-de-cours-structurées"><span class="header-section-number">14.3</span> Notes de cours (structurées)</h2>
-<section id="résumé" class="level3" data-number="14.3.1">
-<h3 data-number="14.3.1" class="anchored" data-anchor-id="résumé"><span class="header-section-number">14.3.1</span> Résumé</h3>
-<p>…</p>
+<section id="tests-dhypothèses-et-régression" class="level3" data-number="14.2.4">
+<h3 data-number="14.2.4" class="anchored" data-anchor-id="tests-dhypothèses-et-régression"><span class="header-section-number">14.2.4</span> Tests d’hypothèses et régression</h3>
+<p>Choisir et interpréter les tests usuels (comparaison de moyennes, tests d’indépendance), comprendre la notion de seuil de signification, et poser une régression pour relier des variables. C’est la partie la plus exigeante du cours, et celle que j’ai le plus retravaillée pour l’examen.</p>
 </section>
-<section id="points-clés" class="level3" data-number="14.3.2">
-<h3 data-number="14.3.2" class="anchored" data-anchor-id="points-clés"><span class="header-section-number">14.3.2</span> Points clés</h3>
-<ul>
-<li>…</li>
-</ul>
-</section>
-<section id="méthodes-outils" class="level3" data-number="14.3.3">
-<h3 data-number="14.3.3" class="anchored" data-anchor-id="méthodes-outils"><span class="header-section-number">14.3.3</span> Méthodes / Outils</h3>
-<ul>
-<li>…</li>
-</ul>
+<section id="reproductibilité" class="level3" data-number="14.2.5">
+<h3 data-number="14.2.5" class="anchored" data-anchor-id="reproductibilité"><span class="header-section-number">14.2.5</span> Reproductibilité</h3>
+<p>R Markdown, et aujourd’hui Quarto, permettent de produire des documents qui mêlent code, résultats et texte, rejouables et partageables. C’est d’ailleurs la technologie sur laquelle repose ce livre.</p>
 </section>
 </section>
-<section id="application-burkina-faso" class="level2" data-number="14.4">
-<h2 data-number="14.4" class="anchored" data-anchor-id="application-burkina-faso"><span class="header-section-number">14.4</span> Application Burkina Faso</h2>
-<p>Décrire une étude de cas, des jeux de données, ou des pistes d’adaptation pour le BF.</p>
+<section id="une-ressource-de-révision" class="level2" data-number="14.3">
+<h2 data-number="14.3" class="anchored" data-anchor-id="une-ressource-de-révision"><span class="header-section-number">14.3</span> Une ressource de révision</h2>
+<p>Dans l’esprit de ce projet, j’ai compilé un <a href="https://rpubs.com/nebiegc/guide-stats-r-grca"><em>Guide pratique de statistique avec R</em></a>, publié sur RPubs, basé sur les cours et les TP. Il reprend toute la démarche, du jeu de données brut aux tests d’hypothèses et à la régression, avec du code commenté et des interprétations rédigées. Pensé d’abord pour réviser, il peut servir aux promotions suivantes.</p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Astuce
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Ressource.</strong> <a href="https://rpubs.com/nebiegc/guide-stats-r-grca">Guide pratique de statistique avec R</a> (RPubs), accompagné des <a href="https://drive.google.com/file/d/1qqRgwXlLoV8CPbrm_-e61KZAym-XYcm8/view?usp=drive_link">sources R (scripts et matériaux de l’examen)</a> sur le Drive.</p>
+</div>
+</div>
 </section>
-<section id="bibliographie-commentée" class="level2" data-number="14.5">
-<h2 data-number="14.5" class="anchored" data-anchor-id="bibliographie-commentée"><span class="header-section-number">14.5</span> Bibliographie commentée</h2>
-<ul>
-<li>Auteur (année). <em>Titre</em>. <strong>Résumé</strong> : …</li>
-</ul>
+<section id="application-en-afrique-de-louest" class="level2" data-number="14.4">
+<h2 data-number="14.4" class="anchored" data-anchor-id="application-en-afrique-de-louest"><span class="header-section-number">14.4</span> Application en Afrique de l’Ouest</h2>
+<p>R est mon outil quotidien pour les données de l’eau et des risques en Afrique de l’Ouest. Plusieurs tutoriels publics le montrent à l’œuvre sur des cas concrets : le <a href="https://rpubs.com/nebiegc/1338170">prétraitement spatial du sous-bassin de Wayen</a> (MNT et réseau hydrographique, bassin du Nakanbé) et l’usage de <a href="https://rpubs.com/nebiegc/1373145">R comme SIG pour localiser des zones d’exploitation optimale</a>. La même logique reproductible vaut pour l’analyse de risque, comme dans mon étude des <a href="https://rpubs.com/nebiegc/1264289">joints toriques de la navette Challenger</a>.</p>
 
 
 <!-- -->
@@ -692,44 +664,68 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Code source</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
 <div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Traitement de données environnementales – Partim 2: Initiation à R"</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">enseignants:</span><span class="co"> ["Anne-Claude Romain"]</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="an">course_code:</span><span class="co"> ""</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> "2025-08-24"</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="an">keywords:</span><span class="co"> ["GRCA","cours"]</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="an">application_bf:</span><span class="co"> false</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="an">tags:</span><span class="co"> ["cours"]</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Traitement des données environnementales – Partim 2 : initiation à R"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">enseignants:</span><span class="co"> ["Laurent Loosveldt"]</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="an">course_code:</span><span class="co"> "ENVT3124"</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> "Mars 2026"</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="an">keywords:</span><span class="co"> ["GRCA","cours","R","statistiques"]</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="an">application_bf:</span><span class="co"> true</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="an">tags:</span><span class="co"> ["cours","outils"]</span></span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="an">sdg_links:</span><span class="co"> ["ODD11","ODD13"]</span></span>
 <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="fu">## Objectifs du module</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>Ce partim initie à R, le langage de référence pour l'analyse de données environnementales. Le cours s'est déroulé en trois temps : une partie théorique, des travaux dirigés (TD) pour poser les bases, puis des travaux pratiques (TP) pour mettre en œuvre sur des données réelles.</span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>…</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="fu">## Pourquoi R</span></span>
 <span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="fu">## Plan de cours</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>R est gratuit, open source et devenu un standard en sciences de l'environnement. Pour un gestionnaire de risques, son intérêt tient à trois choses : la richesse de ses extensions (*packages*) pour les statistiques, la cartographie et l'hydrologie ; sa capacité à enchaîner sans rupture l'import, le traitement, l'analyse et la visualisation ; et surtout la reproductibilité, via R Markdown et Quarto, qui permet de rejouer une analyse à l'identique et de la documenter. Un atout décisif quand la donnée est rare et que chaque étape doit pouvoir être justifiée.</span>
 <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>…</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="fu">## Ce que le cours couvre</span></span>
 <span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="fu">## Notes de cours (structurées)</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>Le fil suit le parcours d'une analyse, de la donnée brute au résultat interprété.</span>
 <span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="fu">### Résumé</span></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>…</span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="fu">### Points clés</span></span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>…</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="fu">### Prise en main et importation</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>Installer et charger des packages, importer un jeu de données (CSV ou texte tabulé, en précisant l'en-tête, le séparateur de colonnes et le séparateur décimal), puis l'explorer : dimensions, structure et type de chaque variable, résumé statistique rapide. Viennent ensuite la sélection de colonnes et le filtrage de lignes pour isoler des sous-populations.</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a><span class="fu">### Statistique descriptive</span></span>
 <span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="fu">### Méthodes / Outils</span></span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>…</span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="fu">## Application Burkina Faso</span></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>Décrire une étude de cas, des jeux de données, ou des pistes d'adaptation pour le BF.</span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="fu">## Bibliographie commentée</span></span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Auteur (année). *Titre*. **Résumé** : …</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>variables quantitatives : tendance centrale (moyenne, médiane), dispersion (variance, écart-type, étendue, écart interquartile, quantiles), et gestion des valeurs manquantes (NA) ;</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>représentations : histogramme et boîte à moustaches (boxplot) ;</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>variables qualitatives : tableaux d'effectifs et de fréquences, diagrammes en barres et circulaires.</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="fu">### Vérifier la normalité</span></span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>Étape clé avant tout test paramétrique : l'histogramme avec courbe normale superposée, et le diagramme quantile-quantile (QQ-plot), qui confronte la distribution observée à la loi normale théorique.</span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a><span class="fu">### Tests d'hypothèses et régression</span></span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>Choisir et interpréter les tests usuels (comparaison de moyennes, tests d'indépendance), comprendre la notion de seuil de signification, et poser une régression pour relier des variables. C'est la partie la plus exigeante du cours, et celle que j'ai le plus retravaillée pour l'examen.</span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a><span class="fu">### Reproductibilité</span></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>R Markdown, et aujourd'hui Quarto, permettent de produire des documents qui mêlent code, résultats et texte, rejouables et partageables. C'est d'ailleurs la technologie sur laquelle repose ce livre.</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a><span class="fu">## Une ressource de révision</span></span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>Dans l'esprit de ce projet, j'ai compilé un <span class="co">[</span><span class="ot">*Guide pratique de statistique avec R*</span><span class="co">](https://rpubs.com/nebiegc/guide-stats-r-grca)</span>, publié sur RPubs, basé sur les cours et les TP. Il reprend toute la démarche, du jeu de données brut aux tests d'hypothèses et à la régression, avec du code commenté et des interprétations rédigées. Pensé d'abord pour réviser, il peut servir aux promotions suivantes.</span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>::: callout-tip</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>**Ressource.** <span class="co">[</span><span class="ot">Guide pratique de statistique avec R</span><span class="co">](https://rpubs.com/nebiegc/guide-stats-r-grca)</span> (RPubs), accompagné des <span class="co">[</span><span class="ot">sources R (scripts et matériaux de l'examen)</span><span class="co">](https://drive.google.com/file/d/1qqRgwXlLoV8CPbrm_-e61KZAym-XYcm8/view?usp=drive_link)</span> sur le Drive.</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a><span class="fu">## Application en Afrique de l'Ouest</span></span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>R est mon outil quotidien pour les données de l'eau et des risques en Afrique de l'Ouest. Plusieurs tutoriels publics le montrent à l'œuvre sur des cas concrets : le <span class="co">[</span><span class="ot">prétraitement spatial du sous-bassin de Wayen</span><span class="co">](https://rpubs.com/nebiegc/1338170)</span> (MNT et réseau hydrographique, bassin du Nakanbé) et l'usage de <span class="co">[</span><span class="ot">R comme SIG pour localiser des zones d'exploitation optimale</span><span class="co">](https://rpubs.com/nebiegc/1373145)</span>. La même logique reproductible vaut pour l'analyse de risque, comme dans mon étude des <span class="co">[</span><span class="ot">joints toriques de la navette Challenger</span><span class="co">](https://rpubs.com/nebiegc/1264289)</span>.</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© 2026 NEBIE Gaston Cyrille — Master GRCA, ULiège.</div>   
+      <div class="nav-footer-center">Capitalisation, outils et application en Afrique de l’Ouest.</div>
+    <div class="nav-footer-right"><a href="https://rpubs.com/nebiegc">RPubs</a></div>
+  </div>
+</footer>
 
 
 

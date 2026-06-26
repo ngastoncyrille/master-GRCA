@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Master de spécialisation en Gestion des Risques et Catastrophes à l’ére de l’Anthropocène (GRCA) : prise de notes, synthèse des outils et TFE - 23&nbsp; SIG – Workflows reproductibles</title>
+<title>Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA) : capitalisation, outils et application en Afrique de l’Ouest - 22&nbsp; SIG et télédétection – workflows reproductibles</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,6 +90,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <meta name="quarto:offset" content="../">
 <link href="../02_Tools/EarlyWarning.html" rel="next">
 <link href="../02_Tools/R_intro.html" rel="prev">
+<link href="../images/logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -128,7 +129,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">SIG – Workflows reproductibles</span></h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">SIG et télédétection – workflows reproductibles</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -141,7 +142,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="../">Master de spécialisation en Gestion des Risques et Catastrophes à l’ére de l’Anthropocène (GRCA) : prise de notes, synthèse des outils et TFE</a> 
+      <a href="../">Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA) : capitalisation, outils et application en Afrique de l’Ouest</a> 
+        <div class="sidebar-tools-main">
+  <a href="" class="quarto-reader-toggle sidebar-tool" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
     </div>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
@@ -153,12 +161,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Bienvenue - Note synthétique du Master de spécialisation en Gestion des Risques et Catastrophes à l’ère de l’Anthropocène (GRCA)</span></a>
+  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Gérer les risques à l’ère de l’Anthropocène</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Administration</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Le Master GRCA</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -166,12 +174,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../00_Admin/historique.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Informations générales sur le Master de spécialisation en Gestion des Risques et des Catastrophes</span></a>
+  <a href="../00_Admin/historique.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Informations générales</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../00_Admin/enseignants.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Equipe de coordination</span></a>
+  <a href="../00_Admin/enseignants.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Équipe de coordination</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -179,19 +187,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <a href="../00_Admin/programme.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Programme et équipe enseignante 2025–2026</span></a>
   </div>
 </li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">L’anthropocène</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../00_Anthropocene/introduction.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Introducton</span></a>
+  <a href="../00_Anthropocene/introduction.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Introduction</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -201,19 +199,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../00_Anthropocene/enquete_arte.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">L’Anthropocène : enquête sur une nouvelle ère géologique et ses implications systémiques</span></a>
+  <a href="../00_Anthropocene/enquete_arte.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">L’Anthropocène : enquête sur une nouvelle ère géologique</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Cours</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Bloc 1 — Comprendre les risques</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../01_Cours/ENVT0846_anthropocene.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Introduction à l’anthropocène</span></a>
@@ -239,6 +237,16 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <a href="../01_Cours/RISQ2117_sanitaires.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Les risques et catastrophes environnementaux et sanitaires</span></a>
   </div>
 </li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Bloc 2 — Outils d’analyse et de prévention</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../01_Cours/RISQ2018_SIG_Teledection.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Rôles des systèmes d’information géographique et des techniques géomatiques dans la gestion des risques et catastrophes</span></a>
@@ -246,7 +254,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01_Cours/ENVT3124_R_intro.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Traitement de données environnementales – Partim 2: Initiation à R</span></a>
+  <a href="../01_Cours/ENVT3124_R_intro.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Traitement des données environnementales – Partim 2 : initiation à R</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -259,9 +267,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <a href="../01_Cours/RISQ2020_amenagement_prevention.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Aménagement du territoire et prévention des risques</span></a>
   </div>
 </li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">Bloc 3 — De l’urgence à la résilience</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01_Cours/ENVT0010_seminaire_integre.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Séminaire – Approche intégrée d’une question d’environnement</span></a>
+  <a href="../01_Cours/ENVT0010_seminaire_integre.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Séminaire : approche intégrée d’une question d’environnement</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -271,49 +289,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01_Cours/RISQ2025_migrations_env.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Migrations environnementales</span></a>
+  <a href="../01_Cours/RISQ2025_migrations_env_1.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Migrations environnementales</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01_Cours/RISQ2025_migrations_env_1.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Migrations environnementales</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../01_Cours/RISQ2030_gouvernance_resilience.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Gouvernance, planification d’urgence, résilience et adaptation – REX</span></a>
+  <a href="../01_Cours/RISQ2030_gouvernance_resilience.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Gouvernance, planification d’urgence, résilience et adaptation – REX</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">Outils</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../02_Tools/R_intro.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">R – Notions &amp; recettes utiles</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../02_Tools/SIG.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">SIG – Workflows reproductibles</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../02_Tools/EarlyWarning.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">EWS – Systèmes d’alerte précoce</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">Pays &amp; Applications</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">Boîte à outils &amp; ressources</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -321,34 +309,44 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Burkina_Faso/contexte.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Burkina Faso – Contexte &amp; vulnérabilités</span></a>
+  <a href="../02_Tools/R_intro.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">R – notions et ressources utiles</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Burkina_Faso/application_cours.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Burkina Faso – Applications par cours</span></a>
+  <a href="../02_Tools/SIG.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">SIG et télédétection – workflows reproductibles</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Burkina_Faso/donnees.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Burkina Faso – Données</span></a>
+  <a href="../02_Tools/EarlyWarning.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Systèmes d’alerte précoce – cadre et repères</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Autres_pays/Niger.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Niger – Notes</span></a>
+  <a href="../08_culture-generale/cadre_sendai.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Le cadre de Sendai (2015-2030) : quatre priorités pour réduire les risques de catastrophe</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../06_Pays_Cibles/Autres_pays/Mali.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Mali – Notes</span></a>
+  <a href="../08_culture-generale/Typologie des Aléas Anthropocène.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Typologie des aléas à l’ère de l’Anthropocène</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08_culture-generale/cartographie des structures-GRCA.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Cartographie des structures de gestion des risques : écosystème international et cas ouest-africains</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../08_culture-generale/risque-cap-haitien.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Villes côtières à l’épreuve de l’Anthropocène : le Cap-Haïtien et quatre littoraux comparés</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">03_Opportunites</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">Opportunités &amp; engagement</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -356,14 +354,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../03_Opportunites/conferences.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Conférences &amp; Colloques</span></a>
+  <a href="../03_Opportunites/conferences.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Conférences et colloques</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../10_Certifications-Formations/osons_humanite.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Fiche de capitalisation : Formation Osons l’Humanitaire</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">Veille</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">Réseau professionnel</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -371,29 +374,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../07_Veille/articles.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Veille – Articles scientifiques</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../07_Veille/actualites.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Veille – Actualités &amp; événements</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../07_Veille/politiques.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Veille – Politiques &amp; cadres</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../07_Veille/alertes.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Veille – Alertes &amp; risques</span></a>
+  <a href="../04_Reseau/alumni.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Annuaire de la communauté GRCA</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">aaaaaaaaa</a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">Travail de fin d’études</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -401,37 +389,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../08_culture-generale/cartographie des structures-GRCA.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Rapport analytique sur la cartographie des structures de gestion des risques et des catastrophes à l’ère de l’Anthropocène : Écosystèmes internationaux et études de cas en Afrique de l’Ouest</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../08_culture-generale/Typologie des Aléas Anthropocène.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Typologie des Aléas Anthropocène</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../08_culture-generale/risque-cap-haitien.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Analyse systémique des risques au Cap-Haïtien à l’ère de l’Anthropocène</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../08_culture-generale/cadre_sendai.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Cadre de sendai (2015-2030) : Les 4 priorités pour réduire les risques de Catastrophe</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true">Préparartion des examens du premlier quadrimestre</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../09_prepa_quadri1/intro_anthropo.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">39</span>&nbsp; <span class="chapter-title">Synthèse des révisions pour les examens du premier quadrimestre</span></a>
+  <a href="../05_TFE/draft.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Travail de fin d’études (en cours)</span></a>
   </div>
 </li>
       </ul>
@@ -441,14 +399,23 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#lessentiel" id="toc-lessentiel" class="nav-link active" data-scroll-target="#lessentiel"> <span class="header-section-number">22.1</span> L’essentiel</a></li>
+  <li><a href="#workflow-type" id="toc-workflow-type" class="nav-link" data-scroll-target="#workflow-type"> <span class="header-section-number">22.2</span> Workflow type</a></li>
+  <li><a href="#application-afrique-de-louest" id="toc-application-afrique-de-louest" class="nav-link" data-scroll-target="#application-afrique-de-louest"> <span class="header-section-number">22.3</span> Application Afrique de l’Ouest</a></li>
+  <li><a href="#ressources" id="toc-ressources" class="nav-link" data-scroll-target="#ressources"> <span class="header-section-number">22.4</span> Ressources</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<div class="quarto-title-block"><div><h1 class="title d-none d-lg-block"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">SIG – Workflows reproductibles</span></h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
+<div class="quarto-title-block"><div><h1 class="title d-none d-lg-block"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">SIG et télédétection – workflows reproductibles</span></h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
 </div>
 
 
@@ -462,11 +429,40 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 </header>
 
-<p>Chaines <code>sf</code>, <code>terra</code>, <code>mapview</code>, <code>tmap</code> pour analyses spatiales.</p>
+<p>Cette fiche regroupe l’essentiel des chaînes de traitement géospatial que j’utilise, du vecteur au raster jusqu’à la carte diffusable. Elle complète le chapitre de cours et renvoie aux tutoriels détaillés.</p>
+<section id="lessentiel" class="level2" data-number="22.1">
+<h2 data-number="22.1" class="anchored" data-anchor-id="lessentiel"><span class="header-section-number">22.1</span> L’essentiel</h2>
+<ul>
+<li><strong>Vecteur</strong> : manipulation des couches points/lignes/polygones avec <code>sf</code> (lecture, jointures spatiales, intersections, tampons).</li>
+<li><strong>Raster</strong> : lecture, découpe, ré-échantillonnage et algèbre de bandes avec <code>terra</code>.</li>
+<li><strong>Projections</strong> : toujours vérifier et harmoniser le système de coordonnées (CRS) avant tout croisement de couches ; c’est la source d’erreur la plus fréquente.</li>
+<li><strong>Cartographie</strong> : <code>tmap</code> pour les cartes statiques mises en page, <code>mapview</code> / <code>leaflet</code> pour l’exploration et la diffusion web interactive.</li>
+<li><strong>Télédétection</strong> : indices spectraux courants, NDVI (végétation) et NDWI (eau libre), à partir d’images Landsat ou Sentinel ; classification supervisée ou non supervisée de l’occupation du sol.</li>
+<li><strong>Logiciels</strong> : QGIS et ArcGIS pour le travail interactif ; R (ou Python) pour rendre la chaîne reproductible et automatisable.</li>
+</ul>
+</section>
+<section id="workflow-type" class="level2" data-number="22.2">
+<h2 data-number="22.2" class="anchored" data-anchor-id="workflow-type"><span class="header-section-number">22.2</span> Workflow type</h2>
+<p>Acquisition des données → prétraitement (reprojection, découpe sur l’emprise, masquage) → analyse (indices, classification, croisement de couches) → cartographie → diffusion (carte web ou rapport reproductible). Tout passer par un script rend l’analyse rejouable et documentée, un atout décisif quand les données se mettent à jour.</p>
+</section>
+<section id="application-afrique-de-louest" class="level2" data-number="22.3">
+<h2 data-number="22.3" class="anchored" data-anchor-id="application-afrique-de-louest"><span class="header-section-number">22.3</span> Application Afrique de l’Ouest</h2>
+<p>La même chaîne sert à cartographier l’occupation du sol autour des retenues d’eau, à suivre la dynamique des plans d’eau par NDWI, ou à préparer les couches d’un diagnostic de bassin. Les deux tutoriels liés ci-dessous portent sur des cas burkinabè (sous-bassin de Wayen, exercice Pin blanc).</p>
+</section>
+<section id="ressources" class="level2" data-number="22.4">
+<h2 data-number="22.4" class="anchored" data-anchor-id="ressources"><span class="header-section-number">22.4</span> Ressources</h2>
+<ul>
+<li>Chapitre du cours : <a href="../01_Cours/RISQ2018_SIG_Teledection.html">SIG et télédétection</a>.</li>
+<li><a href="https://rpubs.com/nebiegc/1338170">Prétraitement spatial du sous-bassin de Wayen</a> (RPubs).</li>
+<li><a href="https://rpubs.com/nebiegc/1373145">R comme SIG, exercice Pin blanc</a> (RPubs).</li>
+<li>Fiche connexe : <a href="../02_Tools/R_intro.html">R – notions et ressources utiles</a>.</li>
+<li><a href="https://drive.google.com/file/d/15G1PLSUY8XX9BE2Zcr-jJme2dFsurPkX/view?usp=drive_link">TP noté SIG/télédétection</a> (QGIS, analyse NDVI et classification supervisée Landsat).</li>
+</ul>
 
 
 <!-- -->
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -620,24 +616,56 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="../02_Tools/R_intro.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">R – Notions &amp; recettes utiles</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">R – notions et ressources utiles</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="../02_Tools/EarlyWarning.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">EWS – Systèmes d’alerte précoce</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Systèmes d’alerte précoce – cadre et repères</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Code source</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
 <div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "SIG – Workflows reproductibles"</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "SIG et télédétection – workflows reproductibles"</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">tags:</span><span class="co"> ["outils","SIG"]</span></span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="an">application_bf:</span><span class="co"> true</span></span>
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>Chaines <span class="in">`sf`</span>, <span class="in">`terra`</span>, <span class="in">`mapview`</span>, <span class="in">`tmap`</span> pour analyses spatiales.</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>Cette fiche regroupe l'essentiel des chaînes de traitement géospatial que j'utilise, du vecteur au raster jusqu'à la carte diffusable. Elle complète le chapitre de cours et renvoie aux tutoriels détaillés.</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">## L'essentiel</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Vecteur** : manipulation des couches points/lignes/polygones avec <span class="in">`sf`</span> (lecture, jointures spatiales, intersections, tampons).</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Raster** : lecture, découpe, ré-échantillonnage et algèbre de bandes avec <span class="in">`terra`</span>.</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Projections** : toujours vérifier et harmoniser le système de coordonnées (CRS) avant tout croisement de couches ; c'est la source d'erreur la plus fréquente.</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Cartographie** : <span class="in">`tmap`</span> pour les cartes statiques mises en page, <span class="in">`mapview`</span> / <span class="in">`leaflet`</span> pour l'exploration et la diffusion web interactive.</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Télédétection** : indices spectraux courants, NDVI (végétation) et NDWI (eau libre), à partir d'images Landsat ou Sentinel ; classification supervisée ou non supervisée de l'occupation du sol.</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Logiciels** : QGIS et ArcGIS pour le travail interactif ; R (ou Python) pour rendre la chaîne reproductible et automatisable.</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="fu">## Workflow type</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>Acquisition des données → prétraitement (reprojection, découpe sur l'emprise, masquage) → analyse (indices, classification, croisement de couches) → cartographie → diffusion (carte web ou rapport reproductible). Tout passer par un script rend l'analyse rejouable et documentée, un atout décisif quand les données se mettent à jour.</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="fu">## Application Afrique de l'Ouest</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>La même chaîne sert à cartographier l'occupation du sol autour des retenues d'eau, à suivre la dynamique des plans d'eau par NDWI, ou à préparer les couches d'un diagnostic de bassin. Les deux tutoriels liés ci-dessous portent sur des cas burkinabè (sous-bassin de Wayen, exercice Pin blanc).</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a><span class="fu">## Ressources</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Chapitre du cours : <span class="co">[</span><span class="ot">SIG et télédétection</span><span class="co">](../01_Cours/RISQ2018_SIG_Teledection.qmd)</span>.</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="co">[</span><span class="ot">Prétraitement spatial du sous-bassin de Wayen</span><span class="co">](https://rpubs.com/nebiegc/1338170)</span> (RPubs).</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="co">[</span><span class="ot">R comme SIG, exercice Pin blanc</span><span class="co">](https://rpubs.com/nebiegc/1373145)</span> (RPubs).</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Fiche connexe : <span class="co">[</span><span class="ot">R – notions et ressources utiles</span><span class="co">](R_intro.qmd)</span>.</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="co">[</span><span class="ot">TP noté SIG/télédétection</span><span class="co">](https://drive.google.com/file/d/15G1PLSUY8XX9BE2Zcr-jJme2dFsurPkX/view?usp=drive_link)</span> (QGIS, analyse NDVI et classification supervisée Landsat).</span></code><button title="Copier vers le presse-papier" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">© 2026 NEBIE Gaston Cyrille — Master GRCA, ULiège.</div>   
+      <div class="nav-footer-center">Capitalisation, outils et application en Afrique de l’Ouest.</div>
+    <div class="nav-footer-right"><a href="https://rpubs.com/nebiegc">RPubs</a></div>
+  </div>
+</footer>
 
 
 
